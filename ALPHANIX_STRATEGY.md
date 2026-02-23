@@ -79,3 +79,32 @@
 ### Targeted Toronto Locations
 1.  **Pure Muscle + Fitness (Burlington/GTA):** "The Mecca of the North." Target audience: Serious bodybuilders who value fit/durability.
 2.  **Fortis Fitness (Toronto):** Industrial, raw aesthetic. Matches the "Institutional" vibe perfectly.
+
+## Daily Drop: Feb 23 PM (Alternative Options)
+
+### 1. New Reel Scripts (Process-Focused)
+*   **The "Ink" Mix:**
+    *   *Visual:* Slow-motion stir of white Plastisol ink in the bucket. Thick, creamy texture.
+    *   *Audio:* Wet squish/mixing sound (ASMR).
+    *   *Text:* "Binary Contrast. Pure White on Pitch Black."
+*   **The "Packaging" Seal:**
+    *   *Visual:* Placing the folded hoodie into a frosted slider bag. Zipping it shut.
+    *   *Audio:* The "Zip" sound.
+    *   *Text:* "Sealed for the Dedicated."
+*   **The "Water" Repel (DWR Test):**
+    *   *Visual:* Flicking water droplets onto the bio-washed fabric. They bead up slightly before soaking (showing weave density).
+    *   *Audio:* Water splash.
+    *   *Text:* "Bio-Washed. Pre-Shrunk. Ready."
+
+### 2. New Captions (Grit-Focused)
+*   **Option A:** "No models. No gimmicks. Just 240 GSM of discipline."
+*   **Option B:** "The gym is your church. This is your vestment."
+*   **Option C:** "Toronto Born. Institutional Grade."
+
+### 3. New Hype Mechanic: "The Golden Ticket"
+*   **Concept:** "The Black Card."
+*   **Execution:** Explicitly announce: "The first 50 orders contain a matte black metal card. It grants 20% off for life. Hunt for it."
+
+### 4. New Locations (Community/Streetwear)
+*   **Academy of Lions (Ossington):** The intersection of Crossfit and Hipster Streetwear. High visibility for "Athleisure" crossovers.
+*   **Yorkville (Near OVO Flagship):** Guerilla shoot *outside* the luxury zone to contrast "Institutional Grit" against "Luxury Polish."
