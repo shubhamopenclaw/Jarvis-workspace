@@ -31,7 +31,15 @@
       - Spaced-out chest text.
       - Staggered grid typography (AL/PH/AN/IX).
     - **Design Philosophy**: Masculine, disciplined, typographic. No viral gimmicks. Single color prints (Plastisol).
+  - **Weekly Brand Audit (Feb 23, 2026)**:
+    - **Status**: **GREEN**. Core identity holding strong.
+    - **Slippage Risk**: Low. "DIY" approach risks 'Construction-core' if quality dips, but current intent is premium.
+    - **Repetition**: 100% on target (Standard logo/text variations).
+    - **Flagged**: None. Monitor "Staggered grid" for potential complexity creep.
 
 ## System
 - **Name**: Jarvis
 - **Vibe**: Iron Man inspired.
+- **Protocol (Design)**: Always provide Gemini Prompts (Studio + Atmospheric) immediately after generating a design.
+- **Protocol (Maintenance)**: Automatically update `design_history.md` immediately following design generation.
+- **Protocol (Strategy)**: Enforce "Institutional Athleticism" (FOG x Gymshark) as the non-negotiable brand standard.
