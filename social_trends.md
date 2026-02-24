@@ -1,6 +1,40 @@
 # ALPHANIX Social Trends Log
 Tracks viral audio, visual formats, and emerging trends in gym/streetwear social media.
 
+## 2026-02-24 (Field Trend Scan: T-Shirts)
+
+### 👕 Design Constraints (T-Shirts)
+- **Focus:** Round Neck Oversize & Regular Fit.
+- **Vibe:** "Polished Utility" / "Street-to-Studio".
+
+### 📍 Placement Trends
+- **The "Billboard" Back:** Full-width text across the upper back (shoulder blade to shoulder blade) is the dominant placement for oversized tees.
+- **Micro-Center:** For regular fit, a tiny, centered chest logo (approx 1.5 inch width) replacing the traditional left-chest pocket placement.
+- **Hem-Line Branding:** Text placed at the very bottom hem of the back, visible only when doing movements like squats or deadlifts (the "Action Reveal").
+
+### 🔠 Typography
+- **Style:** **Blocky Retro-Futurism**. Thick, heavy sans-serif fonts with slight geometric alterations (flattened curves, sharp angles).
+- **Alternative:** **Monospaced "Code" Style**. Clean, legible, widely spaced.
+- **Vibe:** Less "Sci-Fi", more "Industrial Archive".
+- **Color:** **Monotone Depth**. Typography is the same hue as the fabric but 2-3 shades darker/lighter (Tonal).
+
+### ⚖️ Logo-to-Text Ratio
+- **Verdict:** **Macro-Text / Micro-Logo.**
+- **Trend:** The brand name or slogan is the graphic. Logos are secondary or removed entirely in favor of typographic identity.
+
+### 🎨 Generated Design: "The Tonal Block"
+- **Base:** Deep Slate or "Oxidized Green" Oversize Tee (Heavyweight).
+- **Front:** Blank or ultra-minimal 1-inch logo centered on sternum.
+- **Back:** "ALPHANIX" in massive, blocky font spanning shoulder-to-shoulder.
+- **Colorway:** Tonal printing (e.g., Dark Green text on Olive Green shirt).
+- **Detail:** Puff print for tactile dimension.
+
+### 🪝 Content Hook: "The Commuter Switch"
+- **Concept:** "Too clean for the gym? Watch this."
+- **Visual:** Start with the outfit styled with a trench coat/blazer (Street). Transition to mid-set heavy lift (Gym).
+- **Audio:** City ambience transitioning into heavy bass gym phonk.
+- **Caption:** "Built for the PR. Styled for the PR (Public Relations)."
+
 ## 2026-02-23 (Field Trend Scan: T-Shirts)
 
 ### 👕 Design Constraints (T-Shirts)

@@ -1,7 +1,9 @@
 # MEMORY.md
 
 ## People
-- **Shubham** (He/Him): Full Stack Developer at Intact (since Dec 2025). Founder of ALPHANIX. Passionate about tech.
+- **Shubham** (He/Him): Full Stack Developer at Intact (since Aug 2024). Founder of ALPHANIX. 
+  - **Tech Stack**: Expert in Java/Spring Boot, React, and HTMX/Alpine.js. Experienced in automation and system refactoring.
+  - **Professional Context**: See `memory/shubham_resume_distilled.md` for full resume details.
 - **Wife**: Works as an insurance broker. Plan is for her to join ALPHANIX full-time once revenue replaces her salary.
 
 ## Projects

@@ -108,3 +108,38 @@
 ### 4. New Locations (Community/Streetwear)
 *   **Academy of Lions (Ossington):** The intersection of Crossfit and Hipster Streetwear. High visibility for "Athleisure" crossovers.
 *   **Yorkville (Near OVO Flagship):** Guerilla shoot *outside* the luxury zone to contrast "Institutional Grit" against "Luxury Polish."
+
+## Daily Drop: Feb 24 (Competitor Intelligence & Strategy)
+
+### 1. Research Insights
+*   **Represent:** Early growth relied on "Loss-Leader Prestige"—selling to luxury retailers (Selfridges) at low/no margin to validate the brand next to high-end labels.
+*   **FOG Essentials:** "Dual-Lane Branding"—using the mainline luxury halo to drive volume for Essentials. Every drop is a "Launch Event," not just inventory replenishment.
+*   **Toronto Market:** Heavy focus on "Athleisure" (Reigning Champ, Lululemon). ALPHANIX differentiates by leaning harder into "Institutional" grit vs. soft lifestyle.
+
+### 2. New Reel Scripts (Model-Free)
+*   **The "Anti-Gravity" Hood:**
+    *   *Visual:* Hoodie on a table. Lift the hood up; it stays standing (stiff, high-GSM fabric).
+    *   *Audio:* "Structure. Not Slouch." (Deep voiceover or text).
+    *   *Text:* "Heavyweight Structure. 240GSM."
+*   **The "Shadow" Scan:**
+    *   *Visual:* Dark room. A single sliver of light moves across the black fabric, revealing the weave texture without showing the full garment.
+    *   *Audio:* Dark cinematic drone.
+    *   *Text:* "In the shadows, we work."
+*   **The "Compression" Stack:**
+    *   *Visual:* Hand pressing down hard on a folded stack of 3 hoodies. It resists. Hand releases, it slowly rises back.
+    *   *Audio:* Hydraulic press sound or deep exhale.
+    *   *Text:* "Dense. Durable. Disciplined."
+
+### 3. New Captions (Minimalist/Authoritative)
+*   **Option A:** "Defined by weight. Validated by gravity. 04.01.26."
+*   **Option B:** "The architecture of silence."
+*   **Option C:** "Institutional Standard. No compromise."
+
+### 4. New Hype Mechanic: "The Prototype Hunt"
+*   **Concept:** Guerilla Drop.
+*   **Execution:** Hide a single "Care Package" (Prototype Hoodie + Card) at a specific Toronto landmark. Post the coordinates/clue on Stories. First to find it keeps it.
+*   **Why:** Creates real-world engagement and highly shareable content.
+
+### 5. New Targeted Locations
+*   **Equinox (Bay St.):** The "Power Suit" of gyms. Target the high-income "Executive Athlete" who wants to look dominant even while sweating.
+*   **Altea Active (Liberty Village/Toronto):** The new "Social Club." High influencer density. Perfect for seeing and being seen.

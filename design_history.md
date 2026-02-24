@@ -138,3 +138,52 @@ Line 3: **ALPHA** (Outline Only, Faint)
 **Color:** "Oxidized Copper" (Muted Green-Grey) on Carbon.
 **Vibe:** Military-Industrial. The shirt acts as a chassis.
 **Status:** GENERATED.
+
+## 2024-02-24 (Procreate Mock-Ups Sync)
+
+### Concept 9: THE BODYBUILDING CLUB (Archive Reference)
+**Theme:** Legacy Athleticism / Club Culture
+**Garment:** Heavyweight Boxy Tee (Black).
+**Placement:** Massive Upper Back.
+**Typography:** Arc-top "ALPHANIX" (Bebas Neue/Impact style) over straight "BODYBUILDING CLUB" (Condensed Sans).
+**Color:** Charcoal on Black (Tonal).
+**Vibe:** Classic bodybuilding heritage, modernized through tonal printing.
+**Status:** ARCHIVED (User Favorite).
+
+### Concept 10: THE GEOMETRIC PHOENIX (Archive Reference)
+**Theme:** Iconic Branding / Centered Strength
+**Garment:** Heavyweight Boxy Tee (Black).
+**Placement:** Center Chest (Large).
+**Graphics:** Geometric Phoenix Logo (Sharp angles, low-poly style) with "ALPHANIX" horizontally nested below/inside the wing span.
+**Color:** Matte Grey on Black.
+**Vibe:** Monolithic. The "Standard" of the brand.
+**Status:** ARCHIVED (User Favorite).
+
+### Concept 11: THE STACKED GRID (Archive Reference)
+**Theme:** Typographic Deconstruction / Verticality
+**Garment:** Heavyweight Boxy Tee (Black).
+**Placement:** Large Back Center.
+**Typography:** 2x2 Grid:
+AL / PH
+AN / IX
+**Color:** Charcoal on Black.
+**Vibe:** Modernist, geometric.
+**Status:** ARCHIVED (User Favorite).
+
+### Concept 12: ATHLETICS TORONTO (Archive Reference)
+**Theme:** Regional Institutionalism
+**Garment:** Heavyweight Boxy Tee (Black).
+**Placement:** Center Back.
+**Graphics:** Muscular Phoenix Figure (Aggressive, anatomical) framed by "ALPHANIX" above and "ATHLETICS TORONTO" below.
+**Color:** Matte Grey on Black.
+**Vibe:** Raw power, local affiliation, hardcore training.
+**Status:** ARCHIVED (User Favorite).
+
+### Concept 13: THE MINIMAL POCKET-SHIELD (Archive Reference)
+**Theme:** Understated Precision
+**Garment:** Heavyweight Boxy Tee (Black).
+**Placement:** Left Chest (Pocket area, small).
+**Graphics:** Small Geometric Phoenix logo.
+**Color:** Matte Grey on Black.
+**Vibe:** Professional, clean, refined athletic wear.
+**Status:** ARCHIVED (User Favorite).
