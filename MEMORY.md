@@ -8,7 +8,7 @@
 - **ALPHANIX**:
   - **Vision**: Premium, minimalistic gym/streetwear. Filling the gap between Gymshark/YoungLA and Essentials (Fear of God).
   - **Product**:
-    - **Vibe**: Rugged, minimalistic, premium.
+    - **Vibe**: Institutional, disciplined, premium. (REPLACED "Rugged" to align with BRAND_VOICE).
     - **Stock (Initial Batch - 540 units)**:
       - *200 GSM Single Jersey (Cotton, Bio/Silicone Wash)*: Black, Denim Blue, Dark Gray (80 Oversize + 80 Regular each).
       - *240 GSM French Terry (Oversize only)*: Half White, Ash (40 pcs each).
@@ -17,7 +17,7 @@
     - **Current**: In-house screen printing (DIY) to minimize dead stock.
     - **Strategy**: Print small batches (5 per design/size), keep ~15 ready, rest on-demand.
     - **Future**: Outsource printing once winning designs are identified.
-    - **Tech**: Screen printing preferred over DTF for premium/rugged feel and longevity.
+    - **Tech**: Screen printing preferred over DTF for premium feel and longevity.
   - **Operations**:
     - **Platform**: Shopify (planning to start 3-month trial closer to April 1st launch).
     - **Shipping**: Stallion Express; free local delivery in GTA.
@@ -31,11 +31,11 @@
       - Spaced-out chest text.
       - Staggered grid typography (AL/PH/AN/IX).
     - **Design Philosophy**: Masculine, disciplined, typographic. No viral gimmicks. Single color prints (Plastisol).
-  - **Weekly Brand Audit (Feb 23, 2026)**:
+  - **Weekly Brand Audit (Feb 24, 2026)**:
     - **Status**: **GREEN**. Core identity holding strong.
-    - **Slippage Risk**: Low. "DIY" approach risks 'Construction-core' if quality dips, but current intent is premium.
+    - **Correction**: "Rugged" removed from Vibe. "Industrial" usage refined to mean "Engineered/Clean" not "Construction-core".
+    - **Slippage Risk**: Low.
     - **Repetition**: 100% on target (Standard logo/text variations).
-    - **Flagged**: None. Monitor "Staggered grid" for potential complexity creep.
 
 ## System
 - **Name**: Jarvis
