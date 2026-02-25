@@ -187,3 +187,19 @@ AN / IX
 **Color:** Matte Grey on Black.
 **Vibe:** Professional, clean, refined athletic wear.
 **Status:** ARCHIVED (User Favorite).
+
+## 2026-02-25 (Daily Design Lab)
+
+### Concept: THE SPINE (Vertical Integration)
+**Theme:** Structural Support / Backbone
+**Garment:** Heavyweight Oversized Tee (Charcoal/Black).
+**Placement:** Vertical Center Back (Spine Line).
+**Graphics:**
+- **Text:** ALPHANIX [MMXXVI]
+- **Orientation:** Vertical (Top to Bottom), running exactly down the spine.
+- **Font:** Bebas Neue (Bold, Condensed) or Druk Wide.
+- **Detail:** A thin, single line runs through the text, splitting the letters.
+**Why it works:**
+1. **Unique Placement:** Emphasizes back width and taper.
+2. **Lifting Alignment:** Aligns with bench/bar.
+3. **Minimal Front:** Blank chest, tiny hem tag.
