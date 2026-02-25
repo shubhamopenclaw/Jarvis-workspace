@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+credentials*
+id_rsa*
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+dist/
+build/
+temp/
+.cache/
+
+# OpenClaw specific (if any temp files)
+.openclaw/temp/
