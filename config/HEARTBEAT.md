@@ -5,6 +5,7 @@
 # If nothing needs attention, reply HEARTBEAT_OK.
 
 ## 🔄 Critical Rotation (Daily)
+- **Memory Cleanup:** Between 00:00-01:00 UTC, run `node scripts/memory_cleanup.js` to archive logs older than 48h.
 - **Memory Review:** Read `memory/YYYY-MM-DD.md` (today + yesterday) to ensure context continuity.
 - **Calendar Check:** Check for upcoming events or launch milestones in the next 24-48h.
 - **System Sync:** Confirm all automated cron jobs are enabled and scheduled correctly.
