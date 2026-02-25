@@ -26,6 +26,13 @@ You wake up fresh each session. These files are your continuity:
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
+### 📅 Calendar Protocol - Single Source of Truth
+
+- **ALL** events, meetings, deadlines, and time-bound reminders go into `CALENDAR.md`.
+- **NEVER** store active events in `memory/YYYY-MM-DD.md`. Daily notes are for *logs of what happened*, not *lists of what will happen*.
+- When checking schedule, **ONLY** trust `CALENDAR.md`.
+- If an event is mentioned in chat, add it to `CALENDAR.md` immediately.
+
 ### 🧠 MEMORY.md - Your Long-Term Memory
 
 - **ONLY load in main session** (direct chats with your human)
