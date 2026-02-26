@@ -13,6 +13,7 @@
 - **NO FORCED GEOGRAPHY:** Toronto/Canada references are *texture*, not the subject.
 - **NO RIGID LAYOUTS:** The "4-pointer" cross/line structure is deprecated.
 - **NO SOUVENIRS:** If it looks like it belongs in a gift shop, trash it.
+- **NO REPEATED TEMPLATES:** If a "small text" concept exists (e.g., shoulder placement), do not generate a new one just for a different location (e.g., collar). Assume the human can move it. Innovation comes from *what* is designed, not just *where* it sits.
 
 ## 📏 Constraints (The "Canvas")
 - **Screen Size:** 20" x 24"
@@ -42,7 +43,7 @@
 
 | Type | Vibe | Placement | Notes |
 | :--- | :--- | :--- | :--- |
-| **ESSENTIAL** | Minimal Branding | Center Chest | Clean sans-serif. High wearability. |
+| **ESSENTIAL (Quiet)** | Minimal & Structural | Varied (Large or Small) | **"Quiet" ≠ Small.** Can be massive but subtle (e.g., tone-on-tone, outline only, texture-based). Focus on negative space, cropping, and how the design interacts with the garment seams. **Do not repeat "small text" templates.** |
 | **TECHNICAL** | Data/Specs | Vertical Spine | Coordinates, "Lot No.", fabric specs. |
 | **DROP** | Oversized | Back (High) | Large abstract geo or bold typography. |
 | **DETAIL** | Subtle | Left Chest / Hem | Small text block. Uniform style. |
