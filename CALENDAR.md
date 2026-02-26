@@ -1,13 +1,12 @@
-# CALENDAR.md - The Schedule
+# CALENDAR.md
 
-**Single Source of Truth for Events**
-- Do not duplicate events in daily memory files.
-- Format: `[YYYY-MM-DD HH:MM] Event Description (Status)`
-- Sort chronologically.
+## 2026-02-24 (Tuesday)
+- [x] FDM Meeting (Check-in. Full-time employer, contracted to Intact).
+- [x] Figma Website Design Session (Completed).
 
-## Upcoming Events
+## 2026-02-25 (Wednesday)
+- **02:00 PM:** Review Calendar Sync options (ICS vs Browser).
 
-## Recurring
-
-- **Every Day**:
-  - [09:00 EST] FDM Standup (Mon-Fri)
+## Pending Tasks [ ]
+- [ ] Setup Shopify 3-month trial (Target: March 20th)
+- [ ] Finalize "The Architect" screen exposure test
