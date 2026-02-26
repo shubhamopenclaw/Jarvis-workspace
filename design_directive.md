@@ -49,11 +49,38 @@
 | **QUIET** | **"The Coordinate"** | Spine/Ribcage | Vertical text line. Technical data look. |
 | **QUIET** | **"The Essential"** | Center Chest (Small) | Clean sans-serif brand name. "Fear of God" centered spacing. |
 
-## ⚙️ Prompting Strategy (for AI Generation)
-*When generating designs, use these structural tokens:*
-- **Style:** "Flat vector," "One-color screen print," "High contrast black and white," "Minimalist streetwear."
-- **Composition:** "Centered symmetry," "Vertical stacking," "Negative space heavyweight."
-- **Mood:** "Industrial," "Brutalist," "Luxury Gym," "Toronto Night."
+## ⚙️ Prompting Strategy (STRICT)
+
+**Output Requirements:**
+For each design concept, output TWO distinct Gemini Prompts + a Technical Breakdown.
+
+1.  **Technical Breakdown:**
+    *   **Placement:** (e.g., Center Chest, Back Vertical)
+    *   **Max Dimensions:** (e.g., 10" x 12")
+    *   **Ink:** (e.g., White Plastisol, Puff Print)
+    *   **Typography:** (e.g., Montserrat Bold, spacing 200)
+
+2.  **Prompt 1: The "Studio" Shot (Verification)**
+    *   **Goal:** Crisp, clean product verification on white.
+    *   **Format:** `A high-resolution product shot of a black heavyweight t-shirt folded neatly on a white surface. The graphic [Design Description] is printed in thick white plastisol ink. 8k, photorealistic, studio lighting, sharp focus.`
+
+3.  **Prompt 2: The "Atmospheric" Shot (Vibe)**
+    *   **Goal:** Gritty, real-world context.
+    *   **Format:** `A cinematic shot of a black t-shirt hanging on a rusted metal locker in a cold, dim gym locker room. Toronto morning light filtering through a high window. The graphic [Design Description] is visible. 35mm film grain, moody, desaturated, street photography style.`
+
+### Example Output Structure:
+```markdown
+### Design: [Name]
+- **Placement:** Center Chest
+- **Ink:** White Plastisol
+- **Font:** Montserrat Bold
+
+> **Gemini Prompt (Studio):**
+> [Insert Prompt 1 Here]
+
+> **Gemini Prompt (Atmospheric):**
+> [Insert Prompt 2 Here]
+```
 
 ## 📂 Design Archive
 *Review past concepts to ensure freshness.*
