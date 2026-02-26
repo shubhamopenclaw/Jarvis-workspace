@@ -33,6 +33,12 @@
       - Spaced-out chest text.
       - Staggered grid typography (AL/PH/AN/IX).
     - **Design Philosophy**: Masculine, disciplined, typographic. No viral gimmicks. Single color prints (Plastisol).
+    - **Design Constraints (Feb 26, 2026)**:
+      - **NO LITERALISM**: Banned combinations like "CN Tower + Barbell". Symbols must be abstract/geometric, not clip-art.
+      - **NO FORCED GEOGRAPHY**: Toronto coords/themes are secondary context, not the main subject.
+      - **NO RIGID LAYOUTS**: Avoid the "4-pointer" line structure. Designs must be free-flowing, using negative space effectively.
+      - **WEARABILITY FIRST**: "Does this look good on a t-shirt?" > "Does this mean something?"
+      - **INSPIRATION**: Gymshark (placement), Essentials (silhouettes/minimalism), YoungLA (trends).
   - **Weekly Brand Audit (Feb 24, 2026)**:
     - **Status**: **GREEN**. Core identity holding strong.
     - **Correction**: "Rugged" removed from Vibe. "Industrial" usage refined to mean "Engineered/Clean" not "Construction-core".
