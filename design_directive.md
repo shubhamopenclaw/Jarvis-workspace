@@ -30,13 +30,15 @@
 *Text is architecture. Use negative space.*
 - **Primary:** Montserrat (Clean, Institutional).
 - **Secondary:** Bebas Neue (Bold, Impact).
+- **Accent:** "Signature" Script or Sharp Serifs. **Use sparingly (Max 10% of collection).**
 - **Style:** Staggered grids, erased text, widely spaced kerning.
 - **Goal:** Free-flowing. Don't confine text to boxes or lines unless intentional.
 
 ### 2. Imagery & Themes
 - **Abstract Geometry:** Sharp angles, wireframes, "eroded" textures.
 - **Institutional:** "ALPHANIX ATHLETIC CLUB" / "PHYS. ED." / "DIVISION 01".
-- **Coordinates:** Subtle use only (e.g., small text block), not the main focus.
+- **Toronto Codes:** Use "T-DOT" or "6IX" as *technical data* (e.g., "SECTOR 6IX", "OPS: T-DOT"), not souvenir text.
+- **Structural Integrity:** Designs that mimic armor plates, spinal columns, or technical schematics. **Avoid overt "Gothic/Dark Wave" unless explicitly requested.**
 
 ### 3. Collection Mix (Target: 5-Piece Drop)
 **Ratio:** Focus on "The Essential" (Wearable) over "The Monument" (Loud).

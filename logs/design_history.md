@@ -102,6 +102,56 @@ Line 3: **ALPHA** (Outline Only, Faint)
 **Typography:** Montserrat Light/Regular.
 **Vibe:** Minimalist luxury.
 
+## 2026-02-26 (Batch 004)
+
+### Concept 1: LOUD ("The Concrete Frame")
+**Vibe:** Architectural, Brutalist, Heavy.
+**Placement:** Full Back (Scapula to Mid-Back).
+**Max Dimensions:** 12" x 14".
+**Ink:** High-Density Puff (Black/Charcoal on Black) OR Grey Plastisol.
+**Description:** A massive, thick rectangular "frame" formed by repeating distressed "ALPHANIX" text. The center negative space holds a sharp geometric Phoenix icon.
+**Innovation:** Text as texture/border.
+
+### Concept 2: QUIET ("The Tonal Stripe")
+**Vibe:** Technical, Engineered, Integrated.
+**Placement:** Horizontal Chest Stripe (Seam to Seam).
+**Max Dimensions:** 18" x 2".
+**Ink:** Clear Gel / Tonal Black (Gloss on Matte).
+**Description:** A wide horizontal band of TONAL text: "ALPHANIX // ENGINEERED FOR DISCIPLINE // [MMXXVI]". Creates a "seam" or structural tape effect across the chest.
+**Innovation:** Massive size but "Quiet" due to tonal/gloss print. Mimics technical seams.
+
+## 2026-02-26 (Batch 005) - "Dark Wave & Toronto Vibe"
+
+### Concept 1: LOUD ("The Dark Wave Script")
+**Vibe:** Gothic, High-End Streetwear, "YoungLA Dark Wave" energy.
+**Placement:** Center Chest (Large) OR Upper Back.
+**Ink:** High-Gloss Black / White Puff.
+**Description:** Sharp, aggressive Blackletter/Gothic text ("ALPHANIX") with a delicate "Div. 06" signature script below. The text has a "liquid metal/chrome" texture.
+**Innovation:** Combines aggression with elegance.
+
+### Concept 2: QUIET ("The Armored Spine")
+**Vibe:** Technical, "Batman" Armor, Structural.
+**Placement:** Vertical Spine (Full Length).
+**Ink:** Matte Grey / Clear Gel.
+**Description:** A segmented vertical column of data resembling a robotic spine or armor plating. Inside each segment is micro-text ("OPS: T-DOT", "MMXXVI").
+**Innovation:** Transforms vertical text into biological/mechanical structure.
+
+## 2026-02-26 (Batch 006 - REVISED) - "The Monolith"
+
+### Concept 1: LOUD ("The Vertices")
+**Vibe:** Architectural, Sharp, Massive.
+**Placement:** Full Back (Blade to Blade).
+**Ink:** White Plastisol (Clean).
+**Description:** A pure typographic structure. No boxes, no barcodes. Just "ALPHA" stacked over "NIX" in massive, justified block text. Looks like a concrete slab.
+**Why it works:** Screams the name but stays disciplined. "Brand Billboard."
+
+### Concept 2: QUIET ("The Shoulder Seam Integration")
+**Vibe:** Anatomical, Engineered, Subtle.
+**Placement:** Left Shoulder Seam (Following the stitching line).
+**Ink:** High-Density (Puff) Tonal Black or Matte Grey.
+**Description:** A single line of raised (High Density) text ("ALPHANIX [EST. MMXXVI]") running *along* the shoulder seam from neck to shoulder cap.
+**Innovation:** Highlights physique (traps/shoulders) using garment construction lines.
+
 ## 2026-02-23 (Daily Institutional Design)
 
 ### Concept 6: THE ARCHITECT [PHASE 1]
