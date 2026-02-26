@@ -54,3 +54,7 @@
 - **Style:** "Flat vector," "One-color screen print," "High contrast black and white," "Minimalist streetwear."
 - **Composition:** "Centered symmetry," "Vertical stacking," "Negative space heavyweight."
 - **Mood:** "Industrial," "Brutalist," "Luxury Gym," "Toronto Night."
+
+## 📂 Design Archive
+*Review past concepts to ensure freshness.*
+- [Consolidated Summaries](consolidated_design_summaries.md)
