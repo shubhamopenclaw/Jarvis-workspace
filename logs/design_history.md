@@ -152,6 +152,38 @@ Line 3: **ALPHA** (Outline Only, Faint)
 **Description:** A single line of raised (High Density) text ("ALPHANIX [EST. MMXXVI]") running *along* the shoulder seam from neck to shoulder cap.
 **Innovation:** Highlights physique (traps/shoulders) using garment construction lines.
 
+## 2026-02-26 (Batch 007 - REVISED) - "The Void & The Hem"
+
+### Concept 1: LOUD ("The Negative Cross")
+**Vibe:** Architectural, Brutalist, High-Contrast.
+**Placement:** Full Back (Centered).
+**Ink:** White Plastisol (Solid Block).
+**Description:** A massive solid white square block (12" x 12"). The word "ALPHANIX" is **cut out** in negative space (fabric shows through). A thin line slices the design.
+**Innovation:** Uses maximum ink coverage but branding is "negative space." Stenciled crate look.
+
+### Concept 2: QUIET ("The Hem Code")
+**Vibe:** Technical, Data-Driven, Asymmetric.
+**Placement:** Front Left Hem (Bottom Corner).
+**Ink:** Matte Grey (Subtle) or High-Density Black.
+**Description:** A strict 3-line data stack ("ALPHANIX [DIV. 06]", "LOT: 007", "ENGINEERED IN TORONTO") printed directly on the fabric. Chest is blank.
+**Innovation:** Pushes branding to a utility label position. "Issued Gear" vibe.
+
+## 2026-02-26 (Batch 008) - "Industrial Containment"
+
+### Concept 1: LOUD ("The Heavy Bracket")
+**Vibe:** Industrial, Cargo, Military.
+**Placement:** Full Back (Center Scapula).
+**Ink:** White Plastisol (Thick).
+**Description:** Two massive square brackets `[ ]` enclosing the stacked text "ALPHA / NIX". Uses a bold military stencil font.
+**Why it works:** Frames the back width like cargo or heavy machinery labeling.
+
+### Concept 2: QUIET ("The Ribcage Data")
+**Vibe:** Hidden Tech, Tactical.
+**Placement:** Right Side Seam (Vertical Ribcage).
+**Ink:** Matte Grey (Subtle).
+**Description:** A single vertical line of technical text ("OPS: TORONTO // DIV-06") running *up* the ribcage seam. Only visible when arms are lifted.
+**Innovation:** Invisible branding until movement occurs. "Discovery" detail.
+
 ## 2026-02-23 (Daily Institutional Design)
 
 ### Concept 6: THE ARCHITECT [PHASE 1]
