@@ -21,7 +21,7 @@
 ## 🧬 Design Pillars
 
 ### 1. Typography & Composition
-*Text is architecture. Use negative space.*
+*Text is architecture.*
 - **Primary Family:** Clean geometric sans-serif (e.g., Montserrat)
 - **Impact Family:** Condensed bold display (e.g., Bebas Neue)
 - **Accent:** "Signature" Script or Sharp Serifs. **Use sparingly (Max 10% of collection).**
