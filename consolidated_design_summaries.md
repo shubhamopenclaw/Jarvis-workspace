@@ -20,3 +20,8 @@ Tracking all generated design concepts for the ALPHANIX Design Engine.
 - **LOUD ("The Dark Wave Script"):** Sharp Gothic/Blackletter "ALPHANIX" text with delicate "Div. 06" signature script below. Liquid metal/chrome texture. Inspired by YoungLA Dark Wave.
 - **QUIET ("The Armored Spine"):** A vertical segmented column of data resembling a robotic spine or armor plating. Inside each segment is micro-text ("OPS: T-DOT"). Inspired by Batman/Cyberpunk aesthetics.
 - **Status:** Concepts Generated. Ready for prototyping.
+
+## [270226-19-00] Design-009: "The Shattered Monolith & The Metric Stack"
+- **LOUD ("The Shattered Monolith"):** Massive upper-back "ALPHANIX" logotype fracturing like exploding concrete. High-density white puff print for texture.
+- **QUIET ("The Metric Stack"):** Minimalist center-chest technical data (Prototype/Weight/Origin). Monospaced font in cool grey.
+- **Status:** Concepts Generated. Ready for prototyping.
