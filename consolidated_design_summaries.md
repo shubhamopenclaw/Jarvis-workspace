@@ -25,3 +25,8 @@ Tracking all generated design concepts for the ALPHANIX Design Engine.
 - **LOUD ("The Shattered Monolith"):** Massive upper-back "ALPHANIX" logotype fracturing like exploding concrete. High-density white puff print for texture.
 - **QUIET ("The Metric Stack"):** Minimalist center-chest technical data (Prototype/Weight/Origin). Monospaced font in cool grey.
 - **Status:** Concepts Generated. Ready for prototyping.
+
+## [280226-19-00] Design-014: "The Seismic Shift & The Coordinates Tab"
+- **LOUD ("The Seismic Shift"):** Massive, horizontally split "ALPHANIX" text mimicking a fault line/broken concrete. High-density puff print. Full back placement.
+- **QUIET ("The Coordinates Tab"):** Minimalist rectangular "tag" design printed below the back collar with "ALPHANIX" and Toronto coordinates. Matte grey ink.
+- **Status:** Concepts Generated. Ready for prototyping.
