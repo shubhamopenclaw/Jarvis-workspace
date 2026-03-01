@@ -30,3 +30,9 @@ Tracking all generated design concepts for the ALPHANIX Design Engine.
 - **LOUD ("The Seismic Shift"):** Massive, horizontally split "ALPHANIX" text mimicking a fault line/broken concrete. High-density puff print. Full back placement.
 - **QUIET ("The Coordinates Tab"):** Minimalist rectangular "tag" design printed below the back collar with "ALPHANIX" and Toronto coordinates. Matte grey ink.
 - **Status:** Concepts Generated. Ready for prototyping.
+
+## [010326-19-18] Design-015: "The Kinetic Monolith & The Division Cipher & The Geometric Phoenix"
+- **LOUD ("The Kinetic Monolith"):** Vertical grid-stack (ALPH/ANIX) with vertically offset letters in white puff print. Large back placement.
+- **QUIET ("The Division Cipher"):** Small monospaced technical block (Brand/Div/Coords) in cool grey matte ink. Left chest/neck placement.
+- **GEOMETRIC ("The Geometric Phoenix"):** Abstract deconstructed wireframe phoenix icon using thin intersecting lines. Center chest placement.
+- **Status:** Concepts Generated. Ready for prototyping.
