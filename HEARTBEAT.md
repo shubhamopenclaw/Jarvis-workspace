@@ -5,8 +5,8 @@
 # If nothing needs attention, reply HEARTBEAT_OK.
 
 ## 🚀 Active Operation Protocol
-- **Cron Monitoring:** If a manual cron run is active, check status every 30-60s.
-- **Cron Error Recovery:** Check `openclaw cron list` for 'error' status. If found, attempt manual retry immediately.
+- **SUMMARY UPDATES:** Ensure the detailed 'Gemini Prompts' (Studio Shot) for each design are included in the 'consolidated_design_summaries.md' for every run.
+- **CRON STABILITY:** Verify that all cron jobs are set to `gemini-3-flash-preview` and `thinking: off`.
 - **GitHub Pulse:** Ensure workspace changes are pushed to `Jarvis-workspace` origin.
 
 ## 🛡️ Maintenance

@@ -1,16 +1,24 @@
+# ALPHANIX Design Summaries (Consolidated)
+
+## [020326-05-21] Design-018: "Data Block Protocol" & "Trapezius Line"
+- **LOUD ("Data Block Protocol"):** Massive rectangular back print, stacked "ALPHA-NIX" inside technical frame. Industrial shipping aesthetic.
+  - **Prompt:** "A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium heavyweight oversized cotton t-shirt in Black colour. The model stands with back to camera, looking slightly over the shoulder... large, structured white rectangular block on the center back containing 'ALPHA' and 'NIX' stacked, framed by technical data lines..."
+- **QUIET ("Trapezius Line"):** Left shoulder seam placement. Monospace text following muscle anatomy.
+  - **Prompt:** "A hyper-realistic professional studio photograph... high angle close-up, focusing on the left shoulder and trapezius muscle... single line of small, precision text running along the shoulder seam reading 'ALPHANIX [UNIT 01] // TORONTO', printed in high-density white colour..."
+- **Status:** Concepts Generated. Ready for prototyping.
 
 ## [020326-03-02] Design-017: "Structural Bracing, Monospace Manifest, Deconstructed 'A'"
 - **LOUD ("Structural Bracing"):** Large center chest 'X' frame enclosing the ALPHANIX phoenix logo. Distressed, weathered steel texture.
 - **QUIET ("Monospace Manifest"):** Vertical right-side seam placement. Clean, wide-spaced mono-font with brand values.
 - **GEOMETRIC ("Deconstructed 'A'"):** Minimalist 3-part 'A' symbol in center chest. High-density white puff print.
-- **Status:** Concepts Generated. Ready for prototyping.
+- **Status:** Concepts Generated. Ready for prototyping. (Note: Missing detailed prompts in source file).
 
 ## [020326-03-00] Design-016: "Sector 6ix Vertical & Ops: T-Dot Technical"
 - **LOUD ("Sector 6ix Vertical"):** Massive "ALPHANIX" spine stack (Bebas Neue) intersected by eroded "SECTOR 6IX" stencil. Distressed texture.
+  - **Prompt:** "A hyper-realistic professional studio photograph... wearing a premium heavyweight oversized cotton t-shirt in Black colour. The model stands facing the camera... massive, vertical typographic stack on the center chest reading 'ALPHANIX' in a bold, sans-serif font, intersected by a horizontal, eroded stencil font reading 'SECTOR 6IX'..."
 - **QUIET ("Ops: T-Dot Technical"):** Micro left-chest placement. Sharp horizontal line separating brand name and technical data ("OPS: T-DOT // EST. 2025").
+  - **Prompt:** "A hyper-realistic professional studio photograph... micro left-chest placement... sharp horizontal line separating the brand name 'ALPHANIX' and the technical data 'OPS: T-DOT // EST. 2025'..."
 - **Status:** Concepts Generated. Ready for prototyping.
 
-## [020326-05-21] Design-018: "Data Block Protocol" & "Trapezius Line"
-- **LOUD ("Data Block Protocol"):** Massive rectangular back print, stacked "ALPHA-NIX" inside technical frame. Industrial shipping aesthetic.
-- **QUIET ("Trapezius Line"):** Left shoulder seam placement. Monospace text following muscle anatomy.
-- **Status:** Concepts Generated. Ready for prototyping.
+---
+*Note: This summary is automatically updated by the ALPHANIX Design Engine. Detailed prompts are now included for direct use in Gemini Studio/Midjourney.*
