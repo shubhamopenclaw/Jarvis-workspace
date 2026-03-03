@@ -8,5 +8,6 @@
 - **02:00 PM:** Review Calendar Sync options (ICS vs Browser).
 
 ## Pending Tasks [ ]
+- [ ] 2026-03-03 18:30 (EST): Start on file
 - [ ] Setup Shopify 3-month trial (Target: March 20th)
 - [ ] Finalize "The Architect" screen exposure test
