@@ -32,3 +32,4 @@
 | Date | Design ID | Concepts | Path |
 | :--- | :--- | :--- | :--- |
 | 03/03/26 | Design-002 | LOUD: SECTOR 6IX (Back Stack), QUIET: AX Monogram (Collar) | [designs/Design-002-030326-03-00.md](designs/Design-002-030326-03-00.md) |
+| 03/03/26 | Design-003 | LOUD: SECTOR 6IX ARCHITECTURE, QUIET: THE INSTITUTIONAL LOGO | [designs/Design-003-030326-19-00.md](designs/Design-003-030326-19-00.md) |
