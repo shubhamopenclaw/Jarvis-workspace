@@ -38,3 +38,4 @@
 - **QUIET:** 'INSTITUTIONAL MONOLITH' - Minimalist wide-kerned chest branding (Denim Blue on Heather Grey).
 - **File:** [designs/Design-004-040326-03-00.md](designs/Design-004-040326-03-00.md)
 ---
+| Design-005 | 040326-19-00 | LOUD: T-DOT WIREFRAME / QUIET: INSTITUTIONAL MONOLITH | [View File](designs/Design-005-040326-19-00.md) |
