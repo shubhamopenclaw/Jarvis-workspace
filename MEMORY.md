@@ -21,6 +21,7 @@
     - **Future**: Outsource printing once winning designs are identified.
     - **Tech**: Screen printing preferred over DTF for premium feel and longevity.
   - **Operations**:
+    - **Importing**: Import number confirmed and accessible via CARM portal (CBSA Assessment and Revenue Management).
     - **Platform**: Shopify (planning to start 3-month trial closer to April 1st launch).
     - **Shipping**: Stallion Express; free local delivery in GTA.
     - **Launch Target**: First week of April 2026.

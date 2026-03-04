@@ -33,3 +33,8 @@
 | :--- | :--- | :--- | :--- |
 | 03/03/26 | Design-002 | LOUD: SECTOR 6IX (Back Stack), QUIET: AX Monogram (Collar) | [designs/Design-002-030326-03-00.md](designs/Design-002-030326-03-00.md) |
 | 03/03/26 | Design-003 | LOUD: SECTOR 6IX ARCHITECTURE, QUIET: THE INSTITUTIONAL LOGO | [designs/Design-003-030326-19-00.md](designs/Design-003-030326-19-00.md) |
+### Design-004-040326-03-00 (2026-03-04)
+- **LOUD:** 'ARCHITECTURAL AGGRESSION' - Massive back-print, bold condensed type + eroded skyscraper wireframe (White on Black).
+- **QUIET:** 'INSTITUTIONAL MONOLITH' - Minimalist wide-kerned chest branding (Denim Blue on Heather Grey).
+- **File:** [designs/Design-004-040326-03-00.md](designs/Design-004-040326-03-00.md)
+---

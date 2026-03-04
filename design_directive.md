@@ -58,3 +58,4 @@ For each design concept, output TWO distinct Gemini Prompts + a Technical Breakd
 - [Design-001-020326-20-25](designs/Design-001-020326-20-25.md)
 - [Design-002-030326-03-00](designs/Design-002-030326-03-00.md)
 - [Design-003-030326-19-00](designs/Design-003-030326-19-00.md)
+- [Design-004-040326-03-00](designs/Design-004-040326-03-00.md)
