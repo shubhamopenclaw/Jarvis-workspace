@@ -39,3 +39,11 @@
 - **File:** [designs/Design-004-040326-03-00.md](designs/Design-004-040326-03-00.md)
 ---
 | Design-005 | 040326-19-00 | LOUD: T-DOT WIREFRAME / QUIET: INSTITUTIONAL MONOLITH | [View File](designs/Design-005-040326-19-00.md) |
+
+## [050326-03-00] Design-019: "GRIDLOCK PROTOCOL" & "MONOLITH MINIMAL"
+- **LOUD ("GRIDLOCK PROTOCOL"):** Massive 4x4 typographic grid on the back. Industrial/glitched aesthetic with "eroded" Toronto technical codes (T-DOT, 6IX, 416).
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive 14"x18" white screen-printed graphic... structured 4x4 typographic grid; each cell contains technical Toronto-inspired codes... Bebas Neue font... industrial, glitched aesthetic.`
+- **QUIET ("MONOLITH MINIMAL"):** Understated center-chest branding. Wide-kerned "ALPHANIX" above GPS coordinates (43.6532° N / 79.3832° W).
+  - **Prompt:** `A hyper-realistic professional studio photograph... minimal center-chest graphic... widely spaced, clean Montserrat Light font... razor-thin horizontal line and GPS coordinates... precision typography.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-019-050326-03-00.md](designs/Design-019-050326-03-00.md)
