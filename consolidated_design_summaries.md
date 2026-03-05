@@ -47,3 +47,11 @@
   - **Prompt:** `A hyper-realistic professional studio photograph... minimal center-chest graphic... widely spaced, clean Montserrat Light font... razor-thin horizontal line and GPS coordinates... precision typography.`
 - **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
 - **File:** [designs/Design-019-050326-03-00.md](designs/Design-019-050326-03-00.md)
+
+## [050326-19-00] Design-020: "DISCIPLINE OVERRIDE" & "CORE ESSENCE"
+- **LOUD ("DISCIPLINE OVERRIDE"):** Full back typographic dominance. Staggered "ALPHANIX" shoulders, eroded "01" wireframe, and technical tech-spec overlay blocks.
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive 14"x16" white screen-printed graphic on the back... bold "ALPHANIX" shoulders... large wireframe "01"... vertical tech-spec block reading "SECTOR: 6IX / STATUS: ACTIVE / PROTOCOL: DISCIPLINE"... industrial high-opacity white ink.`
+- **QUIET ("CORE ESSENCE"):** Asymmetric balance. Micro 2x2 chest square with wide-kerned branding + nape-of-neck technical mark.
+  - **Prompt:** `A hyper-realistic professional studio photograph... 2-inch matte grey square on the left chest... "ALPHANIX" in ultra-wide kerning justified to the bottom-right... matte grey plastisol ink texture... precision minimalism.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-020-050326-19-00.md](designs/Design-020-050326-19-00.md)
