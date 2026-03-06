@@ -64,3 +64,11 @@
 - **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
 - **File:** [designs/Design-020-050326-19-00.md](designs/Design-020-050326-19-00.md)
 | 022 | 06-03-26 | SECTOR OPS (LOUD), MONOLITH MINIMAL (QUIET) | [View Concept](designs/Design-022-060326-19-00.md) |
+
+## [060326-19-00] Design-022: "SECTOR OPS" & "MONOLITH MINIMAL"
+- **LOUD ("SECTOR OPS"):** Industrial technicality. Vertical oversized "ALPHANIX" down the spine, intersected by technical data lines ("SECTOR: 6IX", "OPS: TORONTO").
+  - **Prompt:** `A hyper-realistic professional studio photograph... large vertical "ALPHANIX" in condensed bold font running down the spine, intersected by thin horizontal lines containing technical text: "EST. 2024", "SECTOR: 6IX", "OPS: TORONTO". Thick white matte screen-print ink with subtle erosion...`
+- **QUIET ("MONOLITH MINIMAL"):** Sophisticated restraint. Center-chest stack: wide-spaced "ALPHANIX", solid line, and Toronto GPS coordinates.
+  - **Prompt:** `A hyper-realistic professional studio photograph... center chest minimal graphic: three horizontal layers consisting of "ALPHANIX" in tiny, widely-spaced geometric sans-serif, a solid thin line, and geographic coordinates "43.6532° N, 79.3832° W". Subtle matte grey plastisol ink...`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-022-060326-19-00.md](designs/Design-022-060326-19-00.md)
