@@ -27,6 +27,14 @@
   - **Prompt:** "A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium heavyweight oversized cotton t-shirt in Black colour... A minimalist 'A' wireframe graphic and micro-text 'ALPHANIX' are printed on the left chest... vertical line of GPS coordinates on right hip..."
 - **Status:** Concepts Generated. Ready for prototyping.
 
+## [060326-03-00] Design-021: "REDACTED IDENTITY" & "FOUNDATION DATA"
+- **LOUD ("REDACTED IDENTITY"):** Massive back typographic graphic with top-half erasure and struck-through Toronto area codes. Redacted aesthetic.
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive 14"x8" white screen-printed graphic on high back... "ALPHANIX" with top-half redacted... struck-through Toronto area codes "416", "647", "437"... sharp technical stencil font.`
+- **QUIET ("FOUNDATION DATA"):** Extreme minimalist bottom-hem placement. Wide-kerned branding with boxed unit number and technical fabric classification.
+  - **Prompt:** `A hyper-realistic professional studio photograph... focusing on bottom left hem... small matte white text "ALPHANIX" ultra-light wide-kerned... boxed "01"... "HEAVYWEIGHT PROTOCOL" micro-monospace... precision minimalism.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-021-060326-03-00.md](designs/Design-021-060326-03-00.md)
+
 ---
 *Note: This summary is automatically updated by the ALPHANIX Design Engine. Detailed prompts are now included for direct use in Gemini Studio/Midjourney.*
 | Date | Design ID | Concepts | Path |
