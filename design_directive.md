@@ -56,6 +56,7 @@ For each design concept, output TWO distinct Gemini Prompts + a Technical Breakd
 ## 📂 Design Archive
 - [Design-022-060326-19-00](designs/Design-022-060326-19-00.md)
 - [Design-023-070326-03-00](designs/Design-023-070326-03-00.md)
+- [Design-028-070326-19-00](designs/Design-028-070326-19-00.md)
 - [Consolidated Summaries](consolidated_design_summaries.md)
 - [Design-001-020326-20-25](designs/Design-001-020326-20-25.md)
 - [Design-002-030326-03-00](designs/Design-002-030326-03-00.md)

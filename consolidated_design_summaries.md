@@ -35,6 +35,14 @@
 - **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
 - **File:** [designs/Design-021-060326-03-00.md](designs/Design-021-060326-03-00.md)
 
+## [070326-19-00] Design-028: "ARCHITECTURAL EROSION" & "THE MONOLITH"
+- **LOUD ("ARCHITECTURAL EROSION"):** Massive vertical "ALPHANIX" down the left-back, eroded by horizontal wireframes with central technical data ("SECTOR: T-DOT").
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive vertical bold "ALPHANIX" on left-back... horizontal wireframe erosion... central technical block "SECTOR: T-DOT // OPS_ID: 416-647"... thick high-opacity white plastisol ink.`
+- **QUIET ("THE MONOLITH"):** Extreme minimalism on the right rib/side-seam. Vertical wide-kerned branding with a small hollow wireframe square.
+  - **Prompt:** `A hyper-realistic professional studio photograph... vertical ".ALPHANIX / EST. MMXXVI" on right rib... extreme letter spacing... small hollow wireframe square... subtle matte grey plastisol ink.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-028-070326-19-00.md](designs/Design-028-070326-19-00.md)
+
 ---
 *Note: This summary is automatically updated by the ALPHANIX Design Engine. Detailed prompts are now included for direct use in Gemini Studio/Midjourney.*
 | Date | Design ID | Concepts | Path |
