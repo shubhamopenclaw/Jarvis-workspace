@@ -72,3 +72,11 @@
   - **Prompt:** `A hyper-realistic professional studio photograph... center chest minimal graphic: three horizontal layers consisting of "ALPHANIX" in tiny, widely-spaced geometric sans-serif, a solid thin line, and geographic coordinates "43.6532° N, 79.3832° W". Subtle matte grey plastisol ink...`
 - **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
 - **File:** [designs/Design-022-060326-19-00.md](designs/Design-022-060326-19-00.md)
+
+## [070326-03-00] Design-023: "KINETIC VOID" & "AXON-SYSTEM"
+- **LOUD ("KINETIC VOID"):** Massive 14" back graphic "ALPHANIX" with a horizontal "voided" slice containing micro-text "RECOVERY PROTOCOL". High-energy typography with architectural erasure.
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive 14" wide white screen-printed block on the high back... horizontal strip erased from the middle... containing tiny micro-text "RECOVERY PROTOCOL // TORONTO SECTOR"... bold condensed sans-serif.`
+- **QUIET ("AXON-SYSTEM"):** Vertical ribcage typography in cool grey. Ultra-light wide-kerned "ALPHANIX" with a technical "01" box. Precision engineering aesthetic.
+  - **Prompt:** `A hyper-realistic professional studio photograph... vertical typographic line in cool grey matte ink running down the right ribcage... ultra-light wide-kerned vertical text... small outlined box containing "01"... precision minimalism.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-023-070326-03-00.md](designs/Design-023-070326-03-00.md)
