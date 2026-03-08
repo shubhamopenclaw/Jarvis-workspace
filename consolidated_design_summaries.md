@@ -1,5 +1,13 @@
 # ALPHANIX Design Summaries (Consolidated)
 
+## [080326-03-00] Design-029: "STRUCTURAL AXIS" & "ASSET TAG"
+- **LOUD ("STRUCTURAL AXIS"):** Massive typographic 'X' intersecting at the center chest. Intersecting lines: "ALPHANIX / INSTITUTIONAL ATHLETICS" and "SECTOR 6IX / TORONTO OPS".
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive typographic 'X' formed by two intersecting lines of text... "ALPHANIX / INSTITUTIONAL ATHLETICS" and "SECTOR 6IX / TORONTO OPS"... thick white matte screen-print ink.`
+- **QUIET ("ASSET TAG"):** Precision "Property Tag" on the nape of the neck. "ALPHANIX" in a box with "PROPERTY OF UNIT-01" micro-text.
+  - **Prompt:** `A hyper-realistic professional studio photograph... small, precision-printed "Asset Tag" on the nape of the neck... "ALPHANIX" inside a thin rectangular box... "PROPERTY OF UNIT-01" in micro-monospace text... reflective white ink.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-029-080326-03-00.md](designs/Design-029-080326-03-00.md)
+
 ## [020326-05-21] Design-018: "Data Block Protocol" & "Trapezius Line"
 - **LOUD ("Data Block Protocol"):** Massive rectangular back print, stacked "ALPHA-NIX" inside technical frame. Industrial shipping aesthetic.
   - **Prompt:** "A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium heavyweight oversized cotton t-shirt in Black colour. The model stands with back to camera, looking slightly over the shoulder... large, structured white rectangular block on the center back containing 'ALPHA' and 'NIX' stacked, framed by technical data lines..."
