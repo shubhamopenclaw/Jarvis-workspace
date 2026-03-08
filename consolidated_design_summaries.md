@@ -1,3 +1,11 @@
+## [080326-19-00] Design-030: "TECHNICAL DISRUPTION" & "AXIS MINIMAL"
+- **LOUD ("TECHNICAL DISRUPTION"):** Massive back graphic "ALPHANIX" with a horizontal "glitch" offset containing micro-text technical specs (416-CODE, UNIT-01, SECTOR-6IX).
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive "ALPHANIX" on the back... horizontal 2-inch "glitch" offset containing tiny micro-text "416-CODE // UNIT-01 // SECTOR-6IX"... thick white matte screen-print ink.`
+- **QUIET ("AXIS MINIMAL"):** Precision-engineered chest branding. Thin vertical line intersected by horizontal wide-kerned "ALPHANIX" with a boxed "01" at the junction.
+  - **Prompt:** `A hyper-realistic professional studio photograph... left chest minimalist graphic: thin vertical line intersected by "ALPHANIX" in small widely-spaced geometric sans-serif... tiny outlined square containing "01"... subtle matte grey plastisol ink.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-030-080326-19-00.md](designs/Design-030-080326-19-00.md)
+
 # ALPHANIX Design Summaries (Consolidated)
 
 ## [080326-03-00] Design-029: "STRUCTURAL AXIS" & "ASSET TAG"
