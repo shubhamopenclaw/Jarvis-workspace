@@ -1,3 +1,11 @@
+## [090326-19-00] Design-032: "ARCHITECTURAL OVERRIDE" & "TECHNICAL SPEC-06"
+- **LOUD ("ARCHITECTURAL OVERRIDE"):** Vertical back-stack "ALPHANIX" with an isometric wireframe cube override.
+  - **Prompt:** `A hyper-realistic professional studio photograph... large, vertically stacked "ALPHANIX" in a bold condensed geometric sans-serif, with a technical wireframe isometric cube overlapping the bottom "X", printed in thick white colour...`
+- **QUIET ("TECHNICAL SPEC-06"):** Left chest vertical GPS coordinates + "SECTOR 6IX" in micro-typography.
+  - **Prompt:** `A hyper-realistic professional studio photograph... minimalist vertical strip on the left chest featuring technical GPS coordinates and the text "SECTOR 6IX" in a tiny, clean geometric sans-serif with wide kerning...`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-032-090326-19-00.md](designs/Design-032-090326-19-00.md)
+
 ## [090326-03-00] Design-031: "ERODED ARCHITECTURE" & "LATENT GEOMETRY"
 - **LOUD ("ERODED ARCHITECTURE"):** Massive back graphic "ALPHANIX" in Bebas Neue with an eroded wireframe texture. Sub-text "OPS: T-DOT // SECTOR 6IX" in a staggered technical grid.
   - **Prompt:** `A hyper-realistic professional studio photograph... massive, bold, condensed Bebas Neue typography with a realistic eroded wireframe texture... "OPS: T-DOT // SECTOR 6IX" in a clean staggered grid... thick white matte screen-print ink.`
