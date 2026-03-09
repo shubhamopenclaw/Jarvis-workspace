@@ -1,3 +1,11 @@
+## [090326-03-00] Design-031: "ERODED ARCHITECTURE" & "LATENT GEOMETRY"
+- **LOUD ("ERODED ARCHITECTURE"):** Massive back graphic "ALPHANIX" in Bebas Neue with an eroded wireframe texture. Sub-text "OPS: T-DOT // SECTOR 6IX" in a staggered technical grid.
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive, bold, condensed Bebas Neue typography with a realistic eroded wireframe texture... "OPS: T-DOT // SECTOR 6IX" in a clean staggered grid... thick white matte screen-print ink.`
+- **QUIET ("LATENT GEOMETRY"):** Minimalist asymmetric branding. Left collarbone "ALPHANIX" in wide-spaced Montserrat; single sharp 45-degree geometric line on the lower right hip.
+  - **Prompt:** `A hyper-realistic professional studio photograph... small, elegant "ALPHANIX" logo in widely-spaced white Montserrat typography on the left collarbone... sharp 45-degree geometric white line on the lower right hip... thick white matte screen-print ink.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-031-090326-03-00.md](designs/Design-031-090326-03-00.md)
+
 ## [080326-19-00] Design-030: "TECHNICAL DISRUPTION" & "AXIS MINIMAL"
 - **LOUD ("TECHNICAL DISRUPTION"):** Massive back graphic "ALPHANIX" with a horizontal "glitch" offset containing micro-text technical specs (416-CODE, UNIT-01, SECTOR-6IX).
   - **Prompt:** `A hyper-realistic professional studio photograph... massive "ALPHANIX" on the back... horizontal 2-inch "glitch" offset containing tiny micro-text "416-CODE // UNIT-01 // SECTOR-6IX"... thick white matte screen-print ink.`
