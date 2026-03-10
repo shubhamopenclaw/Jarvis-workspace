@@ -1,3 +1,11 @@
+## [100326-03-00] Design-033: "INDUSTRIAL KINETICS" & "MONOLITH SUBSET"
+- **LOUD ("INDUSTRIAL KINETICS"):** Massive vertical "ALPHANIX" back-print with a horizontal "glitch" bar and an isometric wireframe city block overlay.
+  - **Prompt:** `A hyper-realistic professional studio photograph... massive, vertically stacked "ALPHANIX" in bold white Bebas Neue, intersected by a horizontal "glitch" bar containing micro-text "PROTOCOL-033 // SECTOR-6IX"... architectural isometric wireframe... thick white matte screen-print ink.`
+- **QUIET ("MONOLITH SUBSET"):** Left ribcage vertical branding + Nape-of-neck technical asset tag. Precision minimalism in matte grey.
+  - **Prompt:** `A hyper-realistic professional studio photograph... minimalist vertical line of text running down the left ribcage: "ALPHANIX / UNIT-033 / TORONTO" in small, ultra-wide kerned geometric sans-serif... tiny outlined box "01" on the nape... matte grey screen-print ink.`
+- **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
+- **File:** [designs/Design-033-100326-03-00.md](designs/Design-033-100326-03-00.md)
+
 ## [090326-19-00] Design-032: "ARCHITECTURAL OVERRIDE" & "TECHNICAL SPEC-06"
 - **LOUD ("ARCHITECTURAL OVERRIDE"):** Vertical back-stack "ALPHANIX" with an isometric wireframe cube override.
   - **Prompt:** `A hyper-realistic professional studio photograph... large, vertically stacked "ALPHANIX" in a bold condensed geometric sans-serif, with a technical wireframe isometric cube overlapping the bottom "X", printed in thick white colour...`
