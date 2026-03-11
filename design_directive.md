@@ -1,76 +1,20 @@
-# ALPHANIX Design Directive (Rev. Feb 26, 2026)
-# Reference for Automated Design Generation
+# ALPHANIX Design Directive
 
-## 🎨 Aesthetic: "Institutional Athleticism"
-**The Vibe:** A hybrid of **Gymshark's sleekness** and **Essentials' silhouette**, with **YoungLA's trend awareness**.
-- **Keywords:** Premium, Disciplined, Typographic, "Quiet Luxury."
-- **Color Palette:** Monochrome (Black, White, Grey, Denim Blue). High contrast.
-- **Print Tech:** Single Color Plastisol. No gradients.
-- **Rule #1:** Wearability First. If it looks like a souvenir or clip-art, kill it.
+## Objective
+Generate innovative, trend-forward streetwear designs that move AWAY from technical/institutional aesthetics.
 
-## 🚫 BANNED ELEMENTS (Strict)
-- **NO LITERALISM:** No cartoonish fitness icons.
-- **NO RIGID LAYOUTS:**
-- **NO SOUVENIRS:** If it looks like it belongs in a gift shop, trash it.
-- **NO REPEATED TEMPLATES:** If a "small text" concept exists (e.g., shoulder placement), do not generate a new one just for a different location (e.g., collar). Assume the human can move it. Innovation comes from *what* is designed, not just *where* it sits.
+## Core Rules
+1. **Live Research**: Every design cycle MUST start with a `web_search` for current 2026 streetwear and fitness apparel trends.
+2. **Strict Variety**: Check `design_history.md` and `consolidated_design_summaries.md` before finalizing any concept.
+3. **Banned Elements**:
+   - No "Sector 6ix" / "Ops T-Dot" / Coords.
+   - No "Institutional Athleticism" mentions.
+   - No 4-pointer grid technical blocks.
+   - No "monolith" or "monument" repetitions unless the style is radically different.
+4. **Brand Consistency**: The only allowed text is "ALPHANIX".
 
-## 📏 Constraints (The "Canvas")
-- **Screen Size:** 20" x 24"
-- **Max Print Area:** ~14" x 18".
-
-## 🧬 Design Pillars
-
-### 1. Typography & Composition
-*Text is architecture.*
-- **Primary Family:** Clean geometric sans-serif (e.g., Montserrat)
-- **Impact Family:** Condensed bold display (e.g., Bebas Neue)
-- **Accent:** "Signature" Script or Sharp Serifs. **Use sparingly (Max 10% of collection).**
-- **Style:** Staggered grids, erased text, widely spaced kerning.
-- **Goal:** Free-flowing. Don't confine text to boxes or lines unless intentional.
-
-### 2. Imagery & Themes
-- **Abstract Geometry:** Sharp angles, wireframes, "eroded" textures.
-- **Toronto Codes:** Use "T-DOT" or "6IX" etc as *technical data* (e.g., "SECTOR 6IX", "OPS: T-DOT"), not souvenir text.
-
-## ⚙️ Prompting Strategy (STRICT)
-
-**ALPHANIX Primary Model Identity**
-`Male, age 30–35, thick dark brown hair styled short and clean, light stubble beard, symmetrical masculine facial structure, strong square jawline, straight nose, defined cheekbones, deep-set brown eyes, athletic broad-shouldered build, muscular chest and arms, defined but not exaggerated physique, 10–12% body fat, tall proportions, calm confident expression, no tattoos, no jewelry. Physique consistent across all renders.`
-
-**Output Requirements:**
-For each design concept, output TWO distinct Gemini Prompts + a Technical Breakdown.
-
-1.  **Technical Breakdown:**
-    *   **Placement:** (e.g., Center Chest, Back Vertical)
-    *   **Max Dimensions:** (e.g., 10" x 12")
-    *   **Ink:** (e.g., White Plastisol, Puff Print)
-
-2.  **Prompt 1: The "Studio" Shot (Verification)**
-    *   **Goal:** Crisp, clean premium product verification with consistent ALPHANIX identity.
-    *   **Format:** `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium heavyweight oversized cotton t-shirt in Black colour. The model stands confidently against a soft off-white seamless studio background with subtle gradient shadow. High-end commercial fitness lighting with soft overhead key light and controlled rim light outlining the shoulders and traps. The graphic [Design Description] is printed in thick white colour using matte screen-print ink. Allow only natural fabric folds. Shot on an 85mm lens, photorealistic, sharp focus, clean editorial campaign aesthetic, rugged luxury fitness brand.`
-
-3.  **Prompt 2: The "Atmospheric" Shot (Vibe)**
-    *   **Goal:** Premium brand storytelling with urban Toronto identity.
-    *   **Format:** `A cinematic editorial photograph of a premium heavyweight oversized t-shirt in Black colour hanging naturally from a matte black wooden hanger on a tree branch outdoors. The [Design Description] is printed with a matte white plastisol screen-printing ink. The Toronto skyline is visible in the background at sunrise, softly out of focus with shallow depth of field (85mm lens look). Early morning warm natural light casts subtle highlights and realistic shadows on the fabric. Slight breeze movement creates natural cotton drape. Photorealistic, high-end fashion campaign aesthetic, minimal color grading, rugged luxury mood.`
-
-## 📂 Design Archive
-- [Design-036-110326-19-00](designs/Design-036-110326-19-00.md)
-- [Design-035-110326-03-00](designs/Design-035-110326-03-00.md)
-- [Design-034-100326-19-00](designs/Design-034-100326-19-00.md)
-- [Design-033-100326-03-00](designs/Design-033-100326-03-00.md)
-- [Design-032-090326-19-00](designs/Design-032-090326-19-00.md)
-- [Design-031-090326-03-00](designs/Design-031-090326-03-00.md)
-- [Design-030-080326-19-00](designs/Design-030-080326-19-00.md)
-- [Design-029-080326-03-00](designs/Design-029-080326-03-00.md)
-- [Design-022-060326-19-00](designs/Design-022-060326-19-00.md)
-- [Design-023-070326-03-00](designs/Design-023-070326-03-00.md)
-- [Design-028-070326-19-00](designs/Design-028-070326-19-00.md)
-- [Consolidated Summaries](consolidated_design_summaries.md)
-- [Design-001-020326-20-25](designs/Design-001-020326-20-25.md)
-- [Design-002-030326-03-00](designs/Design-002-030326-03-00.md)
-- [Design-003-030326-19-00](designs/Design-003-030326-19-00.md)
-- [Design-004-040326-03-00](designs/Design-004-040326-03-00.md)
-- [Design-005-040326-19-00](designs/Design-005-040326-19-00.md)
-- [Design-019-050326-03-00](designs/Design-019-050326-03-00.md)
-- [Design-020-050326-19-00](designs/Design-020-050326-19-00.md)
-- [Design-021-060326-03-00](designs/Design-021-060326-03-00.md)
+## Current Inspiration Focus
+- Abstract geometry.
+- Asymmetrical placements (Shoulder, Hem, Sleeve).
+- Organic/Fluid typography.
+- High-contrast minimalism (not "quiet luxury" repetition).

@@ -8,9 +8,9 @@
 
 ## Projects
 - **ALPHANIX**:
-  - **Vision**: Premium, minimalistic gym/streetwear. Filling the gap between Gymshark/YoungLA and Essentials (Fear of God).
+  - **Vision**: Premium, innovative gym/streetwear. 
   - **Product**:
-    - **Vibe**: Institutional, disciplined, premium. (REPLACED "Rugged" to align with BRAND_VOICE).
+    - **Vibe**: Fresh, high-concept, premium.
     - **Stock (Initial Batch - 540 units)**:
       - *200 GSM Single Jersey (Cotton, Bio/Silicone Wash)*: Black, Denim Blue, Dark Gray (80 Oversize + 80 Regular each).
       - *240 GSM French Terry (Oversize only)*: Half White, Ash (40 pcs each).
@@ -27,29 +27,19 @@
     - **Launch Target**: First week of April 2026.
   - **Brand Aesthetics**:
     - **Logo**: Geometric eagle/phoenix (sharp angles).
-    - **Fonts**: *Montserrat* (Primary/Minimal), *Bebas Neue* (Secondary/Bold). *Copperplate* (tried but less preferred).
-    - **Existing Concepts**: 
-      - Logo with erased line text.
-      - Shoulder print (Gymshark style).
-      - Spaced-out chest text.
-      - Staggered grid typography (AL/PH/AN/IX).
-    - **Design Philosophy**: Masculine, disciplined, typographic. No viral gimmicks. Single color prints (Plastisol).
-    - **Design Constraints (Feb 26, 2026)**:
-      - **NO LITERALISM**: Banned combinations like "CN Tower + Barbell". Symbols must be abstract/geometric, not clip-art.
-      - **NO FORCED GEOGRAPHY**: Toronto coords/themes are secondary context, not the main subject.
-      - **NO RIGID LAYOUTS**: Avoid the "4-pointer" line structure. Designs must be free-flowing, using negative space effectively.
-      - **WEARABILITY FIRST**: "Does this look good on a t-shirt?" > "Does this mean something?"
-      - **INSPIRATION**: Gymshark (placement), Essentials (silhouettes/minimalism), YoungLA (trends).
-  - **Weekly Brand Audit (Feb 24, 2026)**:
-    - **Status**: **GREEN**. Core identity holding strong.
-    - **Correction**: "Rugged" removed from Vibe. "Industrial" usage refined to mean "Engineered/Clean" not "Construction-core".
-    - **Slippage Risk**: Low.
-    - **Repetition**: 100% on target (Standard logo/text variations).
+    - **Fonts**: *Montserrat* (Primary/Minimal), *Bebas Neue* (Secondary/Bold).
+    - **Design Philosophy**: High-concept, trend-aware fitness and streetwear. Each design must be a fresh conceptual departure. No repetitive technical layouts.
+    - **Design Constraints (March 11, 2026)**:
+      - **STRICT NON-REPETITION**: Every design must be verified against `design_history.md`. If a concept, layout, or motif (e.g., technical blocks, grids, sector-based names) is similar to a previous one, it is BANNED.
+      - **SEARCH-DRIVEN CREATIVITY**: Use web-search to identify current trends in fitness apparel (textures, placements, graphic styles).
+      - **BRAND NAME ONLY**: "ALPHANIX" is the only consistent text element. No "Ops T-Dot," "Sector 6ix," or forced coordinates.
+      - **WEARABILITY FIRST**: Ensure designs are aesthetically "wearable" and premium, avoiding cluttered or dated technical styles.
+      - **INSPIRATION**: Dynamic—derived from live research on current industry leaders and emerging aesthetics.
 
 ## System
 - **Name**: Jarvis
 - **Vibe**: Iron Man inspired.
-- **Protocol (Calendar)**: Automatically log any mentioned events, meetings, or time-bound tasks (e.g., "x is at y time") to `CALENDAR.md` without being asked.
-- **Protocol (Design)**: Always provide Gemini Prompts (Studio + Atmospheric) immediately after generating a design.
+- **Protocol (Calendar)**: Automatically log any mentioned events, meetings, or time-bound tasks to `CALENDAR.md`.
+- **Protocol (Design)**: Provide fresh Gemini Prompts based on new research.
 - **Protocol (Maintenance)**: Automatically update `design_history.md` immediately following design generation.
-- **Protocol (Strategy)**: Enforce "Institutional Athleticism" (FOG x Gymshark) as the non-negotiable brand standard.
+- **Protocol (Innovation)**: Actively steer away from previous aesthetics to ensure no two batches look like the same "series".
