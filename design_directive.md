@@ -54,6 +54,7 @@ For each design concept, output TWO distinct Gemini Prompts + a Technical Breakd
     *   **Format:** `A cinematic editorial photograph of a premium heavyweight oversized t-shirt in Black colour hanging naturally from a matte black wooden hanger on a tree branch outdoors. The [Design Description] is printed with a matte white plastisol screen-printing ink. The Toronto skyline is visible in the background at sunrise, softly out of focus with shallow depth of field (85mm lens look). Early morning warm natural light casts subtle highlights and realistic shadows on the fabric. Slight breeze movement creates natural cotton drape. Photorealistic, high-end fashion campaign aesthetic, minimal color grading, rugged luxury mood.`
 
 ## 📂 Design Archive
+- [Design-036-110326-19-00](designs/Design-036-110326-19-00.md)
 - [Design-035-110326-03-00](designs/Design-035-110326-03-00.md)
 - [Design-034-100326-19-00](designs/Design-034-100326-19-00.md)
 - [Design-033-100326-03-00](designs/Design-033-100326-03-00.md)

@@ -140,3 +140,7 @@
 ## Design-035 (2026-03-11 03:00 UTC)
 - **LOUD:** "FRAGMENTED DISCIPLINE" - Large center chest wordmark horizontally sliced into three staggered segments with tiny "SECTOR 6IX" in the gap. High-contrast white on black.
 - **QUIET:** "THE SILENT ARCHITECT" - Minimalist vertical "ALPHANIX" wordmark running down the upper spine with "EST. 2026 / TORONTO" in tiny secondary text. Tonal grey on black.
+
+## Design-036-110326-19-00
+- **LOUD:** "DISTORTED DISCIPLINE" - Glitch/sliced "ALPHANIX" typography with technical T-DOT data block. Center chest.
+- **QUIET:** "MONOLITH MINIMAL" - Vertical side-seam alignment. Wide-kerned ".ALPHANIX / INSTITUTIONAL ATHLETICISM". Stealth Grey.
