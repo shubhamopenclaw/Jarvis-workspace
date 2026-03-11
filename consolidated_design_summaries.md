@@ -136,3 +136,7 @@
   - **Prompt:** `A hyper-realistic professional studio photograph... vertical typographic line in cool grey matte ink running down the right ribcage... ultra-light wide-kerned vertical text... small outlined box containing "01"... precision minimalism.`
 - **Status:** Concepts Generated. Ready for AI rendering / Prototyping.
 - **File:** [designs/Design-023-070326-03-00.md](designs/Design-023-070326-03-00.md)
+
+## Design-035 (2026-03-11 03:00 UTC)
+- **LOUD:** "FRAGMENTED DISCIPLINE" - Large center chest wordmark horizontally sliced into three staggered segments with tiny "SECTOR 6IX" in the gap. High-contrast white on black.
+- **QUIET:** "THE SILENT ARCHITECT" - Minimalist vertical "ALPHANIX" wordmark running down the upper spine with "EST. 2026 / TORONTO" in tiny secondary text. Tonal grey on black.
