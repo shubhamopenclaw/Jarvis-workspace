@@ -43,6 +43,30 @@ Theme: **Institutional Athleticism / Structural Integrity**
 
 ---
 
+## Design 07: "The Primary Construct" (TREND: BOLD COLORS / SEAM MAPPING)
+*   **Name:** The Primary Construct
+*   **Design Intent/Rationale:** Vibrant Red base with high-contrast White "blueprint" lines mapping the torso. Emphasizes the athlete's frame with an 'Institutional' technical feel.
+*   **Technical Breakdown:**
+    *   **Placement:** Full Front (Wrap-around Seam Detail)
+    *   **Max Dimensions:** 18" x 24"
+    *   **Ink:** White Plastisol (Thin lines)
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium heavyweight oversized t-shirt in Vibrant Primary Red. The shirt features a white technical 'seam-mapping' graphic that follows the anatomical lines of the chest and shoulders. The word 'ALPHANIX' is integrated into the upper chest line-work. 85mm lens, high-contrast lighting.`
+
+---
+
+## Design 08: "The Digital Pulse" (TREND: Y2K LAYERED / PUFF GRAPHICS)
+*   **Name:** The Digital Pulse
+*   **Design Intent/Rationale:** Y2K-inspired "Digital Glitch" effect rendered in high-density Electric Green puff ink. Uses an unconventional "over-the-shoulder" wrap placement.
+*   **Technical Breakdown:**
+    *   **Placement:** Left Shoulder Wrap (Front to Back)
+    *   **Max Dimensions:** 12" x 8"
+    *   **Ink:** Electric Green Puff Print (Matte)
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium black oversized t-shirt. A large 'ALPHANIX' logo wraps over the left shoulder in 'Electric Green' matte puff ink with a digital 'step-glitch' distortion effect. 3/4 angle view, futuristic streetwear aesthetic.`
+
+---
+
 # ALPHANIX Design Concepts: 2026-03-01
 Theme: **Institutional Athleticism / Kinetic Geometry**
 

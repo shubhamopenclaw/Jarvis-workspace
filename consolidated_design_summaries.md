@@ -12,3 +12,13 @@
     - **Placement**: Vertical Right Sleeve / Side-Rib Wrap.
     - **Ink**: Off-White / Cream Plastisol.
     - **Gemini Prompt (Studio Shot)**: A professional product shot of a dark charcoal grey oversized drop-shoulder t-shirt. A vertical graphic is printed on the right sleeve, featuring three iterations of the "ALPHANIX" brand name in varying levels of motion blur, creating a high-speed trailing effect. The ink is a soft off-white cream color with a slight tactile raised texture. The lighting is soft and directional, accentuating the oversized silhouette and the sleeve graphic. High-end fashion lookbook style, clean background.
+- **Design 3: "PRIMARY CONSTRUCT" (2026-03-12)**
+    - **Aesthetic**: Technical, Bold, Blueprint-core.
+    - **Graphic**: White anatomical seam-mapping lines on a Vibrant Red base.
+    - **Placement**: Full Front / Seam-Wrap.
+    - **Ink**: White Plastisol.
+- **Design 4: "DIGITAL PULSE" (2026-03-12)**
+    - **Aesthetic**: Neo-Y2K, Glitch, High-Tactile.
+    - **Graphic**: "ALPHANIX" with step-glitch distortion in 3D Electric Green puff.
+    - **Placement**: Left Shoulder Wrap (Front-to-Back).
+    - **Ink**: Electric Green Puff Print.
