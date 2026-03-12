@@ -12,13 +12,17 @@
     - **Placement**: Vertical Right Sleeve / Side-Rib Wrap.
     - **Ink**: Off-White / Cream Plastisol.
     - **Gemini Prompt (Studio Shot)**: A professional product shot of a dark charcoal grey oversized drop-shoulder t-shirt. A vertical graphic is printed on the right sleeve, featuring three iterations of the "ALPHANIX" brand name in varying levels of motion blur, creating a high-speed trailing effect. The ink is a soft off-white cream color with a slight tactile raised texture. The lighting is soft and directional, accentuating the oversized silhouette and the sleeve graphic. High-end fashion lookbook style, clean background.
-- **Design 3: "PRIMARY CONSTRUCT" (2026-03-12)**
+
+## Design-038 (2026-03-12 03:00 UTC) - [PRIMARY & PULSE]
+- **Design 1: "THE PRIMARY CONSTRUCT"**
     - **Aesthetic**: Technical, Bold, Blueprint-core.
     - **Graphic**: White anatomical seam-mapping lines on a Vibrant Red base.
     - **Placement**: Full Front / Seam-Wrap.
     - **Ink**: White Plastisol.
-- **Design 4: "DIGITAL PULSE" (2026-03-12)**
+    - **Gemini Prompt (Studio Shot)**: A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium heavyweight oversized t-shirt in Vibrant Primary Red. The shirt features a white technical 'seam-mapping' graphic that follows the anatomical lines of the chest and shoulders, resembling a structural blueprint. The word 'ALPHANIX' is printed in a clean, bold sans-serif across the upper chest, integrated into the line-work. 85mm lens, high-contrast lighting, sharp focus on the white ink against the red fabric, elite fitness streetwear vibe.
+- **Design 2: "THE DIGITAL PULSE"**
     - **Aesthetic**: Neo-Y2K, Glitch, High-Tactile.
     - **Graphic**: "ALPHANIX" with step-glitch distortion in 3D Electric Green puff.
     - **Placement**: Left Shoulder Wrap (Front-to-Back).
     - **Ink**: Electric Green Puff Print.
+    - **Gemini Prompt (Studio Shot)**: A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium 240 GSM oversized t-shirt in Black. A large 'ALPHANIX' logo wraps over the left shoulder from the collar bone to the shoulder blade. The logo is rendered in an 'Electric Green' matte puff ink with a digital 'step-glitch' distortion effect. The 3D texture of the puff print is clearly visible. Shot from a 3/4 angle to show the wrap-around placement. 85mm lens, moody lighting, futuristic streetwear aesthetic.
