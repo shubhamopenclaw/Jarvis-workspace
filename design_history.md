@@ -1,3 +1,28 @@
+# ALPHANIX Design Concepts: 2026-03-12
+Theme: **Structural Movement / 2026 Trend Integration**
+
+## Design-039: "The Architectural Rib"
+*   **Name:** The Architectural Rib
+*   **Design Intent/Rationale:** Inspired by the 2026 "seam detailing" trend. Uses the brand name as a vertical "spine" to reinforce the garment's silhouette. Tactile and structural.
+*   **Technical Breakdown:**
+    *   **Placement:** Vertical Back Spine (Center)
+    *   **Ink:** Matte Black High-Density Silicone
+    *   **Garment:** Charcoal Grey 300 GSM
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity from the back, wearing a premium 300 GSM heavyweight boxy t-shirt in Charcoal Grey. A vertical 'spine' graphic runs from the collar down the center back, consisting of the word 'ALPHANIX' stacked letter-by-letter in a technical sans-serif font. The print is raised matte black silicone, giving it a tactical, rubberized structural appearance. 85mm lens, crisp focus, high-end brutalist streetwear aesthetic.`
+
+## Design-040: "The Kinetic Wrap"
+*   **Name:** The Kinetic Wrap
+*   **Design Intent/Rationale:** Aligns with the "bold color/dramatic style" trend of 2026. Uses a spiral wrap placement to break traditional print boundaries, conveying fluid motion.
+*   **Technical Breakdown:**
+    *   **Placement:** Lower Hem Spiral Wrap (Front to Back)
+    *   **Ink:** Neon Cobalt Blue Plastisol
+    *   **Garment:** Optic White 240 GSM
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium optic white oversized t-shirt. A vibrant Neon Cobalt Blue graphic wraps around the lower torso, starting at the front left hem and spiraling toward the back right. The graphic is the word 'ALPHANIX' rendered in a fluid, elongated kinetic font. 50mm lens, dynamic pose, high-energy fitness streetwear aesthetic.`
+
+---
+
 # ALPHANIX Design Concepts: 2026-03-02
 Theme: **Institutional Athleticism / Structural Integrity**
 
