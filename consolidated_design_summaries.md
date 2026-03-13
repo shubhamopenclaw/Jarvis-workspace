@@ -1,4 +1,16 @@
 
+## Design-043/044 (2026-03-13 19:00 UTC) - [2026 TREND ENGINE: THERMAL & CRACKLE]
+- **Design 043: "THE THERMAL GRADIENT"**
+    - **Aesthetic**: Fluid, Organic, High-Output.
+    - **Graphic**: Split-fountain thermal heat map.
+    - **Placement**: Asymmetrical Chest to Rib Wrap.
+    - **Ink**: Red/Orange/Purple Gradient on Black.
+- **Design 044: "THE SECONDARY PRIMARY"**
+    - **Aesthetic**: Neo-Vintage, Bold, Structural.
+    - **Graphic**: Massive crackle-ink block typography.
+    - **Placement**: High Chest (Collar-to-Collar).
+    - **Ink**: Off-White Crackle on Royal Cobalt Blue.
+
 ## Design-041/042 (2026-03-13 03:00 UTC) - [2026 TREND ENGINE: PRIMARY & ORGANIC]
 - **Design 041: "THE MONOLITH SEAM"**
     - **Aesthetic**: Tonal, Sculptural, Tacticall.

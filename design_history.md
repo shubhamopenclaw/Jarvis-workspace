@@ -1,4 +1,29 @@
-# ALPHANIX Design Concepts: 2026-03-13
+# ALPHANIX Design Concepts: 2026-03-13 (PM)
+Theme: **Thermal Displacement & Neo-Vintage Cracking**
+
+## Design-043: "The Thermal Gradient"
+*   **Name:** The Thermal Gradient
+*   **Design Intent/Rationale:** Inspired by 2026 thermal/heat-map trends. Signifies the physical output of the athlete. Fluid and organic.
+*   **Technical Breakdown:**
+    *   **Placement:** Chest to Side-Rib Wrap (Asymmetrical)
+    *   **Ink:** Tri-tone Split Fountain (Red/Orange/Purple)
+    *   **Garment:** Matte Black 300 GSM
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium 300 GSM heavyweight boxy t-shirt in Matte Black. The shirt features an asymmetrical 'thermal heat map' graphic wrapping from the center chest around to the right ribs. The word 'ALPHANIX' is distorted within the heat map, rendered in a smooth gradient of Vibrant Red, Burnt Orange, and Deep Purple. 85mm lens, moody high-end editorial.`
+
+## Design-044: "The Secondary Primary"
+*   **Name:** The Secondary Primary
+*   **Design Intent/Rationale:** Blends 2026 "Primary Color" dominance with a "Neo-Vintage" texture. Contrast between clean geometry and raw entropy.
+*   **Technical Breakdown:**
+    *   **Placement:** High Chest (Collar-to-Collar)
+    *   **Ink:** Off-White "Crackle" Ink
+    *   **Garment:** Royal Cobalt Blue 240 GSM
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium oversized t-shirt in Royal Cobalt Blue. Across the very top of the chest, sitting just below the collar, is the word 'ALPHANIX' in massive, bold block lettering. The ink is an off-white 'crackle' print that shows intricate, weathered textures. 50mm lens, low angle, powerful 'Institutional' streetwear aesthetic.`
+
+---
+
+# ALPHANIX Design Concepts: 2026-03-13 (AM)
 Theme: **Primary Tonalism & Digital Overgrowth**
 
 ## Design-041: "The Monolith Seam"
