@@ -1,4 +1,18 @@
 
+## Design-041/042 (2026-03-13 03:00 UTC) - [2026 TREND ENGINE: PRIMARY & ORGANIC]
+- **Design 041: "THE MONOLITH SEAM"**
+    - **Aesthetic**: Tonal, Sculptural, Tacticall.
+    - **Graphic**: High-gloss "harness" lines.
+    - **Placement**: Upper Back / Shoulder Yoke.
+    - **Ink**: High-Gloss Transparent Red Gel on Primary Red.
+    - **Gemini Prompt**: (See design_history.md for full prompt).
+- **Design 042: "THE OVERGROWN LOGIC"**
+    - **Aesthetic**: Digital-Organic, Aggressive, Y2K.
+    - **Graphic**: "Bottom-up" rising digital foliage.
+    - **Placement**: Lower Hem Wrap.
+    - **Ink**: Matte Sage + Metallic Emerald on Electric Forest Green.
+    - **Gemini Prompt**: (See design_history.md for full prompt).
+
 ## Design-039/040 (2026-03-12 19:00 UTC) - [2026 TREND ENGINE]
 - **Design 039: "THE ARCHITECTURAL RIB"**
     - **Aesthetic**: Brutalist, Structural, Tactical.
