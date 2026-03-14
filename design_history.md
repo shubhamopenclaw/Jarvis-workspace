@@ -1,3 +1,28 @@
+# ALPHANIX Design Concepts: 2026-03-14 (AM)
+Theme: **High-Contrast Sculpting & Y2K Layered Geometric**
+
+## Design-045: "The Contrast Piped Pillar"
+*   **Name:** The Contrast Piped Pillar
+*   **Design Intent/Rationale:** Directly leans into the 2026 trend of "contrast piping and seam detailing that sculpt and flatter." Instead of physical piping, we use high-density screen printing to simulate "structural seams" that frame the athlete's torso.
+*   **Technical Breakdown:**
+    *   **Placement:** Vertical Front "Piping" (Shoulder to Hem)
+    *   **Ink:** High-Density Matte White
+    *   **Garment:** Deep Burgundy 300 GSM
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium 300 GSM heavyweight boxy t-shirt in Deep Burgundy. The shirt features two parallel vertical 'piping' lines in high-density matte white ink running from the mid-shoulder down to the bottom hem on the front. Between these lines, the word 'ALPHANIX' is stacked vertically in a micro-typographic technical font. 85mm lens, sharp focus on the raised ink texture, high-end 'Institutional' fitness aesthetic.`
+
+## Design-046: "The Layered Co-ord Block"
+*   **Name:** The Layered Co-ord Block
+*   **Design Intent/Rationale:** Inspired by the "Layered Y2K tops" trend. Uses a "Block-Out" graphic that makes the t-shirt look like it's layered over a secondary technical garment via vibrant color blocking.
+*   **Technical Breakdown:**
+    *   **Placement:** Lower Third Body Block (Full Wrap)
+    *   **Ink:** Matte Neon Orange (Solid Block) + Black Oversized Typography
+    *   **Garment:** Heather Grey 240 GSM
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium oversized t-shirt in Heather Grey. The bottom third of the shirt is completely covered in a solid, vibrant Matte Neon Orange screen print, creating a 'layered co-ord' effect. Superimposed over the orange block is the word 'ALPHANIX' in massive, distorted black typography that bleeds off the bottom hem. 50mm lens, dynamic low-angle shot, futuristic Y2K streetwear vibe.`
+
+---
+
 # ALPHANIX Design Concepts: 2026-03-13 (PM)
 Theme: **Thermal Displacement & Neo-Vintage Cracking**
 

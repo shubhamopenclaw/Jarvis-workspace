@@ -1,4 +1,16 @@
 
+## Design-045/046 (2026-03-14 03:00 UTC) - [2026 TREND ENGINE: SCULPT & LAYER]
+- **Design 045: "THE CONTRAST PIPED PILLAR"**
+    - **Aesthetic**: Structural, Sculptural, Tactical.
+    - **Graphic**: High-density "simulated piping" seams.
+    - **Placement**: Vertical Front (Shoulder to Hem).
+    - **Ink**: High-Density Matte White on Deep Burgundy.
+- **Design 046: "THE LAYERED CO-ORD BLOCK"**
+    - **Aesthetic**: Y2K, High-Contrast, Bold.
+    - **Graphic**: Solid color-block "layered" effect with over-print.
+    - **Placement**: Lower Third Wrap.
+    - **Ink**: Matte Neon Orange + Black on Heather Grey.
+
 ## Design-043/044 (2026-03-13 19:00 UTC) - [2026 TREND ENGINE: THERMAL & CRACKLE]
 - **Design 043: "THE THERMAL GRADIENT"**
     - **Aesthetic**: Fluid, Organic, High-Output.
