@@ -1,3 +1,28 @@
+# ALPHANIX Design Concepts: 2026-03-15 (PM)
+Theme: **Fluid Motion & Structural Inversion**
+
+## Design-051: "The Liquid Gradient Wrap"
+*   **Name:** The Liquid Gradient Wrap
+*   **Design Intent/Rationale:** Captures the 2026 "Fluidity" trend, moving away from rigid blocks into organic, liquid shapes. The wrap-around placement creates a kinetic energy that flows with the athlete's movement.
+*   **Technical Breakdown:**
+    *   **Placement:** Lower Left Hip to Back-Right Wrap
+    *   **Ink:** Deep Ultraviolet to Electric Cobalt Gradient (Split-Fountain)
+    *   **Garment:** Heavyweight Matte Black Cotton (300 GSM)
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of a premium 300 GSM oversized black t-shirt. The shirt features a large, organic 'liquid spill' graphic that wraps from the lower left hip across the side and onto the lower back. The graphic has a smooth gradient transitioning from Deep Ultraviolet to Electric Cobalt. Inside the fluid shape, the word 'ALPHANIX' is visible in a distorted, liquid typography. The lighting is cinematic, highlighting the high-gloss 'wet look' of the ink against the matte fabric. Minimalist background, 8k.`
+
+## Design-052: "The Negative Architect"
+*   **Name:** The Negative Architect
+*   **Design Intent/Rationale:** Explores the "Brutalist" trend of 2026 by using massive ink blocks and negative space. The vertical spine placement emphasizes the anatomical structure of the back.
+*   **Technical Breakdown:**
+    *   **Placement:** Vertical Centered Spine (Nape to Mid-Back)
+    *   **Ink:** Matte Safety Orange (Rubberized Finish)
+    *   **Garment:** Deep Navy Blue Heavyweight Cotton
+*   **Gemini Studio Prompt:**
+    `A high-resolution product shot from the rear of a premium navy blue oversized t-shirt. A massive vertical rectangular block of Matte Safety Orange ink is printed down the center spine from the neck to the mid-back. The word 'ALPHANIX' is precisely cut out of the orange block, revealing the navy blue fabric underneath. The ink has a thick, rubberized texture with sharp, clean edges. Soft directional lighting, architectural fitness vibe, 8k.`
+
+---
+
 # ALPHANIX Design Concepts: 2026-03-15 (AM)
 Theme: **Collar Integration & Anatomical Alignment**
 
@@ -259,3 +284,7 @@ Theme: **Institutional Athleticism / Kinetic Geometry**
     `A hyper-realistic professional studio photograph of the ALPHANIX Primary Model Identity wearing a premium heavyweight oversized t-shirt in Dark Gray. The model stands in a relaxed athletic pose. On the center chest is a large geometric 'Wireframe Phoenix' logo, composed of sharp, thin white intersecting lines forming an abstract bird shape. No solid fills, just clean vector-style linework. Shot on an 85mm lens, sharp focus, high-end commercial fitness lighting, minimal and sophisticated.`
 *   **Atmospheric Prompt:**
     `A cinematic low-angle photograph of the ALPHANIX Primary Model Identity walking through a concrete underpass in Toronto at night. He is wearing the Dark Gray oversized t-shirt with the 'Geometric Phoenix' wireframe logo. The white linework of the logo catches the glow of a nearby streetlamp. High grain, moody urban atmosphere, shallow depth of field, photorealistic, premium streetwear campaign aesthetic.`
+
+- [15-03-26] Design 051: THE LIQUID GRADIENT WRAP (Wrap-around / Ultraviolet-Cobalt)
+- [15-03-26] Design 052: THE NEGATIVE ARCHITECT (Spine / Safety Orange / Negative Space)
+
