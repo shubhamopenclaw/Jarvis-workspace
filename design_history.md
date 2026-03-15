@@ -1,3 +1,28 @@
+# ALPHANIX Design Concepts: 2026-03-15 (AM)
+Theme: **Collar Integration & Anatomical Alignment**
+
+## Design-049: "The Gradient Collar-Crash"
+*   **Name:** The Gradient Collar-Crash
+*   **Design Intent/Rationale:** Explores the "Collar Wrap" trend for 2026, breaking the standard print area boundary. The halftone "gravity" gradient suggests a heavy, falling weight, aligned with the "Brutalist" fitness aesthetic.
+*   **Technical Breakdown:**
+    *   **Placement:** High Chest / Collar Wrap (Printing over the ribbing)
+    *   **Ink:** Neon Green to Emerald Green Halftone Gradient
+    *   **Garment:** Matte Black 300 GSM
+*   **Gemini Studio Prompt:**
+    `A high-resolution studio photograph of a premium 300 GSM heavyweight black t-shirt. The shirt features a massive "ALPHANIX" logo in a heavy, brutalist font that is printed directly over the collar ribbing and onto the upper chest. The logo has a halftone gradient effect, transitioning from a sharp Neon Green at the top to a dark Emerald Green at the bottom. The ink has a slight tactile sheen. Cinematic lighting, sharp focus on the collar-wrap detail, minimalist grey background.`
+
+## Design-050: "The Anatomical Offset"
+*   **Name:** The Anatomical Offset
+*   **Design Intent/Rationale:** Inspired by surgical precision and anatomical mapping. The vertical, staggered placement along the back-left (lat line) emphasizes the athlete's V-taper. High-gloss silicone adds a "wet" performance texture.
+*   **Technical Breakdown:**
+    *   **Placement:** Vertical Back-Left (Anatomical alignment)
+    *   **Ink:** High-Gloss "Blood Red" Silicone
+    *   **Garment:** Heather Grey 240 GSM
+*   **Gemini Studio Prompt:**
+    `A professional product shot of an oversized heather grey streetwear t-shirt. On the back-left side, a vertical "ALPHANIX" wordmark is printed in a high-gloss, deep red silicone ink. The word is split into three segments, slightly offset from each other to follow the natural curve of the back muscles. The red ink is thick and reflective, contrasting with the soft matte texture of the grey fabric. Shot from a rear-diagonal angle, soft studio lighting, high-end lookbook style.`
+
+---
+
 # ALPHANIX Design Concepts: 2026-03-14 (Evening)
 Theme: **Prismatic Fracture & Technical Ventilation**
 

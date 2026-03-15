@@ -1,4 +1,16 @@
 
+## Design-049/050 (2026-03-15 03:00 UTC) - [2026 TREND ENGINE: COLLAR & ANATOMY]
+- **Design 049: "THE GRADIENT COLLAR-CRASH"**
+    - **Aesthetic**: Retro-Aggressive, High-Contrast, Kinetic.
+    - **Graphic**: Sliced "ALPHANIX" wordmark with halftone gravity gradient.
+    - **Placement**: High Chest / Collar Wrap (Printing over the ribbing).
+    - **Ink**: Neon Green to Emerald Halftone on Matte Black.
+- **Design 050: "THE ANATOMICAL OFFSET"**
+    - **Aesthetic**: Technical, Minimalist-Surgical, High-Performance.
+    - **Graphic**: Vertical "ALPHANIX" split into staggered anatomical segments.
+    - **Placement**: Vertical Back-Left (Latissimus alignment).
+    - **Ink**: High-Gloss "Blood Red" Silicone on Heather Grey.
+
 ## Design-047/048 (2026-03-14 19:00 UTC) - [2026 TREND ENGINE: PRISM & VENT]
 - **Design 047: "THE PRISM FRACTURE"**
     - **Aesthetic**: Geometric abstraction, High-Contrast, Kinetic.
