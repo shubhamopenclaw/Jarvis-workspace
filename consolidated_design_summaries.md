@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [16-03-26] Drop: Primary Chromaticism & Layered Blocking
+
+### Design-055: THE PRIMARY SCULPTOR
+- **Vibe**: Structural reinforcement. High-contrast, anatomical, and bold.
+- **Placement**: Shoulder to Chest Wrap (Asymmetrical Harness).
+- **Ink**: High-Density Matte White.
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a 300 GSM Primary Red t-shirt. An asymmetrical 'structural cage' graphic in high-density matte white ink wraps the shoulder and chest. ALPHANIX wordmark embedded in the linework. Architectural fitness aesthetic, 8k.
+
+### Design-056: THE Y2K LAYER-BLOCK
+- **Vibe**: 2026 co-ord illusion. Clean, bold color-blocking, and high-gloss contrast.
+- **Placement**: Bottom 40% Full Body Wrap.
+- **Ink**: Matte Forest Green + High-Gloss Black Typography.
+- **Gemini Prompt (Studio Shot)**: Product shot of an Optic White oversized t-shirt. The bottom 40% is solid Matte Forest Green. Massive high-gloss black 'ALPHANIX' typography overlaps the green block. Minimal Y2K streetwear vibe, 8k.
+
 ## [16-03-26] Drop: Prismatic Distortion & Radial Geometry
 
 ### Design 053: THE RADIAL HALO

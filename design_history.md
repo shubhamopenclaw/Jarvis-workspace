@@ -1,3 +1,28 @@
+# ALPHANIX Design Concepts: 2026-03-16 (PM)
+Theme: **Primary Chromaticism & Y2K Layering**
+
+## Design-055: "The Primary Sculptor"
+*   **Name:** The Primary Sculptor
+*   **Design Intent/Rationale:** Directly targets the 2026 trend of "primary colors" (Primary Red) and "sculptural seam mapping." Uses a bold, wrap-around geometric "cage" to frame the athlete's anatomy.
+*   **Technical Breakdown:**
+    *   **Placement:** Dual Shoulder to Chest Wrap (Asymmetrical "Harness")
+    *   **Ink:** High-Density Matte White
+    *   **Garment:** Primary Red 300 GSM
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of a premium 300 GSM heavyweight t-shirt in Vibrant Primary Red. The shirt features an asymmetrical 'structural cage' graphic in high-density matte white ink that wraps over the left shoulder and curves across the chest. The word 'ALPHANIX' is embedded into the thickest line on the chest. High-density raised ink, architectural fitness aesthetic, 8k.`
+
+## Design-056: "The Y2K Layer-Block"
+*   **Name:** The Y2K Layer-Block
+*   **Design Intent/Rationale:** Visual illusion of a layered co-ord. Uses the 2026 "Forest Green" trend and "Primary White" base.
+*   **Technical Breakdown:**
+    *   **Placement:** Bottom 40% Body Wrap (Full circle)
+    *   **Ink:** Matte Forest Green (Base Block) + High-Gloss Black Typography
+    *   **Garment:** Optic White 240 GSM
+*   **Gemini Studio Prompt:**
+    `A high-resolution product shot of an oversized optic white t-shirt. The bottom 40% is covered in a solid, matte Forest Green screen print. Overlapping this is the word 'ALPHANIX' in massive, high-gloss black typography. Clean studio background, minimal Y2K streetwear vibe, 8k.`
+
+---
+
 # ALPHANIX Design Concepts: 2026-03-15 (PM)
 Theme: **Fluid Motion & Structural Inversion**
 
