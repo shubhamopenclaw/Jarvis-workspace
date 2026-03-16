@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [16-03-26] Drop: Prismatic Distortion & Radial Geometry
+
+### Design 053: THE RADIAL HALO
+- **Vibe**: Framing the athlete. Technical, concentric, and high-spec.
+- **Placement**: Radial Neck/Shoulder (360-degree halo).
+- **Ink**: Primary Cyan + Matte White (Overlapping transparent layers).
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a 300 GSM Optic White t-shirt. A radial 'halo' of concentric geometric rings in Primary Cyan and Matte White circles the collar. ALPHANIX micro-typography is integrated into the rings. Technical streetwear aesthetic, 8k.
+
+### Design 054: THE KINETIC FRACTURE
+- **Vibe**: Motion-triggered geometry. Sharp, high-vis, and aggressive.
+- **Placement**: Right Sleeve to Right Rib (Alignment-based).
+- **Ink**: High-Density Electric Lime (Neon).
+- **Gemini Prompt (Studio Shot)**: Side-profile product shot of a Matte Black oversized t-shirt. A shattered geometric graphic in Neon Electric Lime ink bridges the sleeve and the rib area. The ALPHANIX wordmark is embedded in the shards. Raised ink texture, futuristic athletic vibe, 8k.
+
 ## [15-03-26] Drop: Fluidity & Structural Inversion
 
 ### Design 051: THE LIQUID GRADIENT WRAP
