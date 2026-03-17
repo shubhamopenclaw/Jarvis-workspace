@@ -1,3 +1,28 @@
+# ALPHANIX Design Concepts: 2026-03-17 (AM)
+Theme: **Utility-Tech Shells & Digital Fluidity**
+
+## Design-057: "The Kinetic Shell"
+*   **Name:** The Kinetic Shell
+*   **Design Intent/Rationale:** Directly targets the 2026 "Tech Shell" trend. Uses a "Shell" placement—wrapping around the outer deltoids and upper back to simulate a structural harness. Contrast between matte charcoal fabric and primary cobalt blue.
+*   **Technical Breakdown:**
+    *   **Placement:** Outer Deltoid to Outer Deltoid (Upper back wrap)
+    *   **Ink:** Matte Primary Blue + Clear 3D Silicone Gloss Rim
+    *   **Garment:** Charcoal Grey 300 GSM
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph from the rear-diagonal of a model wearing a premium 300 GSM Charcoal Grey heavyweight t-shirt. The shirt features a "Kinetic Shell" graphic in Matte Primary Cobalt Blue that wraps around both outer shoulders and across the upper back. The word "ALPHANIX" is split across the shoulder shells. The blue ink has a high-density 3D silicone rim that catches the light like a technical structural component. Cinematic lighting, sharp focus on the raised ink texture, elite tech-utility streetwear vibe, 8k.`
+
+## Design-058: "The Digital Gradient Overlay"
+*   **Name:** The Digital Gradient Overlay
+*   **Design Intent/Rationale:** Captures the 2026 "Vibrant Digital Prints" trend. Uses a "Side-Body Rise" placement (hem to chest) with a digital green wash. Distorted typography in negative space.
+*   **Technical Breakdown:**
+    *   **Placement:** Bottom-Right Hem to Center-Chest (Diagonal Wash)
+    *   **Ink:** Neon Emerald to Primary Green (Split Fountain)
+    *   **Garment:** Optic White 240 GSM
+*   **Gemini Studio Prompt:**
+    `A high-resolution product shot of an optic white oversized t-shirt. A vibrant, abstract digital 'wash' graphic in Neon Emerald and Primary Green rises diagonally from the bottom-right hem toward the center chest. The word 'ALPHANIX' is visible in negative space (white fabric) inside the thickest part of the green digital print. The ink has a flat matte finish. Bright studio lighting, clean white background, futuristic digital streetwear aesthetic, 8k.`
+
+---
+
 # ALPHANIX Design Concepts: 2026-03-16 (PM)
 Theme: **Primary Chromaticism & Y2K Layering**
 

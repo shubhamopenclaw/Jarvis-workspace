@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [17-03-26] Drop: Tech-Utility & Digital Fluidity
+
+### Design-057: THE KINETIC SHELL
+- **Vibe**: Structural harness. Technical, utilitarian, and high-contrast.
+- **Placement**: Shoulder-to-Shoulder Shell (Upper Back).
+- **Ink**: Matte Primary Blue + 3D Silicone Gloss.
+- **Gemini Prompt (Studio Shot)**: Rear-diagonal studio photo of a 300 GSM Charcoal Grey t-shirt. A "Kinetic Shell" graphic in Matte Primary Cobalt Blue wraps both outer shoulders and the upper back. Word 'ALPHANIX' split across shoulders. 3D silicone rim catches light. Elite tech-utility vibe, 8k.
+
+### Design-058: THE DIGITAL GRADIENT OVERLAY
+- **Vibe**: Digital wash. Vibrant, fluid, and futuristic.
+- **Placement**: Bottom-Right Hem to Center-Chest (Diagonal).
+- **Ink**: Neon Emerald to Primary Green (Split Fountain).
+- **Gemini Prompt (Studio Shot)**: Product shot of an Optic White oversized t-shirt. A vibrant digital 'wash' in Neon Emerald and Primary Green rises from bottom-right hem to chest. 'ALPHANIX' wordmark in negative space within the print. Futuristic digital streetwear aesthetic, 8k.
+
 ## [16-03-26] Drop: Primary Chromaticism & Layered Blocking
 
 ### Design-055: THE PRIMARY SCULPTOR
