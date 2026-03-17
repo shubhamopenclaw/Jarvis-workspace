@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [17-03-26] Drop: Retro-Athletic & Chromatic Pulse
+
+### Design-061: THE MONOLITH OBLIQUE
+- **Vibe**: Retro-athletic power. Aggressive, weathered, and oversized.
+- **Placement**: Massive Diagonal Side-Wrap (Shoulder to Hip).
+- **Ink**: Off-White "Heavy Crackle" Plastisol (Weathered texture).
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a premium 300 GSM Deep Navy Blue t-shirt. A massive "ALPHANIX" wordmark in Off-White "Heavy Crackle" ink runs diagonally from left shoulder to right hip, bleeding off the side seam. Weathered, vintage-athletic look. 8k.
+
+### Design-062: THE CHROMATIC PULSE-LINE
+- **Vibe**: Fiber-optic anatomical. Minimal, technical, and high-performance.
+- **Placement**: Full Back (Anatomical V-Taper Mapping).
+- **Ink**: Neon Citron to Electric Cyan Gradient + 3D High-Gloss Gel.
+- **Gemini Prompt (Studio Shot)**: Rear product shot of a matte black 240 GSM t-shirt. A single, ultra-thin "Pulse-Line" in Neon Citron to Electric Cyan gradient maps the V-taper from nape to lats. 3D high-gloss gel finish. ALPHANIX micro-typography along the line. Futuristic technical vibe, 8k.
+
 ## [17-03-26] Drop: Graffiti-Tech & Neon Piping
 
 ### Design-059: THE SCRIBBLE CORE
