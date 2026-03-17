@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [17-03-26] Drop: Graffiti-Tech & Neon Piping
+
+### Design-059: THE SCRIBBLE CORE
+- **Vibe**: Controlled chaos. Raw, expressive, and high-energy.
+- **Placement**: Massive Diagonal Wrap (Shoulder to Hip).
+- **Ink**: Matte Neon Citron + High-Gloss Black (Stencil).
+- **Gemini Prompt (Studio Shot)**: Professional studio photograph of a 300 GSM Bone Off-White t-shirt. A massive "scribble" graphic in Matte Neon Citron sweeps diagonally from shoulder to hip. Superimposed "ALPHANIX" in high-gloss black stencil. Raw urban fitness aesthetic, 8k.
+
+### Design-060: THE NEON PIPING ILLUSION
+- **Vibe**: Fiber-optic anatomical. Clean, structural, and futuristic.
+- **Placement**: Side-Seam and Underarm "Vents" (Anatomical).
+- **Ink**: High-Density "Electric Violet" Silicone (3D effect).
+- **Gemini Prompt (Studio Shot)**: Product shot of a 300 GSM Matte Black t-shirt. High-density "Electric Violet" silicone lines run along side seams and underarms, simulating glowing piping. ALPHANIX micro-typography on lower rib. Futuristic tech-wear vibe, 8k.
+
 ## [17-03-26] Drop: Tech-Utility & Digital Fluidity
 
 ### Design-057: THE KINETIC SHELL
