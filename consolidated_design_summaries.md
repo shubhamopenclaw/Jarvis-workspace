@@ -97,3 +97,16 @@
 - **Placement**: Vertical Centered Spine (Nape to Mid-Back).
 - **Ink**: Matte Safety Orange (Negative space cutout).
 - **Gemini Prompt (Studio Shot)**: Professional studio photograph, back view of a model in a Charcoal Grey heavyweight t-shirt. A long, narrow vertical block of Matte Safety Orange ink runs down the center spine. The word 'ALPHANIX' is visible as a negative space cutout, showing the charcoal fabric underneath. High-contrast lighting, 85mm lens, industrial brutalist vibe.
+
+
+### Batch: 2026-03-18 (PM) - Design-063 & 064
+
+#### Design-063: "The Kinetic Fracture-Hem"
+- **Concept:** Shattered Kineticism (Neon Citron/Electric Lime Gradient).
+- **Placement:** Lower Left Hem to Back-Right Wrap.
+- **Studio Prompt:** `A hyper-realistic professional studio photograph of a premium 300 GSM Matte Black heavyweight t-shirt. A massive "shattered" graphic in a Neon Citron to Electric Lime gradient explodes from the front-left bottom hem, wrapping aggressively around the side to the lower back. The word "ALPHANIX" is deconstructed into sharp, kinetic shards within the blast. Each shard has a subtle high-density matte black 3D outline. Low-angle shot, cinematic lighting highlighting the neon ink's vibrancy against the black fabric, futuristic elite fitness streetwear, 8k.`
+
+#### Design-064: "The Chromatic Seam-Lock"
+- **Concept:** Chromatic Seam-Lock (Translucent Cyber-Red 3D Gel).
+- **Placement:** Dual Shoulder-to-Nape "Harness" (Upper Traps & Delts).
+- **Studio Prompt:** `A high-resolution product shot from a high-angle rear-diagonal of a premium Gunmetal Grey 240 GSM t-shirt. A 3D structural "harness" graphic in translucent Cyber-Red liquid gel tracks the natural lines of the upper traps and wraps over the shoulders. The word "ALPHANIX" is micro-printed in crisp white technical typography inside the red gel track at the nape of the neck. The gel has a high-gloss, wet-look finish that catches sharp studio highlights. Professional fitness lookbook style, technical gear aesthetic, 8k.`

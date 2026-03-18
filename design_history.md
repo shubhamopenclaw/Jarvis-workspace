@@ -369,3 +369,6 @@ Theme: **Institutional Athleticism / Kinetic Geometry**
 - [15-03-26] Design 051: THE LIQUID GRADIENT WRAP (Wrap-around / Ultraviolet-Cobalt)
 - [15-03-26] Design 052: THE NEGATIVE ARCHITECT (Spine / Safety Orange / Negative Space)
 
+
+- Design-063: The Kinetic Fracture-Hem (2026-03-18) | Neon Citron/Electric Lime Gradient | Asymmetrical Lower Hem to Back-Right Wrap
+- Design-064: The Chromatic Seam-Lock (2026-03-18) | Translucent Cyber-Red 3D Gel | Dual Shoulder-to-Nape Harness
