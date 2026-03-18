@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [18-03-26] Drop: Kinetic Fracture & Seam-Lock
+
+### Design-063: THE KINETIC FRACTURE-HEM
+- **Vibe**: Shattered energy. Asymmetrical, high-vis, and motion-heavy.
+- **Placement**: Lower Left Hem to Back-Right Wrap.
+- **Ink**: Neon Citron to Electric Lime Gradient (Split-Fountain).
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a premium 300 GSM Matte Black t-shirt. A massive "shattered" graphic in Neon Citron to Electric Lime gradient explodes from the front-left bottom hem to the back. "ALPHANIX" deconstructed into kinetic shards. 8k.
+
+### Design-064: THE CHROMATIC SEAM-LOCK
+- **Vibe**: Cyber-harness. Structural, technical, and premium.
+- **Placement**: Dual Shoulder-to-Nape "Harness" (Upper Traps/Delts).
+- **Ink**: Translucent "Cyber-Red" 3D Gel + White Micro-Typography.
+- **Gemini Prompt (Studio Shot)**: Rear-diagonal high-angle product shot of a Gunmetal Grey 240 GSM t-shirt. A 3D "Cyber-Red" liquid gel track maps the upper traps and shoulders. "ALPHANIX" micro-printed inside the gel track at the nape. Futuristic technical aesthetic, 8k.
+
 ## [17-03-26] Drop: Retro-Athletic & Chromatic Pulse
 
 ### Design-061: THE MONOLITH OBLIQUE
