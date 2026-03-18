@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [18-03-26] Drop: Seam-Sculpt & Cobalt-Block
+
+### Design-065: THE PRIMARY SEAM-SCULPT
+- **Vibe**: Anatomical reinforcement. High-vis, structural, and performance-sculpting.
+- **Placement**: Shoulder-to-Sternum "Harness" + Side-Rib Vents.
+- **Ink**: High-Density "Electric Cyan" Silicone (3D Raised Texture).
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a 300 GSM Matte Black t-shirt. "Electric Cyan" high-density silicone lines map the front anatomical structure, from shoulders to a central sternum lock point. Word 'ALPHANIX' micro-embossed into the cyan silicone on the sternum. Elite technical fitness vibe, 8k.
+
+### Design-066: THE Y2K COBALT-BLOCK
+- **Vibe**: 2026 layered co-ord illusion. Vibrant, bold color-blocking, and high-gloss contrast.
+- **Placement**: Upper Third Shoulder-Cap (Collar to Mid-Bicep).
+- **Ink**: Matte Primary Cobalt Blue (Solid Block) + High-Gloss White Typography.
+- **Gemini Prompt (Studio Shot)**: Product shot of an Optic White 240 GSM oversized t-shirt. The upper third is covered in a solid, matte Primary Cobalt Blue screen print. Massive high-gloss white 'ALPHANIX' typography across back-shoulders. Futuristic Y2K streetwear vibe, 8k.
+
 ## [18-03-26] Drop: Kinetic Fracture & Seam-Lock
 
 ### Design-063: THE KINETIC FRACTURE-HEM
