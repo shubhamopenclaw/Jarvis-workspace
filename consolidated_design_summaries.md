@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [19-03-26] Drop: Tactile Prestige & Pulse-Points
+
+### Design-069: THE TONAL TOPOGRAPHY
+- **Vibe**: Tonal prestige. Quiet, technical, and sophisticated.
+- **Placement**: Asymmetrical Left Chest to Shoulder "Overflow" Wrap.
+- **Ink**: Tonal "Graphite" Grey + Matte Sand-Grain Texture (Raised).
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a 300 GSM Charcoal Grey heavyweight t-shirt. An asymmetrical 'Tonal Topography' graphic maps the left chest and wraps over the shoulder. Tonal Graphite Grey ink with a visible matte sand-grain texture. ALPHANIX eagle logo deconstructed into the lines. 8k.
+
+### Design-070: THE PULSE-POINT MONOLITH
+- **Vibe**: Performance fluidity. Vibrant, structural, and kinetic.
+- **Placement**: Vertical Left Side-Rib (Split across front/back seam).
+- **Ink**: Primary Cobalt Blue + High-Gloss "Clear Water" 3D Gel.
+- **Gemini Prompt (Studio Shot)**: Side-profile product shot of an Optic White 240 GSM oversized t-shirt. A massive vertical 'ALPHANIX' wordmark in Primary Cobalt Blue is printed along the left side rib, split by the side seam. Thick, high-gloss 'Clear Water' 3D gel layered over the blue ink. 8k.
+
 ## [19-03-26] Drop: Thermal Topography & Prism-Block
 
 ### Design-067: THE THERMAL TOPOGRAPH
