@@ -360,6 +360,8 @@ Theme: **Institutional Athleticism / Kinetic Geometry**
 *   **Atmospheric Prompt:**
     `A cinematic low-angle photograph of the ALPHANIX Primary Model Identity walking through a concrete underpass in Toronto at night. He is wearing the Dark Gray oversized t-shirt with the 'Geometric Phoenix' wireframe logo. The white linework of the logo catches the glow of a nearby streetlamp. High grain, moody urban atmosphere, shallow depth of field, photorealistic, premium streetwear campaign aesthetic.`
 
+- [19-03-26] Design 067: THE THERMAL TOPOGRAPH (Chest-Shoulder Wrap / Neon Red-Solar Yellow)
+- [19-03-26] Design 068: THE PRISM-BLOCK PILLAR (Vertical Side-Body / Transparent Primary Blue-Yellow)
 - [18-03-26] Design 065: THE PRIMARY SEAM-SCULPT (Harness-Sternum Wrap / Electric Cyan 3D Silicone)
 - [18-03-26] Design 066: THE Y2K COBALT-BLOCK (Upper Third Shoulder-Cap / Primary Cobalt-White)
 - [18-03-26] Design 063: THE KINETIC FRACTURE-HEM (Lower Hem Wrap / Neon-Citron Gradient)

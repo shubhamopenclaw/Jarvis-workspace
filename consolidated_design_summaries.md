@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [19-03-26] Drop: Thermal Topography & Prism-Block
+
+### Design-067: THE THERMAL TOPOGRAPH
+- **Vibe**: High-energy thermal mapping. Kinetic, organic, and bold.
+- **Placement**: Upper Left Chest to Shoulder "Overflow" Wrap.
+- **Ink**: Neon Red / Electric Orange / Solar Yellow (Tri-tone Split Fountain) + Matte Sand Texture.
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a 300 GSM Charcoal Grey heavyweight t-shirt. A topographical heat-map graphic in Neon Red to Solar Yellow starts on the chest and bleeds over the left shoulder. Word "ALPHANIX" integrated into the lines. Matte "sand-grain" texture on the ink. 8k.
+
+### Design-068: THE PRISM-BLOCK PILLAR
+- **Vibe**: Prismatic structuralism. Primary, transparent, and elongating.
+- **Placement**: Vertical Right Side-Body (Armpit to Hem).
+- **Ink**: Transparent Primary Blue + Transparent Primary Yellow (Overlapping Green) + High-Gloss Black Typography.
+- **Gemini Prompt (Studio Shot)**: Side-profile product shot of an Optic White 240 GSM oversized t-shirt. A massive vertical "Prism-Block" graphic in overlapping transparent Primary Blue and Yellow. ALPHANIX vertically printed in high-gloss black. 8k.
+
 ## [18-03-26] Drop: Seam-Sculpt & Cobalt-Block
 
 ### Design-065: THE PRIMARY SEAM-SCULPT
