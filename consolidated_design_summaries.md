@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [19-03-26] Drop: Digital Kineticism & Glitch-Block
+
+### Design-071: THE NEON NERVE-MAP
+- **Vibe**: Hyper-digital anatomical. High-energy, technical, and kinetic.
+- **Placement**: Scapula-to-Sternum "Circuit" Wrap (Right Back to Front Sternum).
+- **Ink**: Neon "Electric Magenta" + "Liquid Chrome" Silver + 3D Silicone Texture.
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a premium 300 GSM Deep Obsidian (Matte Black) heavyweight t-shirt. A 'Neon Nerve-Map' graphic in Neon Electric Magenta wraps from the right scapula, over the shoulder, and down to the center sternum. High-density magenta silicone with 'Liquid Chrome' silver pinstripes. ALPHANIX micro-embossed into the magenta. 8k.
+
+### Design-072: THE GLITCH-BLOCK MONOLITH
+- **Vibe**: Y2K Futurism / Baggy Rebellion. Rebellious, structural, and disruptive.
+- **Placement**: Lower-Right Hem "Corner-Weight" (Wraps to Back-Right).
+- **Ink**: Primary "Acid Green" (Neon) + Transparent "Void Black" (Glitch Scan-lines) + Heavy-Crackle Texture.
+- **Gemini Prompt (Studio Shot)**: Low-angle product shot of a Cement Grey 240 GSM luxury oversized t-shirt. A massive 'Glitch-Block Monolith' on the lower-right hem wraps around to the back-right hip. Acid Green crackle-textured ink with transparent black scan-lines. ALPHANIX vertically printed in high-gloss black. 8k.
+
 ## [19-03-26] Drop: Tactile Prestige & Pulse-Points
 
 ### Design-069: THE TONAL TOPOGRAPHY

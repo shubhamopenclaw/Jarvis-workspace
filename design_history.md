@@ -1,4 +1,27 @@
 # ALPHANIX Design Concepts: 2026-03-19 (PM)
+Theme: **Digital Kineticism & Y2K Futurism**
+
+## Design-071: "The Neon Nerve-Map"
+*   **Name:** The Neon Nerve-Map
+*   **Design Intent/Rationale:** Captures the 2026 "Bold Aesthetics" trend (vibrant digital prints/neon) but applies it with anatomical precision. It mimics fiber-optic "wiring" that tracks the body's kinetic flow from the right scapula (back) to the center sternum (front). The combination of 3D Neon Magenta silicone and Liquid Chrome silver pinstripes creates a "tactile high-tech" feel.
+*   **Technical Breakdown:**
+    *   **Placement:** Scapula-to-Sternum "Circuit" Wrap (Right Back to Front Sternum)
+    *   **Ink:** Neon "Electric Magenta" + "Liquid Chrome" Silver + 3D Silicone Texture
+    *   **Garment:** Deep Obsidian (Matte Black) 300 GSM Heavyweight
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of a premium 300 GSM Deep Obsidian (Matte Black) heavyweight t-shirt. An asymmetrical 'Neon Nerve-Map' graphic in Neon Electric Magenta wraps from the right scapula, over the shoulder, and down to the center sternum. The graphic features ultra-fine 'Liquid Chrome' silver pinstripes running through the raised magenta silicone lines, simulating fiber-optic wiring. The 'ALPHANIX' wordmark is micro-embossed into the magenta cable at the collarbone. High-contrast cinematic lighting, focus on the 3D texture and vibrant neon against the matte black fabric. 8k.`
+
+## Design-072: "The Glitch-Block Monolith"
+*   **Name:** The Glitch-Block Monolith
+*   **Design Intent/Rationale:** Aligns with the 2026 "Baggy Rebellion" trend (oversized, relaxed fits) by shifting the visual weight to a lower corner, disrupting the traditional centered-graphic silhouette. It uses a "Glitch-Block" aesthetic (Acid Green + Void Black scan-lines) with a heavy-crackle texture to bridge the gap between retro-analog and futuristic digital.
+*   **Technical Breakdown:**
+    *   **Placement:** Lower-Right Hem "Corner-Weight" (Wraps from front to back-right)
+    *   **Ink:** Primary "Acid Green" (Neon) + Transparent "Void Black" (Glitch Scan-lines) + Heavy-Crackle Texture
+    *   **Garment:** Cement Grey 240 GSM Luxury Oversized Fit
+*   **Gemini Studio Prompt:**
+    `A low-angle product shot of a Cement Grey 240 GSM luxury oversized t-shirt. The design features a massive 'Glitch-Block Monolith' on the lower-right hem, wrapping around to the back-right hip. The block is printed in a vibrant Primary 'Acid Green' with a heavy-crackle weathered texture. Superimposed over the green are transparent 'Void Black' scan-lines, creating a digital glitch effect. The 'ALPHANIX' wordmark is printed in high-gloss black, vertically aligned within the green block. Raw urban streetwear aesthetic, industrial studio setting, sharp shadows. 8k.`
+
+# ALPHANIX Design Concepts: 2026-03-19 (PM)
 Theme: **Tactile Prestige & Minimalist Topography**
 
 ## Design-069: "The Tonal Topography"
