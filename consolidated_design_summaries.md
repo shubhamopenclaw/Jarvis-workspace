@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [20-03-26] Drop: High-Contrast Kineticism & Brutalist Utility
+
+### Design-075: THE NEON RIB-VENT
+- **Vibe**: High-impact lateral framing. Vibrant, structural, and kinetic.
+- **Placement**: Vertical Side-Rib (Left side only) + Inner-Bicep (Right side only).
+- **Ink**: Neon Electric Yellow (Matte) + High-Density "Void Black" (3D Border).
+- **Gemini Prompt (Studio Shot)**: Side-profile studio photograph of a Deep Cobalt Blue 240 GSM luxury oversized t-shirt. A vertical 'Neon Rib-Vent' in Neon Electric Yellow from left armpit to hem. 'ALPHANIX' wordmark in black technical typography within the bottom bar. 8k.
+
+### Design-076: THE MONOLITH NAPE-WRAP
+- **Vibe**: Brutalist industrial power. Bold, structural, and frame-emphasizing.
+- **Placement**: Upper Back (Shoulder-to-Shoulder) + Front Traps "Neck-Harness" Wrap.
+- **Ink**: Primary Red (Solid Matte Block) + "Liquid Chrome" Silver (Micro-Typography).
+- **Gemini Prompt (Studio Shot)**: High-angle rear-diagonal product shot of a Concrete Grey 300 GSM heavyweight t-shirt. Massive 'Monolith' block in matte Primary Red across upper back and traps. 'ALPHANIX' wordmark in 'Liquid Chrome' silver at the nape. 8k.
+
 ## [20-03-26] Drop: Primary Architecture & Thermal Kineticism
 
 ### Design-073: THE PRIMARY PULSE-STITCH

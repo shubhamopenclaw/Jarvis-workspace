@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-20 (PM)
+Theme: **High-Contrast Kineticism & Brutalist Utility**
+
+## Design-075: "The Neon Rib-Vent"
+*   **Name:** The Neon Rib-Vent
+*   **Design Intent/Rationale:** Targets the 2026 "Bold Neon" and "Minimalist" trends. Focuses on the Side-Rib and Lateral Serratus area to frame the athlete's physique.
+*   **Technical Breakdown:**
+    *   **Placement:** Vertical Side-Rib (Left side only) + Inner-Bicep (Right side only).
+    *   **Ink:** Neon Electric Yellow (Matte) + High-Density "Void Black" (3D Border).
+    *   **Garment:** Deep Cobalt Blue 240 GSM Luxury Oversized.
+*   **Gemini Studio Prompt:**
+    `A side-profile professional studio photograph of a Deep Cobalt Blue 240 GSM luxury oversized t-shirt. A massive vertical 'Neon Rib-Vent' graphic in Neon Electric Yellow runs from the left armpit down to the hem. The 'ALPHANIX' wordmark is vertically aligned in small, crisp black technical typography within the bottom yellow bar. 8k.`
+
+## Design-076: "The Monolith Nape-Wrap"
+*   **Name:** The Monolith Nape-Wrap
+*   **Design Intent/Rationale:** Inspired by the 2026 "Contrast Piping" and "Industrial" aesthetics. Shifts focus to the Upper Back and Shoulder-Cap, emphasizing the upper-body frame.
+*   **Technical Breakdown:**
+    *   **Placement:** Upper Back (Shoulder-to-Shoulder) + Front Traps "Neck-Harness" Wrap.
+    *   **Ink:** Primary Red (Solid Matte Block) + "Liquid Chrome" Silver (Micro-Typography).
+    *   **Garment:** Concrete Grey 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A high-angle rear-diagonal product shot of a Concrete Grey 300 GSM heavyweight t-shirt. A solid, massive 'Monolith' block in matte Primary Red covers the entire upper back and wraps over the traps. 'ALPHANIX' wordmark in ultra-reflective 'Liquid Chrome' silver at the nape. 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-20 (AM)
 Theme: **Primary Architecture & Thermal Kineticism**
 
