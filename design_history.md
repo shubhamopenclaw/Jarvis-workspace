@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-20 (AM)
+Theme: **Primary Architecture & Thermal Kineticism**
+
+## Design-073: "The Primary Pulse-Stitch"
+*   **Name:** The Primary Pulse-Stitch
+*   **Design Intent/Rationale:** Leverages the 2026 "Primary Color" and "Contrast Piping" trends. Focuses on the verticality of the spine—symbolizing core strength—and the circularity of the neck. Uses a "Sandstone" base for a sophisticated, industrial contrast to the vibrant Primary Red ink.
+*   **Technical Breakdown:**
+    *   **Placement:** 360-degree Collar Ring + Vertical Spine Line (Nape to Hem)
+    *   **Ink:** Primary Red 3D High-Density Silicone (2mm height)
+    *   **Garment:** Sandstone (Industrial Tan) 300 GSM Heavyweight
+*   **Gemini Studio Prompt:**
+    `A hyper-realistic professional studio photograph of a premium 300 GSM Sandstone (Industrial Tan) heavyweight t-shirt, back view. A single, raised 3D Primary Red silicone line drops perfectly straight from the nape of the neck down the center spine to the bottom hem. Micro-printed white 'ALPHANIX' typography is visible inside the red line, repeating rhythmically. Elite minimalist fitness aesthetic, 8k.`
+
+## Design-074: "The Solar-Shift Heat-Gusset"
+*   **Name:** The Solar-Shift Heat-Gusset
+*   **Design Intent/Rationale:** Captures the 2026 "Bold Aesthetics" and "Vibrant Digital Prints". Focuses on the body's natural heat zones (underarms and side gussets). Uses a "Solar-Shift" gradient (Neon Orange to Deep Purple) with a warped "Liquid Chrome" silver wordmark.
+*   **Technical Breakdown:**
+    *   **Placement:** Underarm Gussets + Inner-Sleeves + Lower Back Hem
+    *   **Ink:** Solar-Shift Gradient (Neon Orange to Deep Purple) + "Liquid Chrome" Silver
+    *   **Garment:** Void Black 240 GSM Luxury Oversized
+*   **Gemini Studio Prompt:**
+    `A side-profile product shot of a Void Black 240 GSM luxury oversized t-shirt. The underarm and side-gusset are dominated by a massive, vibrant 'Solar-Shift' gradient that bleeds from Neon Orange to Deep Purple. On the lower back hem, the 'ALPHANIX' wordmark is visible in a high-gloss 'Liquid Chrome' silver, with the letters warped and stretched horizontally. Futuristic athletic streetwear vibe, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-19 (PM)
 Theme: **Digital Kineticism & Y2K Futurism**
 

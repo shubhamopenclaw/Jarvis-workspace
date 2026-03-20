@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [20-03-26] Drop: Primary Architecture & Thermal Kineticism
+
+### Design-073: THE PRIMARY PULSE-STITCH
+- **Vibe**: Elite minimalist technical. High-impact, structural, and architecturally focused.
+- **Placement**: 360-degree Collar Ring + Vertical Spine Line (Nape to Hem).
+- **Ink**: Primary Red 3D High-Density Silicone (2mm height).
+- **Gemini Prompt (Studio Shot)**: Hyper-realistic professional studio photograph of a premium 300 GSM Sandstone (Industrial Tan) heavyweight t-shirt, back view. A single, raised 3D Primary Red silicone line drops perfectly straight from the nape of the neck down the center spine. Micro-printed white 'ALPHANIX' typography inside the red line. 8k.
+
+### Design-074: THE SOLAR-SHIFT HEAT-GUSSET
+- **Vibe**: High-energy thermal mapping. Kinetic, organic, and futuristic.
+- **Placement**: Underarm Gussets + Inner-Sleeves + Lower Back Hem.
+- **Ink**: Solar-Shift Gradient (Neon Orange to Deep Purple) + "Liquid Chrome" Silver.
+- **Gemini Prompt (Studio Shot)**: Side-profile product shot of a Void Black 240 GSM luxury oversized t-shirt. The underarm and side-gusset are dominated by a vibrant 'Solar-Shift' gradient (Neon Orange to Deep Purple). 'ALPHANIX' wordmark in high-gloss 'Liquid Chrome' silver on the lower back hem, warped and stretched. 8k.
+
 ## [19-03-26] Drop: Digital Kineticism & Glitch-Block
 
 ### Design-071: THE NEON NERVE-MAP
