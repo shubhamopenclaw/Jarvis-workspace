@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [21-03-26] Drop: Asymmetric Compression & Chromatic Fluidity
+
+### Design-079: THE OBLIQUE OVER-LOCK
+- **Vibe**: High-tech data-flow compression strap. Asymmetrical, sleek, and reflective.
+- **Placement**: Massive Diagonal Wrap: Right Shoulder-Cap to Left-Lower Hem (Front/Back).
+- **Ink**: "Liquid Chrome" Silver (Refractive) + Primary Red (Matte Digital Scan-lines).
+- **Gemini Prompt (Studio Shot)**: Low-angle studio photograph of an Optic White 300 GSM heavyweight t-shirt. Massive 'Oblique Over-Lock' graphic in 'Liquid Chrome' silver wrapping diagonally. Primary Red digital scan-lines over silver. ALPHANIX vertically integrated on front-left rib. 8k.
+
+### Design-080: THE KINETIC PULSE-GUSSET
+- **Vibe**: Glowing kinetic energy release. High-energy, organic, and hidden-detail.
+- **Placement**: Dual Underarm Gussets + Inner-Sleeve Wrap + Lower Side-Vents.
+- **Ink**: Neon Emerald / Electric Lime / Solar Yellow (Tri-tone Split) + 3D Clear Water Gel.
+- **Gemini Prompt (Studio Shot)**: Side-profile studio photograph of a Deep Obsidian (Matte Black) 240 GSM luxury oversized t-shirt. 'Kinetic Pulse' gradient (Neon Emerald to Solar Yellow) in the underarm/gusset area. 3D high-gloss 'Clear Water' gel finish. ALPHANIX micro-printed on inner-sleeve seam. 8k.
+
 ## [21-03-26] Drop: Post-Industrial Bio-Mechanics & Lateral Kineticism
 
 ### Design-077: THE SCAPULAR WING-LOCK
