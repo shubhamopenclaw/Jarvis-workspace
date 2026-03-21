@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [21-03-26] Drop: Post-Industrial Bio-Mechanics & Lateral Kineticism
+
+### Design-077: THE SCAPULAR WING-LOCK
+- **Vibe**: Elite bio-mechanical posture harness. Structural, skeletal, and technical.
+- **Placement**: Upper Back "V-Frame" (Scapula to Spine) + 360-degree Lower-Collar Rim.
+- **Ink**: "Electric Mint" (Neon Pastel) + 3D High-Density Matte Clear Silicone (Layered).
+- **Gemini Prompt (Studio Shot)**: High-angle rear-view studio photograph of a Deep Earth Brown 300 GSM heavyweight t-shirt. 'Scapular Wing-Lock' graphic in Neon Electric Mint ink mapping anatomical lines of the back in a 'V' shape. 3D high-density clear silicone layer. 8k.
+
+### Design-078: THE LATERAL HAZARD-STRIPE
+- **Vibe**: High-speed industrial hazard. Vibrant, side-weighted, and bold.
+- **Placement**: Left Lateral Wrap (Front-Rib to Back-Lat) + Right Bicep "ID-Block".
+- **Ink**: Neon Safety Orange (Solid Matte) + "Liquid Chrome" Silver (Refractive).
+- **Gemini Prompt (Studio Shot)**: Side-profile studio photograph of a Steel Blue 240 GSM luxury oversized t-shirt. Massive 'Lateral Hazard-Stripe' in Neon Safety Orange wrapping front-left to back-left. 'ALPHANIX' wordmark in high-gloss 'Liquid Chrome' silver cutting through stripes. 8k.
+
 ## [20-03-26] Drop: High-Contrast Kineticism & Brutalist Utility
 
 ### Design-075: THE NEON RIB-VENT

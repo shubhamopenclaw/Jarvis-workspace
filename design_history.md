@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-21 (AM)
+Theme: **Post-Industrial Bio-Mechanics & Lateral Kineticism**
+
+## Design-077: "The Scapular Wing-Lock"
+*   **Name:** The Scapular Wing-Lock
+*   **Design Intent/Rationale:** Directly leans into the 2026 "Posture-Correcting Garment" trend by visually mapping the muscles responsible for upright posture (Scapular Retractors/Rhomboids). This design moves away from the "Monolith" blocks of previous drops toward a "Skeleton-Frame" aesthetic. It uses high-density silicone to create a physical "harness" feel on the fabric, framing the upper back and neck with aggressive, structural lines.
+*   **Technical Breakdown:**
+    *   **Placement:** Upper Back "V-Frame" (Scapula to Spine) + 360-degree Lower-Collar Rim.
+    *   **Ink:** "Electric Mint" (Neon Pastel) + 3D High-Density Matte Clear Silicone (Layered Over).
+    *   **Garment:** Deep Earth Brown 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A high-angle rear-view professional studio photograph of a Deep Earth Brown 300 GSM heavyweight t-shirt. The design features a 'Scapular Wing-Lock' graphic in Neon Electric Mint ink, mapping the anatomical lines of the shoulder blades and spine in a skeletal, geometric 'V' shape. A thick layer of 3D high-density matte clear silicone is printed over the mint ink, giving it a structural, rubberized harness appearance. The 'ALPHANIX' wordmark is micro-embossed into the silicone at the center spine. Elite bio-mechanical fitness aesthetic, sharp side-lighting, 8k.`
+
+## Design-078: "The Lateral Hazard-Stripe"
+*   **Name:** The Lateral Hazard-Stripe
+*   **Design Intent/Rationale:** Captures the 2026 "Vibrant Color Blocking" and "Industrial Utilitarian" trends. It disrupts the traditional front/back graphic logic by placing the visual weight entirely on the lateral (side) profile, wrapping from the front-left rib to the back-left lat. It uses a "Hazard-Stripe" pattern in Neon Safety Orange, but with a "Liquid Chrome" silver interruption for the brand name, creating a high-contrast, high-speed aesthetic.
+*   **Technical Breakdown:**
+    *   **Placement:** Left Lateral Wrap (Front-Rib to Back-Lat) + Right Bicep "ID-Block".
+    *   **Ink:** Neon Safety Orange (Solid Matte) + "Liquid Chrome" Silver (Refractive).
+    *   **Garment:** Steel Blue 240 GSM Luxury Oversized.
+*   **Gemini Studio Prompt:**
+    `A side-profile professional studio photograph of a Steel Blue 240 GSM luxury oversized t-shirt. A massive 'Lateral Hazard-Stripe' in matte Neon Safety Orange wraps from the front-left rib around the side to the back-left lat. The 'ALPHANIX' wordmark is printed in a high-gloss 'Liquid Chrome' silver, cutting horizontally through the orange stripes. A small matching orange 'ID-Block' is printed on the outer right bicep. Industrial technical streetwear vibe, cinematic lighting, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-20 (PM)
 Theme: **High-Contrast Kineticism & Brutalist Utility**
 
