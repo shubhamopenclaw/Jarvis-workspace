@@ -222,3 +222,17 @@
 - **Concept:** Chromatic Seam-Lock (Translucent Cyber-Red 3D Gel).
 - **Placement:** Dual Shoulder-to-Nape "Harness" (Upper Traps & Delts).
 - **Studio Prompt:** `A high-resolution product shot from a high-angle rear-diagonal of a premium Gunmetal Grey 240 GSM t-shirt. A 3D structural "harness" graphic in translucent Cyber-Red liquid gel tracks the natural lines of the upper traps and wraps over the shoulders. The word "ALPHANIX" is micro-printed in crisp white technical typography inside the red gel track at the nape of the neck. The gel has a high-gloss, wet-look finish that catches sharp studio highlights. Professional fitness lookbook style, technical gear aesthetic, 8k.`
+
+## [21-03-26] Drop: Asymmetric Compression & Chromatic Fluidity
+
+### Design-079: THE OBLIQUE OVER-LOCK
+- **Vibe**: High-speed data-flow compression strap.
+- **Placement**: Massive Diagonal Wrap: Right Shoulder-Cap to Left-Lower Hem (Front & Back).
+- **Ink**: "Liquid Chrome" Silver (Refractive) + Primary Red (Matte Digital Scan-lines).
+- **Gemini Prompt (Studio Shot)**: A low-angle professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. A massive 'Oblique Over-Lock' graphic in high-gloss 'Liquid Chrome' silver wraps diagonally from the right shoulder-cap down to the left-lower hem, covering both front and back in a continuous loop. Over the silver are fine, matte Primary Red digital scan-lines. The 'ALPHANIX' wordmark is vertically integrated into the silver band on the front-left rib in high-density black. Futuristic athletic streetwear, elite fitness aesthetic, 8k.
+
+### Design-080: THE KINETIC PULSE-GUSSET
+- **Vibe**: Glowing kinetic energy release from the body's heat zones.
+- **Placement**: Dual Underarm Gussets + Inner-Sleeve Wrap + Lower Side-Vents.
+- **Ink**: Neon Emerald / Electric Lime / Solar Yellow (Tri-tone Split Fountain) + 3D Clear Water Gel.
+- **Gemini Prompt (Studio Shot)**: A side-profile dynamic studio photograph of a Deep Obsidian (Matte Black) 240 GSM luxury oversized t-shirt. The underarm gusset and inner-sleeve are dominated by a vibrant 'Kinetic Pulse' gradient bleeding from Neon Emerald to Solar Yellow. The graphic is finished with a thick layer of 3D high-gloss 'Clear Water' gel, giving it a wet, glowing appearance. The 'ALPHANIX' wordmark is micro-printed in reflective silver along the inner-sleeve seam. High-contrast cinematic lighting, focus on the glowing underarm area, 8k.
