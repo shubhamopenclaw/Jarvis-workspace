@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [22-03-26] Drop: Chromatic Distortion & Macro-Anatomical Framing
+
+### Design-081: THE PRISMATIC STERNUM-FLARE
+- **Vibe**: High-energy digital light burst. Refractive, vibrant, and pectorally-focused.
+- **Placement**: Center-Chest (Sternum) radiating to Mid-Pectorals.
+- **Ink**: Transparent "Electric Cyan" + Transparent "Neon Magenta" (Overlapping to Deep Violet) + 3D High-Gloss "Crystal" Gel.
+- **Gemini Prompt (Studio Shot)**: Front-view studio photograph of an Optic White 300 GSM heavyweight t-shirt. 'Prismatic Sternum-Flare' graphic where 'ALPHANIX' is shattered into overlapping transparent layers of Electric Cyan and Neon Magenta. 3D high-gloss 'Crystal' gel finish. 8k.
+
+### Design-082: THE DORSAL KINETIC-RIB
+- **Vibe**: Industrial motion wrap. High-contrast, heavy-weathered, and rotation-heavy.
+- **Placement**: Mid-Spine (Center-Back) wrapping aggressively to Front-Right Abdominal.
+- **Ink**: "Solar Yellow" (High-Opacity Matte) + "Heavy-Crackle" Weathering Agent.
+- **Gemini Prompt (Studio Shot)**: Rear-diagonal studio photograph of a Deep Earth Brown 240 GSM luxury oversized t-shirt. Massive 'Dorsal Kinetic-Rib' graphic in Solar Yellow wrapping from center-back to front-right rib. Heavy-crackle weathered texture. ALPHANIX vertically integrated. 8k.
+
 ## [21-03-26] Drop: Asymmetric Compression & Chromatic Fluidity
 
 ### Design-079: THE OBLIQUE OVER-LOCK
@@ -236,3 +250,18 @@
 - **Placement**: Dual Underarm Gussets + Inner-Sleeve Wrap + Lower Side-Vents.
 - **Ink**: Neon Emerald / Electric Lime / Solar Yellow (Tri-tone Split Fountain) + 3D Clear Water Gel.
 - **Gemini Prompt (Studio Shot)**: A side-profile dynamic studio photograph of a Deep Obsidian (Matte Black) 240 GSM luxury oversized t-shirt. The underarm gusset and inner-sleeve are dominated by a vibrant 'Kinetic Pulse' gradient bleeding from Neon Emerald to Solar Yellow. The graphic is finished with a thick layer of 3D high-gloss 'Clear Water' gel, giving it a wet, glowing appearance. The 'ALPHANIX' wordmark is micro-printed in reflective silver along the inner-sleeve seam. High-contrast cinematic lighting, focus on the glowing underarm area, 8k.
+
+## [22-03-26] Drop: Neo-Grunge & Heavy Textures
+
+### Design-081: THE PRISMATIC STERNUM-FLARE
+- **Vibe**: High-energy digital light burst.
+- **Placement**: Center-Chest (Sternum) radiating outward to Mid-Pectorals.
+- **Ink**: Transparent "Electric Cyan" + Transparent "Neon Magenta" (Overlapping to create Deep Violet) + 3D High-Gloss "Crystal" Gel.
+- **Gemini Prompt (Studio Shot)**: A front-view professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. The center-chest features a 'Prismatic Sternum-Flare' graphic where the word 'ALPHANIX' is shattered into overlapping transparent layers of Electric Cyan and Neon Magenta. 3D high-gloss 'Crystal' gel finish. 8k.
+
+### Design-082: THE DORSAL KINETIC-RIB
+- **Vibe**: Industrial motion wrap.
+- **Placement**: Mid-Spine (Center-Back) wrapping aggressively around the Right Ribcage to Front-Right Abdominal.
+- **Ink**: "Solar Yellow" (High-Opacity Matte) + "Heavy-Crackle" Weathering Agent.
+- **Gemini Prompt (Studio Shot)**: A rear-diagonal dynamic studio photograph of a Deep Earth Brown 240 GSM luxury oversized t-shirt. A massive 'Dorsal Kinetic-Rib' graphic in Solar Yellow wraps from the center-back spine to the front-right rib. Heavy-crackle weathered texture. 8k.
+
