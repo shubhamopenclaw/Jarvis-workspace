@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [22-03-26] Drop: Optical Interruption & Fluidic Geometry
+
+### Design-083: THE MOIRÉ OBLIQUE-VENT
+- **Vibe**: Optical shimmer / kinetic interference. Structural, technical, and shifting.
+- **Placement**: Lower Left Oblique (Front-to-Back Wrap) + Inner Left Sleeve "Pulse-Point".
+- **Ink**: Matte Neon Red (Layer 1) + High-Gloss Primary Blue (Layer 2) + Clear "Interference" additive.
+- **Gemini Prompt (Studio Shot)**: Side-profile studio photograph of a Gunmetal Grey 300 GSM heavyweight t-shirt. 'Moiré Oblique-Vent' graphic with overlapping ultra-fine lines (Neon Red/Primary Blue) creating purple shimmer. ALPHANIX hidden in hem. 8k.
+
+### Design-084: THE FLUIDIC PYLON-WRAP
+- **Vibe**: Asymmetrical digital waterfall. Fluid, vibrant, and tactile.
+- **Placement**: Right Trapezius down to Mid-Torso (Front Right) + 360-degree Right Cuff Ring.
+- **Ink**: "Neon Emerald" to "Solar Yellow" Digital Gradient + 3D High-Density "Velvet" Matte Finish (Raised).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal studio photograph of a Void Black 240 GSM luxury oversized t-shirt. 'Fluidic Pylon-Wrap' graphic in vibrant Neon Emerald to Solar Yellow gradient. 3D high-density 'Velvet' matte finish. ALPHANIX integrated into the pylon core. 8k.
+
 ## [22-03-26] Drop: Chromatic Distortion & Macro-Anatomical Framing
 
 ### Design-081: THE PRISMATIC STERNUM-FLARE

@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-22 (PM)
+Theme: **Optical Interruption & Fluidic Geometry**
+
+## Design-083: "The Moiré Oblique-Vent"
+*   **Name:** The Moiré Oblique-Vent
+*   **Design Intent/Rationale:** Responds to the 2026 trend of "dramatic patterns" and "imaginative styles" by using an optical interference (Moiré) effect. Unlike the centered or symmetrical prints of previous drops, this design focuses on the "vent" area of the obliques. It uses two overlapping layers of ultra-fine parallel lines—one in Matte Neon Red and one in High-Gloss Primary Blue—to create a shimmering, kinetic purple "third color" that shifts as the athlete moves.
+*   **Technical Breakdown:**
+    *   **Placement:** Lower Left Oblique (Front-to-Back Wrap) + Inner Left Sleeve "Pulse-Point".
+    *   **Ink:** Matte Neon Red (Layer 1) + High-Gloss Primary Blue (Layer 2) + Clear "Interference" additive.
+    *   **Garment:** Gunmetal Grey 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A side-profile professional studio photograph of a Gunmetal Grey 300 GSM heavyweight t-shirt. The left oblique features a massive 'Moiré Oblique-Vent' graphic consisting of overlapping ultra-fine parallel lines in Matte Neon Red and High-Gloss Primary Blue. The overlap creates a shimmering, kinetic purple optical effect. The 'ALPHANIX' wordmark is hidden within the line-weight of the lower-left hem. High-contrast lighting to highlight the shifting color pattern, elite technical streetwear aesthetic, 8k.`
+
+## Design-084: "The Fluidic Pylon-Wrap"
+*   **Name:** The Fluidic Pylon-Wrap
+*   **Design Intent/Rationale:** Directly leans into the 2026 "Vibrant Digital Prints" and "Bold Aesthetics" trends while avoiding previous "shattered" or "mechanical" looks. This design uses "Fluidic Geometry"—soft, flowing shapes that maintain a rigid, structural "Pylon" core. It wraps vertically from the right trap, down the front-right pectoral, and terminates at the mid-torso, creating an asymmetrical "waterfall" effect of color.
+*   **Technical Breakdown:**
+    *   **Placement:** Right Trapezius down to Mid-Torso (Front Right) + 360-degree Right Cuff Ring.
+    *   **Ink:** "Neon Emerald" to "Solar Yellow" Digital Gradient + 3D High-Density "Velvet" Matte Finish (Raised).
+    *   **Garment:** Void Black 240 GSM Luxury Oversized.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal studio photograph of a Void Black 240 GSM luxury oversized t-shirt. A 'Fluidic Pylon-Wrap' graphic in a vibrant Neon Emerald to Solar Yellow gradient flows from the right trap down the right pectoral to the mid-torso. The ink has a unique 3D high-density 'Velvet' matte finish, giving it a soft, premium texture. The 'ALPHANIX' wordmark is vertically integrated into the 'pylon' core in high-gloss black. Deep shadows, focus on the vibrant gradient and the unique velvet texture, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-22 (AM)
 Theme: **Chromatic Distortion & Macro-Anatomical Framing**
 
