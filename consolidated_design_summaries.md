@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [23-03-26] Drop: Temporal Decay & Bio-Digital Contrast
+
+### Design-085: THE ANALOG PULSE-GLITCH
+- **Vibe**: High-tension contrast between analog decay and digital pulse. Neo-grunge.
+- **Placement**: Lower-Front Left (Hem to Mid-Ab) + Back-Right Shoulder-Blade "Stamp".
+- **Ink**: "Graphite" Heavy-Crackle (Base) + "Neon Solar-Cyan" 3D High-Gloss Gel (Overlayer).
+- **Gemini Prompt (Studio Shot)**: Low-angle studio photograph of a Washed Slate 300 GSM heavyweight t-shirt. 'Analog Pulse-Glitch' graphic with 'Graphite' crackle block and high-gloss 'Neon Solar-Cyan' 3D gel pulse-line. 8k.
+
+### Design-086: THE KINETIC TRAP-SPINE
+- **Vibe**: Elongated anatomical utility. Organic, structural, and sleeve-heavy.
+- **Placement**: Nape of Neck to Right Trapezius, down Outer Right Sleeve to Elbow.
+- **Ink**: "Matte Obsidian" (3D Raised) + "Lava Orange" High-Opacity Matte.
+- **Gemini Prompt (Studio Shot)**: High-angle side-profile studio photograph of a 'Bone' Off-White 240 GSM luxury oversized t-shirt. 'Kinetic Trap-Spine' graphic in 'Lava Orange' wrapping from neck to sleeve. 3D 'Matte Obsidian' silicone rim. 8k.
+
 ## [22-03-26] Drop: Optical Interruption & Fluidic Geometry
 
 ### Design-083: THE MOIRÉ OBLIQUE-VENT
