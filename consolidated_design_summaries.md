@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [23-03-26] Drop: Primary Primary & Negative Sculpting
+
+### Design-087: THE PRIMARY X-LOCK
+- **Vibe**: High-tension intersection. Raw, brushed-stroke, and center-weighted.
+- **Placement**: Massive Centered "X" (Shoulder-to-Opposite-Hip).
+- **Ink**: Primary Red (Matte) + Primary Blue (Matte) + 3D Clear "Wet-Look" Topcoat.
+- **Gemini Prompt (Studio Shot)**: Front-view studio photograph of an Optic White 300 GSM heavyweight t-shirt. Massive intersecting bars in Primary Red/Blue forming an 'X'. Brushed-stroke texture. 8k.
+
+### Design-088: THE NEGATIVE LAT-VOID
+- **Vibe**: Optical taper. Sharp, laser-cut, and anatomical.
+- **Placement**: Lateral Back (Lats to Side-Ribs).
+- **Ink**: "Electric Neon Green" (Matte) + "Black-Hole" Matte Black.
+- **Gemini Prompt (Studio Shot)**: Rear-diagonal studio photograph of a Void Black 240 GSM luxury oversized t-shirt. Electric Neon Green ink framing lats as negative space. ALPHANIX vertically carved out. 8k.
+
 ## [23-03-26] Drop: Temporal Decay & Bio-Digital Contrast
 
 ### Design-085: THE ANALOG PULSE-GLITCH
