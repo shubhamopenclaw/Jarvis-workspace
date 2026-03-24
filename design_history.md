@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-24 (Evening Drop)
+Theme: **Tech-Pastel Utility & Neo-Grunge Kineticism**
+
+## Design-093: "The Lavender Tech-Shell"
+*   **Name:** The Lavender Tech-Shell
+*   **Design Intent/Rationale:** Directly capitalizes on the "Soft Pastels" (Lavender/Mint) and "Techwear-Vintage Hybrid" trends identified for 2026. This design breaks away from ALPHANIX's usual high-aggression dark tones by using a sophisticated Matte Lavender block that mimics a "Tech-Shell" harness. It frames the shoulders and upper chest, creating a "layered" look that suggests a utility vest worn over a vintage-style tee. It uses "Reflective Liquid Chrome" for the branding to maintain a high-tech edge within the soft color palette.
+*   **Technical Breakdown:**
+    *   **Placement:** Dual Shoulder-to-Sternum "Harness" Wrap (Upper Traps, Delts, and Front-Pectoral V-Shape).
+    *   **Ink:** Matte "Lavender" (High-Opacity) + "Liquid Chrome" Silver (Refractive Micro-Typography).
+    *   **Garment:** "Bone" Off-White 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A high-angle front-view professional studio photograph of a 'Bone' Off-White 300 GSM heavyweight t-shirt. The 'Lavender Tech-Shell' graphic features two symmetrical matte Lavender blocks mapping the shoulders and trapezius, meeting in a sharp 'V' at the center sternum. The 'ALPHANIX' wordmark is micro-printed in high-gloss 'Liquid Chrome' silver along the inner edge of the lavender shell. The ink has a smooth, non-reflective matte finish contrasted by the metallic silver. 8k.`
+
+## Design-094: "The Kinetic Neo-Grunge Hem"
+*   **Name:** The Kinetic Neo-Grunge Hem
+*   **Design Intent/Rationale:** Responds to the "Neo-grunge" and "Oversized/Baggy" 2026 trends. Instead of clean lines, this design uses "Controlled Chaos"—a massive, weathered, and "bleeding" graphic that anchors the bottom-left hem and wraps aggressively to the back-right hip. It combines a "Heavy-Crackle" charcoal base with a vibrant "Solar-Yellow" drip effect, simulating industrial paint that has been weathered and then "glitched" with digital vibrancy. It's a bottom-heavy design that creates stability in oversized silhouettes.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Bottom-Left Hem (wraps 270-degrees to Back-Right Hip).
+    *   **Ink:** "Charcoal" Heavy-Crackle (Base) + "Solar-Yellow" High-Gloss "Wet-Look" Gel (Drip Accents).
+    *   **Garment:** Void Black 240 GSM Luxury Oversized.
+*   **Gemini Studio Prompt:**
+    `A low-angle dynamic studio photograph of a Void Black 240 GSM luxury oversized t-shirt. The 'Kinetic Neo-Grunge Hem' graphic anchors the bottom-left corner, featuring a massive, weathered 'Charcoal' crackle-textured block that wraps around the side to the back-right hip. Over the crackle are vibrant 'Solar-Yellow' high-gloss gel 'drips' that appear to bleed upward against gravity. The 'ALPHANIX' wordmark is vertically integrated into the charcoal crackle in matte black negative space. Moody, industrial lighting, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-24 (PM)
 Theme: **Industrial Redaction & Chromatic Fracture**
 

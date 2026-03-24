@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [24-03-26] Drop: Tech-Pastel Utility & Neo-Grunge Kineticism
+
+### Design-093: THE LAVENDER TECH-SHELL
+- **Vibe**: Sophisticated Tech-Pastel Utility. 
+- **Placement**: Dual Shoulder-to-Sternum "Harness" Wrap (Upper Traps/Delts).
+- **Ink**: Matte Lavender (High-Opacity) + "Liquid Chrome" Silver (Reflective).
+- **Gemini Prompt (Studio Shot)**: High-angle front-view studio photograph of a 'Bone' Off-White 300 GSM heavyweight t-shirt. Symmetrical 'Lavender Tech-Shell' graphic in matte Lavender. Micro-printed 'Liquid Chrome' silver ALPHANIX. 8k.
+
+### Design-094: THE KINETIC NEO-GRUNGE HEM
+- **Vibe**: Bottom-heavy "Controlled Chaos". Industrial, weathered, and vibrant.
+- **Placement**: Bottom-Left Hem (270-degree wrap to Back-Right Hip).
+- **Ink**: "Charcoal" Heavy-Crackle (Base) + "Solar-Yellow" High-Gloss Gel (Drips).
+- **Gemini Prompt (Studio Shot)**: Low-angle dynamic studio photograph of a Void Black 240 GSM luxury oversized t-shirt. 'Kinetic Neo-Grunge Hem' graphic in Charcoal crackle with Solar-Yellow glossy gel drips. 8k.
+
 ## [24-03-26] Drop: Industrial Redaction & Chromatic Fracture
 
 ### Design-091: THE REDACTED MONOLITH
