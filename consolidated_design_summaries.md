@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [24-03-26] Drop: Asymmetric Geo-Blocking & High-Vis Fluidity
+
+### Design-089: THE GEOMETRIC L-SHIFT
+- **Vibe**: Sophisticated asymmetric power. Soft pastels meet deep navy.
+- **Placement**: Upper-Left Trapezius to Front-Left Pectoral and Ribcage (L-Shape).
+- **Ink**: Matte Lavender (Top) to High-Gloss Deep Navy (Bottom) Split-Fountain.
+- **Gemini Prompt (Studio Shot)**: Front-diagonal studio photograph of an Optic White 300 GSM heavyweight t-shirt. Massive 'L' block in Lavender-to-Navy gradient. Reflective silver ALPHANIX at base. 8k.
+
+### Design-090: THE FLUIDIC CUFF-BLEED
+- **Vibe**: Bottom-weighted stability/kinetic energy. Vibrant and tactile.
+- **Placement**: Bottom 4-inches of Hem (360-wrap) and Sleeve Cuffs.
+- **Ink**: Neon Solar-Yellow (Base) + 3D Clear "Wet-Look" Gel (Drip Texture).
+- **Gemini Prompt (Studio Shot)**: Low-angle dynamic studio photograph of a Void Black 240 GSM luxury oversized t-shirt. Neon Solar-Yellow 'liquid' shapes bleeding upward from hem and cuffs. 3D wet-look gel finish. 8k.
+
 ## [23-03-26] Drop: Primary Primary & Negative Sculpting
 
 ### Design-087: THE PRIMARY X-LOCK

@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-24 (AM)
+Theme: **Asymmetric Geo-Blocking & High-Vis Fluidity**
+
+## Design-089: "The Geometric L-Shift"
+*   **Name:** The Geometric L-Shift
+*   **Design Intent/Rationale:** Responds to the 2026 trend of "asymmetric paneling" and "bold, geometric color-blocking." This design breaks the symmetry of the human torso by creating a massive, solid "L" shape that frames the Left Trapezius and drops vertically down the Left Pectoral to the mid-rib. It uses a "Split-Fountain" technique to transition from a matte "Lavender" (soft pastel) to a high-gloss "Deep Navy," creating a sophisticated yet aggressive "shifted" weight.
+*   **Technical Breakdown:**
+    *   **Placement:** Upper-Left Trapezius wrapping to Front-Left Pectoral and Ribcage (L-Shape).
+    *   **Ink:** Matte "Lavender" (Top) to High-Gloss "Deep Navy" (Bottom) Split-Fountain Gradient.
+    *   **Garment:** Optic White 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. The left side features the 'Geometric L-Shift' graphic: a massive, sharp-edged 'L' block that starts at the left trapezius and drops vertically down the left pectoral to the mid-rib. The ink is a sophisticated split-fountain gradient from matte Lavender at the top to a high-gloss Deep Navy at the bottom. The 'ALPHANIX' wordmark is micro-printed in reflective silver at the base of the 'L' on the left rib. High-key lighting, 8k.`
+
+## Design-090: "The Fluidic Cuff-Bleed"
+*   **Name:** The Fluidic Cuff-Bleed
+*   **Design Intent/Rationale:** Addresses the 2026 trend for "vibrant digital prints" and "imaginative styles" by focusing on an under-utilized placement: the **Lower-Hem and Cuffs**. Instead of a chest piece, this design uses "Fluidic Bleed"—vibrant, neon-liquid shapes that appear to be "leaking" upward from the bottom hem and sleeve cuffs. It creates a sense of bottom-weighted stability and kinetic energy without any technical or mechanical blocks.
+*   **Technical Breakdown:**
+    *   **Placement:** Bottom 4-inches of Hem (360-wrap) and both Sleeve Cuffs.
+    *   **Ink:** "Neon Solar-Yellow" (Base) + 3D Clear "Wet-Look" Gel (Drip Texture).
+    *   **Garment:** Void Black 240 GSM Luxury Oversized.
+*   **Gemini Studio Prompt:**
+    `A low-angle dynamic studio photograph of a Void Black 240 GSM luxury oversized t-shirt. The 'Fluidic Cuff-Bleed' graphic features vibrant Neon Solar-Yellow 'liquid' shapes that appear to bleed upward from the bottom hem and both sleeve cuffs. The yellow ink is coated in a 3D clear 'wet-look' gel, giving it a thick, dripping texture that catches light. The 'ALPHANIX' wordmark is vertically integrated into one of the 'drips' on the right-front hem in high-gloss black. Cinematic lighting, deep shadows, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-23 (Extra-Drop)
 Theme: **Primary Primary & Negative Sculpting**
 
