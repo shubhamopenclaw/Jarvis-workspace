@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [24-03-26] Drop: Industrial Redaction & Chromatic Fracture
+
+### Design-091: THE REDACTED MONOLITH
+- **Vibe**: Industrial Redaction. Bold, brutalist, and no-nonsense.
+- **Placement**: Massive Horizontal Center-Chest Bar (Sternum-to-Mid-Pec).
+- **Ink**: "Security Black" High-Density Matte (2mm height).
+- **Gemini Prompt (Studio Shot)**: Front-view studio photograph of a Dark Gray 200 GSM premium t-shirt. Massive horizontal 'Redacted' bar in high-density matte 'Security Black' silicone. ALPHANIX carved out as negative space. 8k.
+
+### Design-092: THE CHROMATIC SPINE-FRACTURE
+- **Vibe**: Aggressive kineticism. Primary Red/Cobalt Blue shattered shards.
+- **Placement**: Full Vertical Spine (Nape to Hem) + Lateral Splintering onto Lats.
+- **Ink**: Primary Red (Solid Matte) + Deep Cobalt Blue (Solid Matte) + Clear "Gloss-Shatter".
+- **Gemini Prompt (Studio Shot)**: Rear-view studio photograph of a Denim Blue 200 GSM premium t-shirt. 'Chromatic Spine-Fracture' graphic with shattered Primary Red and Deep Cobalt Blue shards. Clear Gloss-Shatter topcoat. 8k.
+
 ## [24-03-26] Drop: Asymmetric Geo-Blocking & High-Vis Fluidity
 
 ### Design-089: THE GEOMETRIC L-SHIFT

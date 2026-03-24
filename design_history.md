@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-24 (PM)
+Theme: **Industrial Redaction & Chromatic Fracture**
+
+## Design-091: "The Redacted Monolith"
+*   **Name:** The Redacted Monolith
+*   **Design Intent/Rationale:** Responds to the "Industrial/Raw" trend (Miu Miu x Corteiz influence) by using a "Redaction" aesthetic. Instead of a standard logo, a massive, solid "Security Black" bar is printed across the center chest, with "ALPHANIX" appearing only as a negative space cutout. It creates a bold, brutalist statement that emphasizes the fabric's quality and the brand's "No-Nonsense" developer-led ethos. It avoids all previous geometric "X" or "L" blocks by using a single, heavy horizontal mass.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Horizontal Center-Chest Bar (Sternum-to-Mid-Pec).
+    *   **Ink:** "Security Black" High-Density Matte (2mm height) for 3D depth.
+    *   **Garment:** Dark Gray 200 GSM Single Jersey (Bio-Wash).
+*   **Gemini Studio Prompt:**
+    `A front-view professional studio photograph of a Dark Gray 200 GSM premium t-shirt. The center-chest features 'The Redacted Monolith' graphic: a massive, thick horizontal bar in high-density matte 'Security Black' silicone. The word 'ALPHANIX' is carved out of the center of the bar as negative space, showing the gray fabric underneath. The bar has sharp, architectural edges and a visible 3D height. Harsh industrial lighting, 8k.`
+
+## Design-092: "The Chromatic Spine-Fracture"
+*   **Name:** The Chromatic Spine-Fracture
+*   **Design Intent/Rationale:** Leverages the "Bold Colors" (Red/Blue tones) and "2000s/Vintage" activewear trends identified for March 2026. This design breaks away from the "smooth" gradients of previous drops by using a "Fractured" aesthetic—sharp, shards of Primary Red and Deep Cobalt Blue that trace the spine. It mimics the look of a shattered digital display or a high-speed collision, creating a sense of aggressive kinetic energy along the body's central axis.
+*   **Technical Breakdown:**
+    *   **Placement:** Full Vertical Spine (Nape to Hem) with aggressive lateral "splintering" onto the lats.
+    *   **Ink:** Primary Red (Solid Matte) + Deep Cobalt Blue (Solid Matte) + Clear "Gloss-Shatter" Topcoat.
+    *   **Garment:** Denim Blue 200 GSM Single Jersey.
+*   **Gemini Studio Prompt:**
+    `A rear-view dynamic studio photograph of a Denim Blue 200 GSM premium t-shirt. The 'Chromatic Spine-Fracture' graphic runs vertically down the center spine: a chaotic explosion of sharp, splintered shards in Primary Red and Deep Cobalt Blue. The shards bleed out laterally onto the shoulder blades and lats. A clear 'Gloss-Shatter' topcoat is applied randomly to some shards, creating a multi-texture effect. The 'ALPHANIX' wordmark is hidden within one of the blue shards on the lower back. Cinematic side-lighting, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-24 (AM)
 Theme: **Asymmetric Geo-Blocking & High-Vis Fluidity**
 
