@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-25 (Evening Operational Heartbeat)
+Theme: **Technical Ghost & Kinetic Topography**
+
+## Design-097: "The Ghost-Contour Wrap"
+*   **Name:** The Ghost-Contour Wrap
+*   **Design Intent/Rationale:** Directly implements the "Technical Ghost" trend identified in today's growth brief. This design moves away from high-visibility colors into "Phantom Grey" tonal work. It maps the central spine and obliques, creating a high-spec anatomical frame that is felt through texture rather than seen through contrast. The 3D clear "Liquid Silicone" creates raised structural ridges that catch light during movement, mimicking performance compression wear.
+*   **Technical Breakdown:**
+    *   **Placement:** Full Vertical Spine (Nape to Hem) + Symmetrical Oblique "Vents" (Front-to-Back Wrap).
+    *   **Ink:** "Phantom Grey" Matte (Tonal) + 3D Clear "Liquid Silicone" (Structural Overlay).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A rear-diagonal professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Ghost-Contour Wrap' graphic features a series of fine, anatomical lines in 'Phantom Grey' matte ink mapping the spinal column and the oblique muscles. A thick, 3D layer of clear 'Liquid Silicone' is printed over the grey lines, creating raised structural ridges that catch the studio lights. The 'ALPHANIX' wordmark is micro-embossed into the silicone at the base of the spine. Tonal, high-spec technical fitness aesthetic. 8k.`
+
+## Design-098: "The Kinetic Mesh-Infusion"
+*   **Name:** THE KINETIC MESH-INFUSION
+*   **Design Intent/Rationale:** Targets the "Transition" trend where garments look like high-end streetwear but imply high-performance ventilation. It uses a "Porous Mesh" stencil texture to simulate breathable panels on the shoulder and chest. It introduces "Industrial Silver" metallic accents to contrast with "Electric Cobalt," creating a high-energy, technical look. The asymmetric "Harness" placement on the right side balances the previous left-sided "Fractal-Flare" (Design-095).
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Right Shoulder-to-Sternum "Harness" + Right Sleeve "Pulse-Ring" (Cuff).
+    *   **Ink:** "Electric Cobalt" (High-Opacity) + "Industrial Silver" Metallic + "Porous Mesh" Stencil Texture.
+    *   **Garment:** "Cement Grey" 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A front-view dynamic studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. The 'Kinetic Mesh-Infusion' graphic maps the right shoulder and pectoral in a massive 'Harness' block of Electric Cobalt and Industrial Silver. The Cobalt ink features a unique 'Porous Mesh' stencil texture, simulating high-performance ventilation zones. The 'ALPHANIX' wordmark is vertically integrated into the chest block in Industrial Silver metallic ink. Sharp lighting to emphasize the mesh texture and metallic sheen. 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-25 (Creative Director Session)
 Theme: **Fractal Prism & Industrial Structuralism**
 
