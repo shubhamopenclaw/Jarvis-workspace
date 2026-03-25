@@ -1,16 +1,16 @@
 # [25-03-26] Drop: Vintage Athletic Revival & Hidden Kineticism
 
 ## Design-099: THE VARSITY ARC-SLING
-- **Vibe**: 2016-era "Squad" culture meets 2026 premium. Vintage, raw, and high-impact.
-- **Placement**: Massive "Arc-Sling" wrapping from Lower-Back Right Hem, over Left Shoulder, to Front-Left Chest.
-- **Ink**: "Collegiate Red" (Matte) + "Heavy-Crackle" Weathering.
-- **Gemini Prompt (Studio Shot)**: Front-diagonal professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. 'Varsity Arc-Sling' graphic in Collegiate Red with a 'Heavy-Crackle' texture wrapping from back-right hem to front-left chest. Arched 'ALPHANIX' at shoulder. 8k.
+- **Vibe**: 2016-era "Squad" culture meets 2026 luxury. Raw, high-impact athletic aesthetic.
+- **Placement**: Massive "Arc-Sling" wrapping from the lower-back right hem, over the left shoulder, to the front-left chest.
+- **Ink**: "Collegiate Red" (Matte) + "Heavy-Crackle" Weathering Agent on Optic White 300 GSM.
+- **Gemini Prompt (Studio Shot)**: A front-diagonal professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. The 'Varsity Arc-Sling' graphic features a massive, continuous arc in Collegiate Red wrapping from the back-right hem, over the left shoulder, and down to the front-left chest. The red ink has a visible 'Heavy-Crackle' weathered texture, mimicking a vintage collegiate aesthetic. The 'ALPHANIX' wordmark is arched at the top of the shoulder in a bold, traditional athletic typeface. High-key lighting, 8k.
 
 ## Design-100: THE HIDDEN NEON-FLEX
-- **Vibe**: Performance fluidity. Hidden, vibrant, and kinetic.
+- **Vibe**: Secret kinetic energy. Subtle when standing, explosive when flexed.
 - **Placement**: Inner-Sleeves (Bicep to Forearm) + Lateral Underarm-to-Rib "Vent".
-- **Ink**: "Neon Toxic Green" to "Forest Green" Split-Fountain + "Reflective Micro-Glass" additive.
-- **Gemini Prompt (Studio Shot)**: Dynamic studio photograph of a model in a 'Void Black' 240 GSM luxury oversized t-shirt, arms raised in a flexed pose. 'Hidden Neon-Flex' graphic on inner-sleeves and side-ribs in Neon Toxic Green to Forest Green gradient. Reflective micro-glass shimmer. 8k.
+- **Ink**: "Neon Toxic Green" to "Forest Green" Split-Fountain + "Reflective Micro-Glass" on Void Black 240 GSM.
+- **Gemini Prompt (Studio Shot)**: A dynamic studio photograph of a model in a 'Void Black' 240 GSM luxury oversized t-shirt, arms raised in a flexed pose. The 'Hidden Neon-Flex' graphic is visible on the inner-sleeves and side-ribs: a vibrant 'Neon Toxic Green' to 'Forest Green' split-fountain gradient. The ink features a 'Reflective Micro-Glass' shimmer that catches the studio flashes. The 'ALPHANIX' wordmark is vertically aligned along the inner forearm in high-gloss black. Deep shadows, focus on the glowing inner-arm area. 8k.
 
 # [26-03-26] Drop: Technical Ghost & Kinetic Topography
 
@@ -47,7 +47,7 @@
 ### Design-093: THE LAVENDER TECH-SHELL
 - **Vibe**: Sophisticated Tech-Pastel Utility. 
 - **Placement**: Dual Shoulder-to-Sternum "Harness" Wrap (Upper Traps/Delts).
-- **Ink**: Matte Lavender (High-Opacity) + "Liquid Chrome" Silver (Reflective).
+- **Ink**: Matte Lavender (High-Opacity) + "Liquid Chrome" Silver (Refractive).
 - **Gemini Prompt (Studio Shot)**: High-angle front-view studio photograph of a 'Bone' Off-White 300 GSM heavyweight t-shirt. Symmetrical 'Lavender Tech-Shell' graphic in matte Lavender. Micro-printed 'Liquid Chrome' silver ALPHANIX. 8k.
 
 ### Design-094: THE KINETIC NEO-GRUNGE HEM
@@ -274,7 +274,7 @@
 - **Ink**: Off-White "Heavy Crackle" Plastisol (Weathered texture).
 - **Gemini Prompt (Studio Shot)**: Hyper-realistic studio photograph of a premium 300 GSM Deep Navy Blue t-shirt. A massive "ALPHANIX" wordmark in Off-White "Heavy Crackle" ink runs diagonally from left shoulder to right hip, bleeding off the side seam. Weathered, vintage-athletic look. 8k.
 
-### Design-062: THE CHROMATIC PULSE-LINE
+### Design-062: THE CHROMATIC Pulse-LINE
 - **Vibe**: Fiber-optic anatomical. Minimal, technical, and high-performance.
 - **Placement**: Full Back (Anatomical V-Taper Mapping).
 - **Ink**: Neon Citron to Electric Cyan Gradient + 3D High-Gloss Gel.
@@ -349,44 +349,3 @@
 - **Placement**: Vertical Centered Spine (Nape to Mid-Back).
 - **Ink**: Matte Safety Orange (Negative space cutout).
 - **Gemini Prompt (Studio Shot)**: Professional studio photograph, back view of a model in a Charcoal Grey heavyweight t-shirt. A long, narrow vertical block of Matte Safety Orange ink runs down the center spine. The word 'ALPHANIX' is visible as a negative space cutout, showing the charcoal fabric underneath. High-contrast lighting, 85mm lens, industrial brutalist vibe.
-
-
-### Batch: 2026-03-18 (PM) - Design-063 & 064
-
-#### Design-063: "The Kinetic Fracture-Hem"
-- **Concept:** Shattered Kineticism (Neon Citron/Electric Lime Gradient).
-- **Placement:** Lower Left Hem to Back-Right Wrap.
-- **Studio Prompt:** `A hyper-realistic professional studio photograph of a premium 300 GSM Matte Black heavyweight t-shirt. A massive "shattered" graphic in a Neon Citron to Electric Lime gradient explodes from the front-left bottom hem, wrapping aggressively around the side to the lower back. The word "ALPHANIX" is deconstructed into sharp, kinetic shards within the blast. Each shard has a subtle high-density matte black 3D outline. Low-angle shot, cinematic lighting highlighting the neon ink's vibrancy against the black fabric, futuristic elite fitness streetwear, 8k.`
-
-#### Design-064: "The Chromatic Seam-Lock"
-- **Concept:** Chromatic Seam-Lock (Translucent Cyber-Red 3D Gel).
-- **Placement:** Dual Shoulder-to-Nape "Harness" (Upper Traps & Delts).
-- **Studio Prompt:** `A high-resolution product shot from a high-angle rear-diagonal of a premium Gunmetal Grey 240 GSM t-shirt. A 3D structural "harness" graphic in translucent Cyber-Red liquid gel tracks the natural lines of the upper traps and wraps over the shoulders. The word "ALPHANIX" is micro-printed in crisp white technical typography inside the red gel track at the nape of the neck. The gel has a high-gloss, wet-look finish that catches sharp studio highlights. Professional fitness lookbook style, technical gear aesthetic, 8k.`
-
-## [21-03-26] Drop: Asymmetric Compression & Chromatic Fluidity
-
-### Design-079: THE OBLIQUE OVER-LOCK
-- **Vibe**: High-speed data-flow compression strap.
-- **Placement**: Massive Diagonal Wrap: Right Shoulder-Cap to Left-Lower Hem (Front & Back).
-- **Ink**: "Liquid Chrome" Silver (Refractive) + Primary Red (Matte Digital Scan-lines).
-- **Gemini Prompt (Studio Shot)**: A low-angle professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. A massive 'Oblique Over-Lock' graphic in high-gloss 'Liquid Chrome' silver wraps diagonally from the right shoulder-cap down to the left-lower hem, covering both front and back in a continuous loop. Over the silver are fine, matte Primary Red digital scan-lines. The 'ALPHANIX' wordmark is vertically integrated into the silver band on the front-left rib in high-density black. Futuristic athletic streetwear, elite fitness aesthetic, 8k.
-
-### Design-080: THE KINETIC PULSE-GUSSET
-- **Vibe**: Glowing kinetic energy release from the body's heat zones.
-- **Placement**: Dual Underarm Gussets + Inner-Sleeve Wrap + Lower Side-Vents.
-- **Ink**: Neon Emerald / Electric Lime / Solar Yellow (Tri-tone Split Fountain) + 3D Clear Water Gel.
-- **Gemini Prompt (Studio Shot)**: A side-profile dynamic studio photograph of a Deep Obsidian (Matte Black) 240 GSM luxury oversized t-shirt. The underarm gusset and inner-sleeve are dominated by a vibrant 'Kinetic Pulse' gradient bleeding from Neon Emerald to Solar Yellow. The graphic is finished with a thick layer of 3D high-gloss 'Clear Water' gel, giving it a wet, glowing appearance. The 'ALPHANIX' wordmark is micro-printed in reflective silver along the inner-sleeve seam. High-contrast cinematic lighting, focus on the glowing underarm area, 8k.
-
-## [22-03-26] Drop: Neo-Grunge & Heavy Textures
-
-### Design-081: THE PRISMATIC STERNUM-FLARE
-- **Vibe**: High-energy digital light burst.
-- **Placement**: Center-Chest (Sternum) radiating outward to Mid-Pectorals.
-- **Ink**: Transparent "Electric Cyan" + Transparent "Neon Magenta" (Overlapping to create Deep Violet) + 3D High-Gloss "Crystal" Gel.
-- **Gemini Prompt (Studio Shot)**: A front-view professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. The center-chest features a 'Prismatic Sternum-Flare' graphic where the word 'ALPHANIX' is shattered into overlapping transparent layers of Electric Cyan and Neon Magenta. 3D high-gloss 'Crystal' gel finish. 8k.
-
-### Design-082: THE DORSAL KINETIC-RIB
-- **Vibe**: Industrial motion wrap.
-- **Placement**: Mid-Spine (Center-Back) wrapping aggressively around the Right Ribcage to Front-Right Abdominal.
-- **Ink**: "Solar Yellow" (High-Opacity Matte) + "Heavy-Crackle" Weathering Agent.
-- **Gemini Prompt (Studio Shot)**: A rear-diagonal dynamic studio photograph of a Deep Earth Brown 240 GSM luxury oversized t-shirt. A massive 'Dorsal Kinetic-Rib' graphic in Solar Yellow wraps from the center-back spine to the front-right rib. Heavy-crackle weathered texture. 8k.
