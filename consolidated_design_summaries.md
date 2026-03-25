@@ -1,3 +1,17 @@
+# [25-03-26] Drop: Vintage Athletic Revival & Hidden Kineticism
+
+## Design-099: THE VARSITY ARC-SLING
+- **Vibe**: 2016-era "Squad" culture meets 2026 premium. Vintage, raw, and high-impact.
+- **Placement**: Massive "Arc-Sling" wrapping from Lower-Back Right Hem, over Left Shoulder, to Front-Left Chest.
+- **Ink**: "Collegiate Red" (Matte) + "Heavy-Crackle" Weathering.
+- **Gemini Prompt (Studio Shot)**: Front-diagonal professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. 'Varsity Arc-Sling' graphic in Collegiate Red with a 'Heavy-Crackle' texture wrapping from back-right hem to front-left chest. Arched 'ALPHANIX' at shoulder. 8k.
+
+## Design-100: THE HIDDEN NEON-FLEX
+- **Vibe**: Performance fluidity. Hidden, vibrant, and kinetic.
+- **Placement**: Inner-Sleeves (Bicep to Forearm) + Lateral Underarm-to-Rib "Vent".
+- **Ink**: "Neon Toxic Green" to "Forest Green" Split-Fountain + "Reflective Micro-Glass" additive.
+- **Gemini Prompt (Studio Shot)**: Dynamic studio photograph of a model in a 'Void Black' 240 GSM luxury oversized t-shirt, arms raised in a flexed pose. 'Hidden Neon-Flex' graphic on inner-sleeves and side-ribs in Neon Toxic Green to Forest Green gradient. Reflective micro-glass shimmer. 8k.
+
 # [26-03-26] Drop: Technical Ghost & Kinetic Topography
 
 ## Design-097: THE GHOST-CONTOUR WRAP

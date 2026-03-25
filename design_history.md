@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-25 (Creative Director Session)
+Theme: **Vintage Athletic Revival & Hidden Kineticism**
+
+## Design-099: "The Varsity Arc-Sling"
+*   **Name:** The Varsity Arc-Sling
+*   **Design Intent/Rationale:** Directly capitalizes on the "2026 being the new 2016" trend and the revival of vintage collegiate-style activewear. This design breaks away from the "technical/harness" logic of previous drops by using a single, massive "Arc-Sling" placement. It wraps from the lower-back right hem, sweeps diagonally over the left shoulder, and terminates at the front-left chest. It uses a "Collegiate Red" matte ink with a "Heavy-Crackle" texture to simulate a decade-old athletic tee that has been preserved in a 2026 luxury 300 GSM frame. It avoids all geometric blocks and technical lines for a raw, high-impact athletic aesthetic.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Diagonal "Arc" (Lower-Back Right Hem -> Left Shoulder -> Front-Left Chest).
+    *   **Ink:** "Collegiate Red" (Solid Matte) + "Heavy-Crackle" Weathering Agent.
+    *   **Garment:** "Optic White" 300 GSM Heavyweight T-Shirt.
+*   **Gemini Studio Prompt:**
+    `A front-view professional studio photograph of an Optic White 300 GSM heavyweight t-shirt. The 'Varsity Arc-Sling' graphic features a massive, continuous arc in Collegiate Red wrapping from the back-right hem, over the left shoulder, and down to the front-left chest. The red ink has a visible 'Heavy-Crackle' weathered texture, mimicking a vintage collegiate aesthetic. The 'ALPHANIX' wordmark is arched at the top of the shoulder in a bold, traditional athletic typeface. High-key lighting, 8k.`
+
+## Design-100: "The Hidden Neon-Flex"
+*   **Name:** The Hidden Neon-Flex
+*   **Design Intent/Rationale:** Targets the 2026 "Neon" and "Performance-Digital" trends but introduces a "Hidden Focal Point" strategy. Instead of printing on the chest or back, the graphic is placed on the **Inner-Sleeves (Bicep to Forearm)** and the **Lateral Underarm-to-Rib "Vent"**. This makes the design subtle when the athlete is standing still, but explosive and "vibrant" during movement or a lifting pose (the 'Flex' view). It uses a "Toxic Green" to "Forest Green" split-fountain gradient with a "Reflective Micro-Glass" additive, making the graphic glow under gym or street lights.
+*   **Technical Breakdown:**
+    *   **Placement:** Inner-Sleeves (Bicep to Wrist) + Lateral Underarm/Side-Rib "Pulse-Zone".
+    *   **Ink:** "Neon Toxic Green" to "Primary Forest Green" Split-Fountain + "Reflective Micro-Glass" Additive.
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A dynamic studio photograph of a model in a 'Void Black' 240 GSM luxury oversized t-shirt, arms raised in a flexed pose. The 'Hidden Neon-Flex' graphic is visible on the inner-sleeves and side-ribs: a vibrant 'Neon Toxic Green' to 'Forest Green' split-fountain gradient. The ink features a 'Reflective Micro-Glass' shimmer that catches the studio flashes. The 'ALPHANIX' wordmark is vertically aligned along the inner forearm in high-gloss black. Deep shadows, focus on the glowing inner-arm area. 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-25 (Evening Operational Heartbeat)
 Theme: **Technical Ghost & Kinetic Topography**
 
