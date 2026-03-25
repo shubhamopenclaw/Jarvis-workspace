@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-25 (Creative Director Session)
+Theme: **Fractal Prism & Industrial Structuralism**
+
+## Design-095: "The Prismatic Fractal-Flare"
+*   **Name:** The Prismatic Fractal-Flare
+*   **Design Intent/Rationale:** Directly addresses the 2026 trend of "Vibrant Digital Prints" and "Bold Aesthetics" while introducing a "Fractal Glass" texture that hasn't been used in previous drops. This design breaks symmetry by focusing entirely on the Left Sleeve and a "Shatter-Bleed" across the Left Pectoral. It moves away from smooth gradients or standard liquid drips into sharp, refractive "shards" that mimic broken digital light or a prisma-flare. It leverages "Electric Orchid" and "Solar Orange" for high-energy contrast against the luxury black garment.
+*   **Technical Breakdown:**
+    *   **Placement:** Full Left Sleeve (360-degree wrap) + Left Pectoral (Asymmetrical Bleed).
+    *   **Ink:** High-Gloss "Prism-Clear" (Refractive Topcoat) + Electric Orchid (Solid Matte) + Solar Orange (Solid Matte).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A low-angle dynamic studio photograph of a Void Black 240 GSM luxury oversized t-shirt. The 'Prismatic Fractal-Flare' graphic is a massive explosion of sharp, refractive glass-like shards in Electric Orchid and Solar Orange that fully wraps the left sleeve from shoulder to cuff. The shards 'bleed' aggressively onto the left pectoral in a shattered pattern. The ink has a high-gloss 'Prism-Clear' topcoat that refracts light into a spectrum of colors. The 'ALPHANIX' wordmark is micro-printed in reflective silver within one of the orchid shards on the bicep. Dramatic cinematic lighting, 8k.`
+
+## Design-096: "The Industrial Seam-Conduit"
+*   **Name:** The Industrial Seam-Conduit
+*   **Design Intent/Rationale:** Directly targets the 2026 "Contrast Seaming" and "Utilitarian/Tool-inspired" trends. Unlike previous "Harness" or "Skeleton" designs, this graphic uses the garment's physical double-stitched seams as its foundation. It treats the side-seams and drop-shoulders as "Exposed Structural Conduits," mapping them in a high-density "Steel-Blue" matte ink that mimics sandblasted aluminum. It frames the "V-taper" by following the side-seams, creating a structural, architectural framing that's both subtle and aggressive. It avoids all previous geometric blocks by focusing on the anatomical flow of the garment's own construction.
+*   **Technical Breakdown:**
+    *   **Placement:** Double-Stitched Side-Seams (Nape to Hem) + Drop-Shoulder Seams (Shoulder to Bicep) + Outer-Arm Vertical.
+    *   **Ink:** "Steel-Blue" High-Density Matte (3mm height) + "Warning-Yellow" Micro-Accents (Intersections).
+    *   **Garment:** "Cement Grey" 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A side-diagonal professional studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. The 'Industrial Seam-Conduit' graphic uses a thick, 3mm high-density matte 'Steel-Blue' silicone to map the double-stitched side-seams from the armpit to the bottom hem and the drop-shoulder seams. At the intersection of the seams, small 'Warning-Yellow' micro-accents are printed, simulating industrial joint bolts or electrical indicators. The 'ALPHANIX' wordmark is vertically integrated into the steel-blue conduit on the left-side rib. High-contrast side-lighting to emphasize the 3D raised texture of the silicone. 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-24 (Evening Drop)
 Theme: **Tech-Pastel Utility & Neo-Grunge Kineticism**
 

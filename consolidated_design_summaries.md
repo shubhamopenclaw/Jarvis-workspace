@@ -1,5 +1,19 @@
 # Consolidated Design Summaries - ALPHANIX
 
+## [25-03-26] Drop: Fractal Prism & Industrial Structuralism
+
+### Design-095: THE PRISMATIC FRACTAL-FLARE
+- **Vibe**: High-energy digital light burst with a "Fractal Glass" texture. Sharp, refractive, and asymmetric.
+- **Placement**: Full Left Sleeve (360-degree wrap) + Left Pectoral (Shatter-Bleed).
+- **Ink**: High-Gloss "Prism-Clear" (Refractive) + Electric Orchid (Matte) + Solar Orange (Matte).
+- **Gemini Prompt (Studio Shot)**: Low-angle dynamic studio photograph of a Void Black 240 GSM luxury oversized t-shirt. Massive 'Prismatic Fractal-Flare' graphic in Electric Orchid and Solar Orange wrapping left sleeve and chest. 8k.
+
+### Design-096: THE INDUSTRIAL SEAM-CONDUIT
+- **Vibe**: Structural architectural framing. Industrial, utilitarian, and high-density.
+- **Placement**: Double-Stitched Side-Seams (Nape to Hem) + Drop-Shoulder Seams.
+- **Ink**: Steel-Blue High-Density Matte (3mm height) + Warning-Yellow Micro-Accents.
+- **Gemini Prompt (Studio Shot)**: Side-diagonal studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. 3mm thick high-density Steel-Blue silicone mapping the garment's seams. Warning-Yellow accents at intersections. 8k.
+
 ## [24-03-26] Drop: Tech-Pastel Utility & Neo-Grunge Kineticism
 
 ### Design-093: THE LAVENDER TECH-SHELL
