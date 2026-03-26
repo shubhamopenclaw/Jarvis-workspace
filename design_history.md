@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-26 (Evening Operational Heartbeat)
+Theme: **Tactile Distortion & Symmetrical Fracture**
+
+## Design-105: "The 3D Puff-Monolith"
+*   **Name:** The 3D Puff-Monolith
+*   **Design Intent/Rationale:** Directly capitalizes on the "Puff Print" 3D texture trend identified for 2026. This design breaks away from the "fine anatomical lines" of previous drops by using a massive, centered "Monolith" block that spans the entire chest. The "ALPHANIX" wordmark is vertically carved out of the center as negative space. The 3 mm high-density "Puff" ink in "Cement Grey" creates a physical, sculptural depth that makes the garment look armored. It leverages the "Structured Oversize" trend by adding physical weight and rigidity to the chest panel.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Centered Chest-Block (Armpit-to-Armpit width, Sternum-to-Mid-Ab height).
+    *   **Ink:** "Cement Grey" 3D Puff Ink (3mm depth) + "Void Black" Matte Outline.
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A front-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The chest features 'The 3D Puff-Monolith' graphic: a massive, centered horizontal block in 'Cement Grey' 3D puff ink with a visible 3mm height and a soft, matte texture. The word 'ALPHANIX' is vertically carved out of the center of the block as negative space, showing the black fabric underneath. The block has sharp, architectural edges and a thick 'Void Black' matte outline. High-contrast lighting to emphasize the sculptural 3D depth of the puff ink. 8k.`
+
+## Design-106: "The Symmetrical Lat-Fracture"
+*   **Name:** The Symmetrical Lat-Fracture
+*   **Design Intent/Rationale:** Responds to the 2026 "Animal Textures" and "Geometric Symmetries" trends. This design maps the Latissimus Dorsi muscles with a "Snake-Skin" geometric pattern—not a literal print, but a series of interlocking hexagonal "scales" that follow the anatomical flow of the back. It uses a "Split-Fountain" gradient from "Electric Cobalt" to "Toxic Green," creating a vibrant, iridescent effect. The "ALPHANIX" wordmark is micro-printed along the outer edge of the scales, following the V-taper of the back.
+*   **Technical Breakdown:**
+    *   **Placement:** Symmetrical Latissimus Dorsi "Wings" (Nape to Mid-Back, wrapping to side-ribs).
+    *   **Ink:** "Electric Cobalt" to "Toxic Green" Split-Fountain + High-Gloss "Crystal" Topcoat.
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A rear-view dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The back features 'The Symmetrical Lat-Fracture' graphic: two massive, symmetrical 'wings' mapping the latissimus dorsi muscles in an interlocking hexagonal scale pattern. The scales are printed in a vibrant 'Electric Cobalt' to 'Toxic Green' split-fountain gradient with a high-gloss 'Crystal' topcoat that refracts light. The 'ALPHANIX' wordmark is micro-printed in reflective silver along the outer taper of the wings. Dramatic cinematic lighting to highlight the iridescent scales and the anatomical V-taper. 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-26 (Creative Director Session - Drop II)
 Theme: **Regenerative Earth & Primary X-Ray**
 
