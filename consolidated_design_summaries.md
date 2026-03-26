@@ -1,3 +1,17 @@
+# [26-03-26] Drop: Impact Resonance & Structural Illusion
+
+## Design-101: THE KINETIC IMPACT-RIPPLE
+- **Vibe**: Energy displacement / organic kineticism. Fluid, powerful, and radial.
+- **Placement**: Radial Symmetry on the Right Hip/Lower Oblique (Front-to-Back Wrap).
+- **Ink**: Deep Cobalt (Solid Matte) + Acid Green (3D Puff) on Void Black 240 GSM.
+- **Gemini Prompt (Studio Shot)**: Low-angle dynamic studio photograph of a Void Black 240 GSM luxury oversized t-shirt. Massive, organic concentric ripple pattern in Deep Cobalt and Acid Green radiating from the right hip. 3D 'Puff' texture on the Acid Green crests. 8k.
+
+## Design-102: THE SHADOW-LAYER ILLUSION
+- **Vibe**: Y2K layered illusion. Structural, architectural, and edge-focused.
+- **Placement**: 0.5" offset from the Collar, Sleeve Cuffs, and Bottom Hem (360-wrap).
+- **Ink**: Lava Red (2mm High-Density Silicone) on Cement Grey 300 GSM.
+- **Gemini Prompt (Studio Shot)**: High-angle side-profile studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. Thick 2mm high-density 'Lava Red' silicone lines offset 0.5" from collar, cuffs, and hem. 8k.
+
 # [25-03-26] Drop: Vintage Athletic Revival & Hidden Kineticism
 
 ## Design-099: THE VARSITY ARC-SLING

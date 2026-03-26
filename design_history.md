@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-26 (Creative Director Session)
+Theme: **Impact Resonance & Structural Illusion**
+
+## Design-101: "The Kinetic Impact-Ripple"
+*   **Name:** The Kinetic Impact-Ripple
+*   **Design Intent/Rationale:** Directly responds to the 2026 "Dramatic Patterns" and "Imaginative Styles" trends. Instead of mapping existing anatomical structures (spine, lats, chest), this design visualizes the *energy displacement* from a primary movement zone: the hip/waist rotation. It uses an organic, concentric "ripple" pattern that radiates from the right hip, creating a sense of powerful, fluid motion. The color palette leverages the 2026 Primary (Cobalt) and Neon (Acid Green) fusion, while the 3D Puff texture adds a tactile, physical resonance to the "impact" aesthetic. It avoids all geometric blocks or technical lines for a raw, high-impact athletic look.
+*   **Technical Breakdown:**
+    *   **Placement:** Radial Symmetry on the **Right Hip/Lower Oblique**, expanding upward across the mid-abdominal and downward toward the hem (Front-to-Back Wrap).
+    *   **Ink:** "Deep Cobalt" (Solid Matte Base) + "Acid Green" (3D Puff Ink Overlay for the ripple crests).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A low-angle dynamic studio photograph of a Void Black 240 GSM luxury oversized t-shirt. The 'Kinetic Impact-Ripple' graphic is centered on the right hip, featuring a massive, organic concentric ripple pattern in Deep Cobalt and Acid Green that radiates outward across the torso. The Acid Green ink crests have a thick, 3D 'Puff' texture that catches the light. The 'ALPHANIX' wordmark is vertically aligned within the outermost ripple on the front-right abdomen in high-gloss black. Deep shadows, focus on the vibrant neon and the tactile 3D texture. 8k.`
+
+## Design-102: "The Shadow-Layer Illusion"
+*   **Name:** The Shadow-Layer Illusion
+*   **Design Intent/Rationale:** Directly responds to the 2026 "Y2K Layered Tops" and "Primary Color" trends. Instead of actual layering, this design uses a "Shadow-Layer" illusion—a 2mm high-density silicone line in "Lava Red" offset from the garment's edges (collar, cuffs, hem). This simulates the look of a second, vibrant garment worn underneath, but with the performance and luxury silhouette of a 300 GSM frame. It's a structural optical illusion that highlights the garment's architecture without any traditional chest or back graphics. It leverages the "Primary Red" trend and the shift toward "Imaginative Styles" in fitness streetwear.
+*   **Technical Breakdown:**
+    *   **Placement:** 0.5" offset from the **Collar**, **Sleeve Cuffs**, and **Bottom Hem** (Continuous 360-wrap on all edges).
+    *   **Ink:** "Lava Red" (2mm High-Density Silicone) for a raised, rubberized shadow effect.
+    *   **Garment:** "Cement Grey" 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A high-angle side-profile studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. The 'Shadow-Layer Illusion' graphic features a thick, 2mm high-density silicone line in 'Lava Red' offset 0.5" from the collar, sleeve cuffs, and bottom hem. The raised red ink creates an optical illusion of a second garment layered underneath. The 'ALPHANIX' wordmark is micro-printed in reflective silver on the center-back, just above the hem-line. Sharp lighting to emphasize the 3D raised shadow effect and the architectural silhouette. 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-25 (Creative Director Session)
 Theme: **Vintage Athletic Revival & Hidden Kineticism**
 
