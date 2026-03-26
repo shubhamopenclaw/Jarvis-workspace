@@ -1,3 +1,17 @@
+# [26-03-26] Drop: Bio-Digital & Earth-Melt
+
+## Design-107: THE BIO-DIGITAL PRISM
+- **Vibe**: Refractive chromaticism / digital energy.
+- **Placement**: Asymmetrical Left Shoulder-to-Sternum "Fracture" (Chest Bleed).
+- **Ink**: Electric Cobalt to Toxic Green Split-Fountain + "Crystal" High-Gloss.
+- **Gemini Prompt (Studio Shot)**: Front-diagonal professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive, asymmetrical explosion of sharp, refractive shards in Electric Cobalt to Toxic Green. High-gloss 'Crystal' topcoat. 8k.
+
+## Design-108: THE PRIMARY EARTH-MELT
+- **Vibe**: Organic structuralism / regenerative textures.
+- **Placement**: Symmetrical Upper-Chest "V-Plate" (Shoulder-to-Sternum).
+- **Ink**: Deep Moss Green + Burnt Umber "Heavy-Crackle" + "Dew-Drop" 3D Gel.
+- **Gemini Prompt (Studio Shot)**: Front-view professional studio photograph of a 'Bone' Off-White 300 GSM heavyweight t-shirt. Symmetrical V-shaped chest plate in Deep Moss Green with Cracked Earth texture in Burnt Umber. 3D high-gloss 'Dew-Drop' gel. 8k.
+
 # [26-03-26] Drop: Impact Resonance & Structural Illusion
 
 ## Design-101: THE KINETIC IMPACT-RIPPLE
