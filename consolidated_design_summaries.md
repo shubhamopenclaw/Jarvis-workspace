@@ -1,3 +1,17 @@
+# [27-03-26] Drop: Kinetic Tension & Thermal Topography
+
+## Design-117: THE LATERAL TENSION-STRAP
+- **Vibe**: Side-Weighted Utility / Technical Tension.
+- **Placement**: Vertical Lateral Wrap (Armpit to Hem) + Under-Sleeve Pulse-Point.
+- **Ink**: Deep Cobalt Blue (Solid Matte) + Neon Electric Yellow (3D Micro-Stitch).
+- **Gemini Prompt (Studio Shot)**: Side-profile professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Wide vertical 'Deep Cobalt Blue' matte band with 3D 'Neon Electric Yellow' micro-dots on the side-seam. 8k.
+
+## Design-118: THE THERMAL V-PLATE
+- **Vibe**: Primary Heat-Map / Architectural Power.
+- **Placement**: Symmetrical Upper Chest "V-Plate" (Shoulder-to-Sternum) + Nape.
+- **Ink**: Transparent Primary Red + Deep Cobalt Blue (Overlapping Deep Violet) + 3D Clear Silicone.
+- **Gemini Prompt (Studio Shot)**: Front-view professional studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Symmetrical V-shaped chest plate in 'Primary Red' and 'Deep Cobalt Blue' topographical lines with 3D clear 'Liquid Silicone' ridges. 8k.
+
 # [27-03-26] Drop: Asymmetric Kineticism & Tonal Layering
 
 ## Design-115: THE ASYMMETRIC PYLON-VENT
@@ -11,6 +25,20 @@
 - **Placement**: Upper Back (Shoulder-to-Shoulder) + Trapezius.
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
+
+# [27-03-26] Drop: Kinetic Tension & Thermal Structuralism
+
+## Design-117: THE LATERAL TENSION-STRAP
+- **Vibe**: Side-Profile Utility / Functional Aesthetic.
+- **Placement**: Vertical Lateral Wrap (Armpit to Hem) + Under-Sleeve Pulse-Point.
+- **Ink**: Deep Cobalt Blue (Matte Base) + Neon Electric Yellow (3D Micro-Stitch).
+- **Gemini Prompt (Studio Shot)**: Side-profile studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Vertical Deep Cobalt band with raised 3D Neon Electric Yellow micro-dots on the side-seam. 8k.
+
+## Design-118: THE THERMAL V-PLATE
+- **Vibe**: High-Energy Thermal / Topographical Power.
+- **Placement**: Symmetrical Upper Chest "V-Plate" + Back Nape Stamp.
+- **Ink**: Transparent Primary Red + Primary Blue (Overlapping Violet) + 3D Clear Liquid Silicone.
+- **Gemini Prompt (Studio Shot)**: Front-view studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Symmetrical V-shaped chest plate with overlapping Red/Blue topographical lines and raised 3D clear Liquid Silicone ridges. 8k.
 
 # [27-03-26] Drop: Avant-Garde Architecturalism & Kinetic Chromaticism
 
