@@ -1,3 +1,17 @@
+# [27-03-26] Drop: Kinetic Distortion & Tonal Structuralism
+
+## Design-109: THE KINETIC BLUR-FRAME
+- **Vibe**: Horizontal velocity / digital motion blur.
+- **Placement**: Triple Horizontal "Velocity Bars" (Front-Right Rib to Back-Left Lat).
+- **Ink**: Electric Cobalt (Solid Core) to Cyan-Mist (Halftone Blur) + "Speed-Streaks" 3D Gel.
+- **Gemini Prompt (Studio Shot)**: Side-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Triple horizontal bars wrapping 270-degrees. Electric Cobalt core with Cyan-Mist blur edge. 3D clear 'Speed-Streaks' gel. 8k.
+
+## Design-110: THE TONAL APEX-COLLAR
+- **Vibe**: Technical Ghost / armored quiet luxury.
+- **Placement**: 360-degree Collar "Apex" (2-inch width) + Symmetrical "Trap-Spikes".
+- **Ink**: "Phantom Black" 3mm High-Density Matte Silicone + "Reflective Charcoal" Micro-Dots.
+- **Gemini Prompt (Studio Shot)**: High-angle close-up studio photograph of collar/shoulder of 'Void Black' 240 GSM luxury oversized t-shirt. Raised 3mm 'Phantom Black' matte silicone collar and trap-spikes. Reflective Charcoal micro-dots. 8k.
+
 # [26-03-26] Drop: Bio-Digital & Earth-Melt
 
 ## Design-107: THE BIO-DIGITAL PRISM
