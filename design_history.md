@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop VI)
+Theme: **Asymmetric Kineticism & Tonal Layering**
+
+## Design-115: "The Asymmetric Pylon-Vent"
+*   **Name:** The Asymmetric Pylon-Vent
+*   **Design Intent/Rationale:** Directly capitalizes on the "Asymmetrical Panel" and "Technical Depth" trends emerging for Spring 2026. This design focuses on the Left Ribcage and Left Deltoid, creating a visual "anchor" on one side of the body. It uses a series of high-density "Industrial Charcoal" blocks that mimic heavy-duty reinforced panels, intersected by a single "Vibrant Red" pulse-line. This design provides the "visual weight" required for our 240 GSM oversized fit while emphasizing the athlete's taper through its sharp, angular placement.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Left Ribcage Block (Side-to-Front Wrap) + Left Shoulder-Cap "ID-Stamp".
+    *   **Ink:** "Industrial Charcoal" (High-Density Matte Silicone, 2mm) + "Vibrant Red" (3D Puff Detail).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Asymmetric Pylon-Vent' graphic features a massive, vertical 2mm high-density 'Industrial Charcoal' silicone block on the left side-rib, wrapping slightly to the front. A sharp, horizontal 3D 'Vibrant Red' puff-ink line cuts through the center of the block. A matching small 'ID-Stamp' is printed on the left shoulder-cap. The 'ALPHANIX' wordmark is micro-embossed into the charcoal silicone. High-spec technical layering aesthetic, 8k.`
+
+## Design-116: "The Tonal Scapular-Flow"
+*   **Name:** The Tonal Scapular-Flow
+*   **Design Intent/Rationale:** Responds to the "Quiet Luxury" and "Anatomical Mapping" trends of late March 2026. This design maps the trapezius and shoulder blades with ultra-fine, tonal lines. It uses "Phantom Black" on our "Void Black" garment, creating a design that is only visible when the athlete is in motion and light hits the 3D clear silicone overlay. It’s a "Technical Ghost" design that emphasizes posture and muscle flow without the loudness of traditional graphics.
+*   **Technical Breakdown:**
+    *   **Placement:** Upper Back (Shoulder-to-Shoulder) + Nape of Neck wrapping to Traps.
+    *   **Ink:** "Phantom Black" (Matte Tonal) + 3D Clear "Liquid Silicone" (Structural Overlay).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A high-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Tonal Scapular-Flow' graphic features ultra-fine anatomical lines in 'Phantom Black' matte mapping the trapezius and shoulder blades. A thick layer of 3D clear 'Liquid Silicone' is printed over the lines, creating raised structural ridges that catch the light. The 'ALPHANIX' wordmark is micro-printed in reflective charcoal at the nape of the neck. Tonal, high-spec technical luxury aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop V)
 Theme: **Post-Americana & Biometric Minimalism**
 

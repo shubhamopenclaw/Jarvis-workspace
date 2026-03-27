@@ -1,3 +1,17 @@
+# [27-03-26] Drop: Asymmetric Kineticism & Tonal Layering
+
+## Design-115: THE ASYMMETRIC PYLON-VENT
+- **Vibe**: Side-Weighted Power / Asymmetrical Panel.
+- **Placement**: Massive Left Ribcage Block + Left Shoulder-Cap "ID-Stamp".
+- **Ink**: Industrial Charcoal (2mm Silicone) + Vibrant Red (3D Puff Detail).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive horizontal 2mm high-density 'Industrial Charcoal' silicone block on the left rib. Vibrant Red 3D puff line intersection. 8k.
+
+## Design-116: THE TONAL SCAPULAR-FLOW
+- **Vibe**: Technical Ghost / Anatomical Mapping.
+- **Placement**: Upper Back (Shoulder-to-Shoulder) + Trapezius.
+- **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
+- **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
+
 # [27-03-26] Drop: Post-Americana & Biometric Minimalism
 
 ## Design-113: THE BIOMETRIC GHOST-MAP
