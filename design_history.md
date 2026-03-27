@@ -21,6 +21,29 @@ Theme: **Asymmetric Kineticism & Tonal Layering**
 *   **Gemini Studio Prompt:**
     `A high-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Tonal Scapular-Flow' graphic features ultra-fine anatomical lines in 'Phantom Black' matte mapping the trapezius and shoulder blades. A thick layer of 3D clear 'Liquid Silicone' is printed over the lines, creating raised structural ridges that catch the light. The 'ALPHANIX' wordmark is micro-printed in reflective charcoal at the nape of the neck. Tonal, high-spec technical luxury aesthetic, 8k.`
 
+# ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop VI)
+Theme: **Avant-Garde Architecturalism & Kinetic Chromaticism**
+
+## Design-115: "The Floating Spine-Chassis"
+*   **Name:** The Floating Spine-Chassis
+*   **Design Intent/Rationale:** Directly capitalizes on the "Minimalist Design Quiet Empowerment" and "Structural Silhouettes" trends for 2026. This design moves away from standard anatomical mapping to create an **Avant-Garde "Chassis"**. It features a massive, vertical spine-bar that doesn't touch the nape or the hem, creating a "floating" effect. Cross-bars intersect the spine at the mid-scapula and lower-lat points, mimicking an external exoskeleton or armor frame. The use of "Phantom Black" high-density silicone on "Void Black" fabric ensures the design is defined by its physical 3D structure and shadow rather than high-contrast color.
+*   **Technical Breakdown:**
+    *   **Placement:** Central Back (Floating Spine) + Mid-Scapula and Lower-Lat Cross-bars (Horizontal).
+    *   **Ink:** "Phantom Black" High-Density Matte Silicone (4mm height) + "Carbon-Fiber" Micro-Texture.
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A rear-view minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Floating Spine-Chassis' graphic features a thick, 4mm raised 'Phantom Black' matte silicone vertical bar centered on the spine, with two intersecting horizontal bars at the scapula and lower lats. The silicone has a visible 'Carbon-Fiber' micro-weave texture. The design appears to float on the fabric, defined by deep architectural shadows. The 'ALPHANIX' wordmark is micro-embossed into the bottom of the vertical bar. High-end avant-garde activewear aesthetic, 8k.`
+
+## Design-116: "The Kinetic Primary-Shatter"
+*   **Name:** The Kinetic Primary-Shatter
+*   **Design Intent/Rationale:** Directly addresses the "Vibrant Color - Red and Blue Tones" and "Dramatic Patterns" trends identifying for late March 2026. This design breaks symmetry and traditional blocking by using a **"Kinetic Shatter" effect** centered on the front-right pectoral. It simulates a primary-colored energy burst (Primary Red and Cobalt Blue) that has been "frozen" in a digital fracture. It provides the "Bold Statement" required for 2026 streetwear while leveraging our premium 300 GSM "Optic White" frame for maximum color pop.
+*   **Technical Breakdown:**
+    *   **Placement:** Front-Right Pectoral (Primary Cluster) with Shards radiating to the Right Shoulder and Center-Sternum.
+    *   **Ink:** "Primary Red" (Matte) + "Deep Cobalt Blue" (Matte) + "Solar Yellow" (High-Gloss Accents).
+    *   **Garment:** "Optic White" 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal professional studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. The 'Kinetic Primary-Shatter' graphic features a massive cluster of sharp, fragmented shards in 'Primary Red' and 'Deep Cobalt Blue' centered on the front-right pectoral. Shards 'explode' toward the right shoulder and sternum. Small, high-gloss 'Solar Yellow' accent shards are scattered throughout for high-energy contrast. The 'ALPHANIX' wordmark is fragmented across several shards in high-density black. Raw, high-impact digital-athletic aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop V)
 Theme: **Post-Americana & Biometric Minimalism**
 

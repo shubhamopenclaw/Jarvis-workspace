@@ -12,6 +12,20 @@
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
 
+# [27-03-26] Drop: Avant-Garde Architecturalism & Kinetic Chromaticism
+
+## Design-115: THE FLOATING SPINE-CHASSIS
+- **Vibe**: External Armor / Structural Silence.
+- **Placement**: Central Back (Floating Spine) + Mid-Scapula and Lower-Lat Cross-bars.
+- **Ink**: Phantom Black (4mm High-Density Silicone) + Carbon-Fiber Micro-Texture.
+- **Gemini Prompt (Studio Shot)**: Rear-view minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Floating vertical and horizontal bars in 4mm raised 'Phantom Black' matte silicone with carbon-fiber micro-weave texture. 8k.
+
+## Design-116: THE KINETIC PRIMARY-SHATTER
+- **Vibe**: Energy Burst / Digital Fracture.
+- **Placement**: Front-Right Pectoral (Primary Cluster) + Right Shoulder/Sternum Bleed.
+- **Ink**: Primary Red (Matte) + Deep Cobalt Blue (Matte) + Solar Yellow (High-Gloss Accents).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal professional studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Fragmented shards in 'Primary Red' and 'Deep Cobalt Blue' centered on right pectoral, exploding toward shoulder and sternum. Solar Yellow high-gloss accents. 8k.
+
 # [27-03-26] Drop: Post-Americana & Biometric Minimalism
 
 ## Design-113: THE BIOMETRIC GHOST-MAP
