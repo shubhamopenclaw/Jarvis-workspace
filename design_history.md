@@ -44,6 +44,29 @@ Theme: **Asymmetric Kineticism & Tonal Layering**
 *   **Gemini Studio Prompt:**
     `A high-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Tonal Scapular-Flow' graphic features ultra-fine anatomical lines in 'Phantom Black' matte mapping the trapezius and shoulder blades. A thick layer of 3D clear 'Liquid Silicone' is printed over the lines, creating raised structural ridges that catch the light. The 'ALPHANIX' wordmark is micro-printed in reflective charcoal at the nape of the neck. Tonal, high-spec technical luxury aesthetic, 8k.`
 
+# ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop IX)
+Theme: **Invisible Tech & Primary Retro-Symmetry**
+
+## Design-121: "The Invisible-Tech Rib"
+*   **Name:** The Invisible-Tech Rib
+*   **Design Intent/Rationale:** Directly capitalizes on the "Invisible Tech" and "Quiet Luxury" trends emerging for 2026/2027. This design moves away from external armor toward **Subsurface Structuralism**. It maps the serratus and intercostal muscles using ultra-thin, tonal "Graphite" matte ink that is only visible through the play of light on the luxury 240 GSM fabric. It features a "Phantom" ALPHANIX wordmark that is vertically integrated and half-submerged in the linework, creating a high-spec, elite technical aesthetic that rewards closer inspection.
+*   **Technical Breakdown:**
+    *   **Placement:** Vertical Lateral Wrap (Front-Rib to Mid-Lat) + Right Bicep "Core-Stamp".
+    *   **Ink:** "Graphite Grey" (Matte Tonal) + 3D Clear "Liquid Silicone" (Micro-Ridges).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A side-profile minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Invisible-Tech Rib' graphic features ultra-fine, anatomical lines in 'Graphite Grey' matte ink mapping the serratus muscles. A hair-thin layer of 3D clear 'Liquid Silicone' is printed over the lines, creating subtle ridges that catch the light. The 'ALPHANIX' wordmark is vertically integrated into the rib lines, half-hidden by the tonal ink. High-end 'Invisible Tech' activewear aesthetic, 8k.`
+
+## Design-122: "The Primary 90s-V"
+*   **Name:** The Primary 90s-V
+*   **Design Intent/Rationale:** Directly addresses the "Primary Colors (Red/Blue)" and "90s Retro Logo" trends dominating late March 2026. This design uses a **Symmetrical "V-Blast"** centered on the chest. It features two massive, overlapping bars in "Primary Red" and "Deep Cobalt Blue" that form an aggressive 'V' shape, framing the athlete's shoulders. The use of a "Heavy-Crackle" weathered finish on the red bar and a "High-Gloss" finish on the blue bar creates a multi-texture, "New Vintage" look that provides a bold statement on our 300 GSM frame.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Symmetrical "V" (Shoulder-to-Center Chest) + Nape "Retro-Stamp".
+    *   **Ink:** "Primary Red" (Heavy-Crackle) + "Deep Cobalt Blue" (High-Gloss Matte) + "Optic White" (Micro-Typography).
+    *   **Garment:** "Optic White" 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A front-view professional studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. The 'Primary 90s-V' graphic features a massive, symmetrical V-shaped blast centered on the chest in 'Primary Red' (Heavy-Crackle texture) and 'Deep Cobalt Blue' (High-Gloss matte). The bars overlap at the sternum. The 'ALPHANIX' wordmark is micro-printed in reflective white across the shoulder-caps. Raw, high-impact 90s retro-athletic aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop VIII)
 Theme: **Tactical Minimalism & Retro-Kineticism**
 

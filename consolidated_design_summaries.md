@@ -26,6 +26,20 @@
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
 
+# [27-03-26] Drop: Invisible Tech & Primary Retro-Symmetry
+
+## Design-121: THE INVISIBLE-TECH RIB
+- **Vibe**: Quiet Luxury / Subsurface Strength.
+- **Placement**: Vertical Lateral Wrap (Front-Rib to Mid-Lat).
+- **Ink**: Graphite Grey (Matte Tonal) + 3D Clear Liquid Silicone Ridges.
+- **Gemini Prompt (Studio Shot)**: Side-profile minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine anatomical lines in 'Graphite Grey' matte with 3D clear 'Liquid Silicone' micro-ridges. 8k.
+
+## Design-122: THE PRIMARY 90s-V
+- **Vibe**: 90s Retro / New Vintage.
+- **Placement**: Massive Symmetrical "V" (Shoulder-to-Center Chest).
+- **Ink**: Primary Red (Heavy-Crackle) + Deep Cobalt Blue (High-Gloss Matte).
+- **Gemini Prompt (Studio Shot)**: Front-view studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Massive symmetrical 'V-Blast' centered on chest in Heavy-Crackle Red and High-Gloss Blue. 8k.
+
 # [27-03-26] Drop: Tactical Minimalism & Retro-Kineticism
 
 ## Design-119: THE MODULAR TACTICAL-CHEST
