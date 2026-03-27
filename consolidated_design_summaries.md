@@ -1,3 +1,17 @@
+# [27-03-26] Drop: Modular Mesh & Primary Structuralism
+
+## Design-111: THE MODULAR MESH-PANEL
+- **Vibe**: Technical Depth / Simulated Ventilation.
+- **Placement**: Dual Upper Deltoid "Vent-Blocks" + Vertical Side-Rib "Chassis-Vents".
+- **Ink**: Industrial Charcoal (Matte Grid) + Cyber-Red (High-Density Detailing).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive rectangular blocks on shoulders and ribs with hyper-realistic 'Porous Grid' mesh texture in Industrial Charcoal. Cyber-Red high-density accents. 8k.
+
+## Design-112: THE PRIMARY STRUCTURAL-V
+- **Vibe**: 90s Americana / Architectural Power.
+- **Placement**: Symmetrical "V-Frame" (Shoulder-Cap to Center-Waist/Hem).
+- **Ink**: Primary Navy (Matte) + Lava Red (Heavy-Crackle) + 3D Clear "Wet-Look" Gel.
+- **Gemini Prompt (Studio Shot)**: Front-view professional studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Symmetrical 'V-Frame' graphic in Primary Navy and Heavy-Crackle Lava Red. 3D clear 'wet-look' gel at overlap points. 8k.
+
 # [27-03-26] Drop: Kinetic Distortion & Tonal Structuralism
 
 ## Design-109: THE KINETIC BLUR-FRAME

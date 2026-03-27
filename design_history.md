@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop IV)
+Theme: **Modular Mesh & Primary Structuralism**
+
+## Design-111: "The Modular Mesh-Panel"
+*   **Name:** The Modular Mesh-Panel
+*   **Design Intent/Rationale:** Directly targets the "Mesh Layering" and "Technical Depth" trends identified for April 2026. This design doesn't use physical mesh but simulates it through a high-density "Porous Grid" screen print. It creates a "Modular" look by placing these mesh-textured blocks on the upper deltoids and the side-ribs, mimicking high-performance ventilation panels found in elite athletic gear. It provides the "visual depth" required by 2026 streetwear while maintaining the structural integrity of our 240/300 GSM cotton.
+*   **Technical Breakdown:**
+    *   **Placement:** Dual Upper Deltoid "Vent-Blocks" + Vertical Side-Rib "Chassis-Vents" (Front/Back Seam Split).
+    *   **Ink:** "Industrial Charcoal" (Matte Base) + "Cyber-Red" (Micro-Detailing) + "Porous Grid" Stencil Texture.
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Modular Mesh-Panel' graphic features massive rectangular blocks on both shoulders and the side-ribs printed in 'Industrial Charcoal' with a hyper-realistic 'Porous Grid' mesh texture. Small, high-density 'Cyber-Red' accents are printed at the corners of the panels, simulating modular attachment points. The 'ALPHANIX' wordmark is vertically integrated into the right-side rib panel in reflective silver. High-spec technical layering aesthetic, 8k.`
+
+## Design-112: "The Primary Structural-V"
+*   **Name:** The Primary Structural-V
+*   **Design Intent/Rationale:** Responds to the 2026 "Primary Color" (Red/Navy) and "90s Americana" revival. It moves away from "harnesses" toward a clean, architectural **"V-Frame"**. This design uses two massive, intersecting bars of "Primary Navy" and "Lava Red" that follow the line from the shoulder-cap to the center-waist, emphasizing a powerful athletic silhouette. The "Heavy-Crackle" finish on the red bar adds a "vintage-athletic" texture, bridging the gap between retro vibes and 2026 luxury.
+*   **Technical Breakdown:**
+    *   **Placement:** Symmetrical "V-Frame" (Shoulder-Cap to Center-Waist/Hem) + Nape of Neck "Stamp".
+    *   **Ink:** "Primary Navy" (Matte) + "Lava Red" (Heavy-Crackle) + 3D Clear "Wet-Look" Gel (Overlap points).
+    *   **Garment:** "Optic White" 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A front-view professional studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. The 'Primary Structural-V' graphic features two massive intersecting bars: one in 'Primary Navy' matte and one in 'Lava Red' with a heavy-crackle weathered texture. The bars form a sharp 'V' shape from the shoulder-caps down to the center-waist. At the intersection, a thick layer of 3D clear 'wet-look' gel is applied. The 'ALPHANIX' wordmark is vertically printed in the navy bar on the right side. Raw, high-impact athletic aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-27 (Creative Director Session)
 Theme: **Kinetic Distortion & Tonal Structuralism**
 
