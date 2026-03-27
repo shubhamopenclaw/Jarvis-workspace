@@ -26,6 +26,20 @@
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
 
+# [27-03-26] Drop: Tactical Minimalism & Retro-Kineticism
+
+## Design-119: THE MODULAR TACTICAL-CHEST
+- **Vibe**: Industrial Utility / System Strength.
+- **Placement**: Symmetrical Dual Vertical Bars + Central Sternum "Module-Block".
+- **Ink**: Phantom Grey (Matte Silicone) + Neon Toxic Green (Micro-Typography).
+- **Gemini Prompt (Studio Shot)**: Front-view studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Raised 3mm 'Phantom Grey' matte silicone vertical bars and sternum block with 'Neon Toxic Green' technical typography. 8k.
+
+## Design-120: THE 90s KINETIC-SWOOP
+- **Vibe**: Vintage Speed / High-Impact Anchor.
+- **Placement**: Lower Torso 360-degree Wrap + Right Sleeve Speed-Ring.
+- **Ink**: Primary Red to Solar Yellow (Split-Fountain) + Heavy-Crackle Weathering.
+- **Gemini Prompt (Studio Shot)**: Low-angle dynamic studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Massive horizontal 'swoop' wrapping 360-degrees in Red-to-Yellow gradient with 'Heavy-Crackle' texture. 8k.
+
 # [27-03-26] Drop: Kinetic Tension & Thermal Structuralism
 
 ## Design-117: THE LATERAL TENSION-STRAP

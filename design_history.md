@@ -44,6 +44,29 @@ Theme: **Asymmetric Kineticism & Tonal Layering**
 *   **Gemini Studio Prompt:**
     `A high-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Tonal Scapular-Flow' graphic features ultra-fine anatomical lines in 'Phantom Black' matte mapping the trapezius and shoulder blades. A thick layer of 3D clear 'Liquid Silicone' is printed over the lines, creating raised structural ridges that catch the light. The 'ALPHANIX' wordmark is micro-printed in reflective charcoal at the nape of the neck. Tonal, high-spec technical luxury aesthetic, 8k.`
 
+# ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop VIII)
+Theme: **Tactical Minimalism & Retro-Kineticism**
+
+## Design-119: "The Modular Tactical-Chest"
+*   **Name:** The Modular Tactical-Chest
+*   **Design Intent/Rationale:** Responds to the 2026 "Tactical Minimalism" and "Modular Silhouette" trends. This design simulates a high-tech "Utility Chest-Rig" using high-density matte silicone. It features dual vertical "Strap-Bars" and a central "Module-Block" that frames the sternum and pectorals. It avoids the "heavy harness" look by using a tonal "Phantom Grey" base on "Void Black" fabric, with only small "Neon Toxic Green" micro-typography to signify "System Status." It positions the garment as an "Industrial Tool" for the elite athlete.
+*   **Technical Breakdown:**
+    *   **Placement:** Symmetrical Dual Vertical Bars (Shoulders to Mid-Ab) + Central Sternum "Module-Block".
+    *   **Ink:** "Phantom Grey" 3mm High-Density Silicone (Matte) + "Neon Toxic Green" Micro-Typography.
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A front-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Modular Tactical-Chest' graphic features dual, raised 3mm 'Phantom Grey' matte silicone vertical bars running from the shoulders to the mid-abdomen. A central 'Module-Block' in the same silicone sits at the sternum. Micro-printed 'Neon Toxic Green' technical typography is visible on the edges of the bars. The 'ALPHANIX' wordmark is micro-embossed into the central block. High-spec industrial technical aesthetic, 8k.`
+
+## Design-120: "The 90s Kinetic-Swoop"
+*   **Name:** The 90s Kinetic-Swoop
+*   **Design Intent/Rationale:** Directly capitalizes on the "90s Baggy Revival" and "Retro-Athletic" trends of late March 2026. This design moves away from rigid technical lines to a dynamic, fluid **"Swoop"** that wraps 360-degrees around the lower torso. It uses a "Primary Red" to "Solar Yellow" split-fountain gradient with a "Heavy-Crackle" finish, simulating a high-speed vintage race-car aesthetic. It provides a massive "Visual Anchor" for the oversized silhouette, creating stability and motion.
+*   **Technical Breakdown:**
+    *   **Placement:** Lower Torso 360-degree Wrap (Hem to Mid-Ab) + Right Sleeve "Speed-Ring".
+    *   **Ink:** "Primary Red" to "Solar Yellow" Split-Fountain + "Heavy-Crackle" Weathering Agent.
+    *   **Garment:** "Optic White" 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A low-angle dynamic studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. The '90s Kinetic-Swoop' graphic features a massive, continuous horizontal 'swoop' wrapping 360-degrees around the lower torso in a vibrant 'Primary Red' to 'Solar Yellow' gradient. The ink has a visible 'Heavy-Crackle' weathered texture. A matching 'Speed-Ring' wraps the right cuff. The 'ALPHANIX' wordmark is arched within the swoop on the back in high-gloss black. High-impact vintage-athletic aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop VII)
 Theme: **Kinetic Tension & Thermal Structuralism**
 
