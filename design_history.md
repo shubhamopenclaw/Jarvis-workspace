@@ -1,3 +1,26 @@
+# ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop V)
+Theme: **Post-Americana & Biometric Minimalism**
+
+## Design-113: "The Biometric Ghost-Map"
+*   **Name:** The Biometric Ghost-Map
+*   **Design Intent/Rationale:** Directly capitalizes on the "Integrated Posture Sensors" and "Quiet Technology" trends of 2026. This design doesn't use actual electronics but visualizes the "Digital Nervous System" of an elite athlete. It maps the spine and shoulder-blades using a tonal "Phantom Grey" matte ink, but introduces ultra-fine "Electric Cobalt" pulse-lines that intersect at the primary muscle insertion points. It provides a high-spec, "Internal Energy" aesthetic that is subtle when stationary but glows under specific lighting, aligning with the "Quiet Luxury" fitness trend.
+*   **Technical Breakdown:**
+    *   **Placement:** Full Vertical Spine (Nape to Hem) + Symmetrical Scapular "Nerve-Tracks" (Shoulder-blade mapping).
+    *   **Ink:** "Phantom Grey" (Matte Tonal Base) + "Electric Cobalt" (Ultra-fine 0.5mm Pulse-lines) + 3D Clear "Liquid Silicone" (Structural Overlay).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A rear-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Biometric Ghost-Map' graphic maps the spinal column and shoulder blades with fine 'Phantom Grey' matte lines. Intersecting the grey are ultra-vibrant, hair-thin 'Electric Cobalt' pulse-lines that glow at muscle insertion points. A thick, 3D layer of clear 'Liquid Silicone' is printed over the entire structure, creating raised anatomical ridges. Tonal, high-spec technical luxury aesthetic, 8k.`
+
+## Design-114: "The Primary Americana-Sling"
+*   **Name:** The Primary Americana-Sling
+*   **Design Intent/Rationale:** Addresses the "90s-inspired Americana" and "Bold Red/Blue" trends dominating late March 2026. It breaks away from the "V-Frame" and "Harness" logic by using an asymmetrical **"Cross-Body Sling"**. This massive graphic wraps from the lower-back right hem, sweeps over the left shoulder, and drops to the front-right hip in a single continuous stroke of "Lava Red" and "Primary Navy." The use of a "Heavy-Crackle" texture on the red portion gives it a vintage "varsity" feel, while the navy provides a sharp, modern contrast.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Asymmetrical "Sling" (Lower-Back Right Hem -> Left Shoulder -> Front-Right Hip).
+    *   **Ink:** "Lava Red" (Heavy-Crackle) + "Primary Navy" (Matte) + "Optic White" (Micro-Typography).
+    *   **Garment:** "Optic White" 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A front-view dynamic studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. The 'Primary Americana-Sling' graphic features a massive, continuous diagonal band wrapping from the lower-back right hem, over the left shoulder, and down to the front-right hip. The band is split between 'Lava Red' with a visible heavy-crackle weathered texture and solid 'Primary Navy' matte. The 'ALPHANIX' wordmark is vertically printed in high-gloss white within the navy section on the chest. Raw, high-impact vintage-athletic aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop IV)
 Theme: **Modular Mesh & Primary Structuralism**
 

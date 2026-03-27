@@ -1,3 +1,17 @@
+# [27-03-26] Drop: Post-Americana & Biometric Minimalism
+
+## Design-113: THE BIOMETRIC GHOST-MAP
+- **Vibe**: Internal Energy / Quiet Tech.
+- **Placement**: Full Vertical Spine (Nape to Hem) + Symmetrical Scapular "Nerve-Tracks".
+- **Ink**: Phantom Grey (Matte Tonal) + Electric Cobalt (Ultra-fine Pulse-lines) + 3D Clear Liquid Silicone.
+- **Gemini Prompt (Studio Shot)**: Rear-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Fine 'Phantom Grey' matte lines mapping spine and shoulder blades with 'Electric Cobalt' hair-thin pulse-lines. 3D clear 'Liquid Silicone' ridges. 8k.
+
+## Design-114: THE PRIMARY AMERICANA-SLING
+- **Vibe**: 90s Americana / High-Impact Athletic.
+- **Placement**: Massive Asymmetrical "Sling" (Lower-Back Right Hem -> Left Shoulder -> Front-Right Hip).
+- **Ink**: Lava Red (Heavy-Crackle) + Primary Navy (Matte) + Optic White (Micro-Typography).
+- **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Massive, continuous diagonal band in 'Lava Red' (Heavy-Crackle) and 'Primary Navy' (Matte) wrapping from back-right hem to front-right hip. 8k.
+
 # [27-03-26] Drop: Modular Mesh & Primary Structuralism
 
 ## Design-111: THE MODULAR MESH-PANEL
