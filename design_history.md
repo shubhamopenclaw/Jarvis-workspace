@@ -44,6 +44,29 @@ Theme: **Asymmetric Kineticism & Tonal Layering**
 *   **Gemini Studio Prompt:**
     `A high-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Tonal Scapular-Flow' graphic features ultra-fine anatomical lines in 'Phantom Black' matte mapping the trapezius and shoulder blades. A thick layer of 3D clear 'Liquid Silicone' is printed over the lines, creating raised structural ridges that catch the light. The 'ALPHANIX' wordmark is micro-printed in reflective charcoal at the nape of the neck. Tonal, high-spec technical luxury aesthetic, 8k.`
 
+# ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop II)
+Theme: **Reflective Camo & Invisible Topography**
+
+## Design-125: "The Reflective-Camo Fracture"
+*   **Name:** The Reflective-Camo Fracture
+*   **Design Intent/Rationale:** Directly capitalizes on the "Reflective Accents," "Bold Geometric Cuts," and "Colorful Camo" trends identified for 2026 (Complex/Global Sources). This design moves away from traditional military camo into a **Reflective Digital-Fracture**. It maps the shoulders and upper chest using a fragmented "Matte Obsidian" pattern, but with 25% of the shards printed in a high-gloss "Refractive Silver." Under normal light, it's a subtle tonal camo; under flash or heavy gym lighting, it "fractures" into a high-vis geometric shield.
+*   **Technical Breakdown:**
+    *   **Placement:** Dual Shoulder-to-Sternum "Mantle" Wrap (Upper Traps, Delts, and Front-Pectoral).
+    *   **Ink:** "Matte Obsidian" (Solid Base) + "Refractive Silver" (Reflective Overlayer) + 3D Clear "Liquid Silicone" (Structural Shards).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Reflective-Camo Fracture' graphic features a massive, asymmetrical mantle mapping the shoulders and chest in a digital camo pattern. 25% of the camo shards are in high-gloss 'Refractive Silver' that glows under the studio flashes, while the rest are 'Matte Obsidian'. The shards have a raised 3D texture from clear 'Liquid Silicone'. The 'ALPHANIX' wordmark is vertically integrated into the silver shards on the left deltoid. Futuristic technical aesthetic, 8k.`
+
+## Design-126: "The Invisible-Topograph Rib"
+*   **Name:** The Invisible-Topograph Rib
+*   **Design Intent/Rationale:** Directly addresses the "Invisible Tech" and "Sleek Silhouettes" trends forecasted for late 2026/2027 (LSLONG). This design moves away from loud, external graphics toward **Subsurface Structuralism**. It maps the natural topographical flow of the obliques and lats using a tonal "Phantom Grey" matte ink. It features a "Phantom" ALPHANIX wordmark that is vertically integrated and half-submerged in the topography, creating a "Quiet Luxury" fitness aesthetic that is only visible through the play of light on the different textures.
+*   **Technical Breakdown:**
+    *   **Placement:** Vertical Lateral Wrap (Front-Rib to Mid-Lat) + Right Bicep "Core-Stamp".
+    *   **Ink:** "Phantom Grey" (Matte Tonal) + 3D Clear "Liquid Silicone" (Micro-Topographical Ridges).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A side-profile minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Invisible-Topograph Rib' graphic features ultra-fine, topographical lines in 'Phantom Grey' matte ink mapping the obliques and lats. A hair-thin layer of 3D clear 'Liquid Silicone' is printed over the lines, creating subtle ridges that catch the light during movement. The 'ALPHANIX' wordmark is vertically integrated into the topographical flow, half-hidden by the tonal ink. High-end 'Invisible Tech' activewear aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop I)
 Theme: **Reflective Geometry & Clashing Primaries**
 

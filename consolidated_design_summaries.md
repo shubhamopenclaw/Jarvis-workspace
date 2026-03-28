@@ -26,6 +26,20 @@
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
 
+# [28-03-26] Drop: Reflective Camo & Invisible Topography
+
+## Design-125: THE REFLECTIVE-CAMO FRACTURE
+- **Vibe**: Digital Camo / Reflective Mantle.
+- **Placement**: Dual Shoulder-to-Sternum "Mantle" Wrap.
+- **Ink**: Matte Obsidian (Solid Base) + Refractive Silver (Glow-Overlayer).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive digital-fracture camo mantle with 'Refractive Silver' shards that glow under flash. 8k.
+
+## Design-126: THE INVISIBLE-TOPOGRAPH RIB
+- **Vibe**: Quiet Luxury / Subsurface Strength.
+- **Placement**: Vertical Lateral Wrap (Front-Rib to Mid-Lat).
+- **Ink**: Phantom Grey (Matte Tonal) + 3D Clear Liquid Silicone Ridges.
+- **Gemini Prompt (Studio Shot)**: Side-profile minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine topographical lines in 'Phantom Grey' matte with 3D clear 'Liquid Silicone' micro-ridges. 8k.
+
 # [28-03-26] Drop: Reflective Geometry & Clashing Primaries
 
 ## Design-123: THE GEOMETRIC REFLECTIVE-CORE
