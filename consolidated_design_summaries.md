@@ -26,6 +26,20 @@
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
 
+# [28-03-26] Drop: Tactical Stealth & Neon Digitalism
+
+## Design-129: THE STEALTH-UTILITY HARNESS
+- **Vibe**: Urban Ninja / Stealth Utility.
+- **Placement**: Symmetrical Shoulder-to-Rib "Harness" + Center-Chest "Sternum-Lock".
+- **Ink**: Matte Obsidian (3mm High-Density Silicone) + 3D Clear Liquid Silicone.
+- **Gemini Prompt (Studio Shot)**: Front-diagonal minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Raised 3mm 'Matte Obsidian' silicone blocks and structural clear Liquid Silicone lines mapping the shoulders and ribcage. 8k.
+
+## Design-130: THE NEON DIGITAL-PULSE
+- **Vibe**: Digital Energy / High-Gloss Glow.
+- **Placement**: Full Vertical Spine (Nape to Hem) + Symmetrical Lat "Vents".
+- **Ink**: Neon Emerald to Solar Yellow (Split-Fountain) + High-Gloss "Crystal" Topcoat.
+- **Gemini Prompt (Studio Shot)**: Rear-view studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive vertical pulse-line mapping the spine in a vibrant 'Neon Emerald' to 'Solar Yellow' split-fountain with high-gloss 'Crystal' topcoat. 8k.
+
 # [28-03-26] Drop: Modular Utility & Bio-Digital Contrast
 
 ## Design-127: THE MODULAR UTILITY-MANTLE

@@ -44,6 +44,29 @@ Theme: **Asymmetric Kineticism & Tonal Layering**
 *   **Gemini Studio Prompt:**
     `A high-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Tonal Scapular-Flow' graphic features ultra-fine anatomical lines in 'Phantom Black' matte mapping the trapezius and shoulder blades. A thick layer of 3D clear 'Liquid Silicone' is printed over the lines, creating raised structural ridges that catch the light. The 'ALPHANIX' wordmark is micro-printed in reflective charcoal at the nape of the neck. Tonal, high-spec technical luxury aesthetic, 8k.`
 
+# ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop IV)
+Theme: **Tactical Stealth & Neon Digitalism**
+
+## Design-129: "The Stealth-Utility Harness"
+*   **Name:** The Stealth-Utility Harness
+*   **Design Intent/Rationale:** Directly capitalizes on the "Urban Ninja" and "Tactical Minimalism" trends identified for 2026 (Glance/UrbanCityStyles). This design moves away from loud colors to a sophisticated, all-black **Stealth-Harness**. It features a series of high-density "Matte Obsidian" silicone blocks mapping the shoulders and ribcage, mimicking a low-profile utility rig. The branding is "Invisible"—the ALPHANIX wordmark is micro-embossed into the silicone at the sternum, aligning with the "Quiet Luxury" and "Invisible Tech" trends of late March 2026.
+*   **Technical Breakdown:**
+    *   **Placement:** Symmetrical Shoulder-to-Rib "Harness" Wrap + Center-Chest "Sternum-Lock".
+    *   **Ink:** "Matte Obsidian" (3mm High-Density Silicone) + 3D Clear "Liquid Silicone" (Structural Lines).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Stealth-Utility Harness' graphic features a series of raised 3mm 'Matte Obsidian' silicone blocks mapping the shoulders and ribcage. Fine 3D clear 'Liquid Silicone' lines connect the blocks, creating a subtle structural harness effect. The 'ALPHANIX' wordmark is micro-embossed into the center-chest block. High-spec 'Urban Ninja' technical aesthetic, defined by texture and shadow. 8k.`
+
+## Design-130: "The Neon Digital-Pulse"
+*   **Name:** The Neon Digital-Pulse
+*   **Design Intent/Rationale:** Responds to the "Digital Streetwear" and "Neon Colors" trends of 2026. This design features a massive, vertical "Digital Pulse" centered on the back. It uses a vibrant "Neon Emerald" to "Solar Yellow" split-fountain gradient that follows the spine, with "High-Gloss" accents that simulate a glowing digital data-flow. It captures the high-energy, futuristic vibe of 2026's "Imaginative Styles" while providing a bold statement on our luxury black frame.
+*   **Technical Breakdown:**
+    *   **Placement:** Full Vertical Spine (Nape to Hem) + Symmetrical Lat "Vents".
+    *   **Ink:** "Neon Emerald" to "Solar Yellow" Split-Fountain Gradient + High-Gloss "Crystal" Topcoat.
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A rear-view dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Neon Digital-Pulse' graphic features a massive vertical pulse-line mapping the spine in a vibrant 'Neon Emerald' to 'Solar Yellow' split-fountain gradient. The ink has a high-gloss 'Crystal' topcoat that makes it appear to glow. Symmetrical digital 'vents' bleed laterally onto the lats. The 'ALPHANIX' wordmark is vertically integrated into the pulse-line on the lower back in reflective silver. Futuristic digital-athletic aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop III)
 Theme: **Modular Utility & Bio-Digital Contrast**
 
