@@ -44,6 +44,29 @@ Theme: **Asymmetric Kineticism & Tonal Layering**
 *   **Gemini Studio Prompt:**
     `A high-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Tonal Scapular-Flow' graphic features ultra-fine anatomical lines in 'Phantom Black' matte mapping the trapezius and shoulder blades. A thick layer of 3D clear 'Liquid Silicone' is printed over the lines, creating raised structural ridges that catch the light. The 'ALPHANIX' wordmark is micro-printed in reflective charcoal at the nape of the neck. Tonal, high-spec technical luxury aesthetic, 8k.`
 
+# ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop III)
+Theme: **Modular Utility & Bio-Digital Contrast**
+
+## Design-127: "The Modular Utility-Mantle"
+*   **Name:** The Modular Utility-Mantle
+*   **Design Intent/Rationale:** Directly capitalizes on the "Modular Pocket Systems" and "Tactical Details" trends identified for 2026 (UrbanCityStyles/LSLONG). This design simulates a high-tech "Modular Mantle" that frames the neck and shoulders. It features a series of high-density "Industrial Charcoal" blocks that map the trapezius and clavicle, with "Lava Red" accent lines representing modular attachment points. It provides a structural, armored silhouette that transitions seamlessly from the gym to the city, aligning with the "Tactical Minimalism" required for April 2026.
+*   **Technical Breakdown:**
+    *   **Placement:** 360-degree Collar "Mantle" + Symmetrical Shoulder "Attachments" (Deltoid Caps).
+    *   **Ink:** "Industrial Charcoal" (3mm High-Density Matte Silicone) + "Lava Red" (Micro-Accents).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A high-angle professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Modular Utility-Mantle' graphic features a series of raised 3mm 'Industrial Charcoal' matte silicone blocks mapping the neck, trapezius, and shoulders. Small, high-gloss 'Lava Red' accent lines are printed at the edges of the blocks, simulating modular attachment points. The 'ALPHANIX' wordmark is micro-embossed into the center-front of the mantle. High-spec technical utility aesthetic, 8k.`
+
+## Design-128: "The Bio-Digital Spine-Fracture"
+*   **Name:** The Bio-Digital Spine-Fracture
+*   **Design Intent/Rationale:** Responds to the "Digital Streetwear" and "Performance-Digital" trends for 2026. This design moves away from organic anatomy to create a **Digitized Skeletal Frame**. It maps the spinal column using a series of "Electric Cobalt" and "Toxic Green" shards that "fracture" as they descend toward the hem. It captures the high-energy, futuristic vibe of 2026's "Imaginative Styles" while leveraging the vertical axis of the garment to elongate the athlete's silhouette.
+*   **Technical Breakdown:**
+    *   **Placement:** Full Vertical Spine (Nape to Hem) + Lateral "Energy-Leaks" onto Lats.
+    *   **Ink:** "Electric Cobalt" to "Toxic Green" Split-Fountain Gradient + 3D Clear "Liquid Silicone" (Shatter-Effect).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A rear-view dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Bio-Digital Spine-Fracture' graphic features a series of sharp, digital shards mapping the spinal column in a vibrant 'Electric Cobalt' to 'Toxic Green' split-fountain gradient. The shards appear to 'fracture' and bleed laterally onto the lats. A thick layer of 3D clear 'Liquid Silicone' creates a raised shatter-effect over the shards. The 'ALPHANIX' wordmark is micro-printed in reflective silver at the base of the spine. Futuristic digital-athletic aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop II)
 Theme: **Reflective Camo & Invisible Topography**
 

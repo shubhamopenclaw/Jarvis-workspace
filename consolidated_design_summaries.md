@@ -26,6 +26,20 @@
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
 
+# [28-03-26] Drop: Modular Utility & Bio-Digital Contrast
+
+## Design-127: THE MODULAR UTILITY-MANTLE
+- **Vibe**: Tactical Utility / Structural Armor.
+- **Placement**: 360-degree Collar "Mantle" + Symmetrical Shoulder "Attachments".
+- **Ink**: Industrial Charcoal (3mm High-Density Matte Silicone) + Lava Red (Micro-Accents).
+- **Gemini Prompt (Studio Shot)**: High-angle studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Raised 3mm 'Industrial Charcoal' matte silicone blocks mapping neck and shoulders with 'Lava Red' accent lines. 8k.
+
+## Design-128: THE BIO-DIGITAL SPINE-FRACTURE
+- **Vibe**: Digital Skeletal / High-Energy Fracture.
+- **Placement**: Full Vertical Spine (Nape to Hem) + Lateral "Energy-Leaks".
+- **Ink**: Electric Cobalt to Toxic Green (Split-Fountain) + 3D Clear Liquid Silicone.
+- **Gemini Prompt (Studio Shot)**: Rear-view studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Digital shards mapping the spine in a vibrant 'Electric Cobalt' to 'Toxic Green' split-fountain. Raised 3D clear 'Liquid Silicone' shatter-effect. 8k.
+
 # [28-03-26] Drop: Reflective Camo & Invisible Topography
 
 ## Design-125: THE REFLECTIVE-CAMO FRACTURE
