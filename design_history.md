@@ -44,6 +44,29 @@ Theme: **Asymmetric Kineticism & Tonal Layering**
 *   **Gemini Studio Prompt:**
     `A high-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Tonal Scapular-Flow' graphic features ultra-fine anatomical lines in 'Phantom Black' matte mapping the trapezius and shoulder blades. A thick layer of 3D clear 'Liquid Silicone' is printed over the lines, creating raised structural ridges that catch the light. The 'ALPHANIX' wordmark is micro-printed in reflective charcoal at the nape of the neck. Tonal, high-spec technical luxury aesthetic, 8k.`
 
+# ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop I)
+Theme: **Reflective Geometry & Clashing Primaries**
+
+## Design-123: "The Geometric Reflective-Core"
+*   **Name:** The Geometric Reflective-Core
+*   **Design Intent/Rationale:** Directly capitalizes on the "Reflective Accents" and "Bold Geometric Cuts" trends for 2026. This design centers on the **Core and Sternum**, creating a futuristic "Engine" aesthetic. It features a large, hexagonal block in "Matte Obsidian" with "Reflective Silver" geometric linework mapping the internal structure. It provides a sharp focal point that glows under direct flash or gym lighting, aligning with the "Futuristic Edge" required by 2026 streetwear.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Centered Chest-Hexagon (Sternum to Upper Ab).
+    *   **Ink:** "Matte Obsidian" (3D Raised Base) + "Reflective Silver" (Refractive Linework).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A front-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Geometric Reflective-Core' graphic features a massive, centered 3D raised hexagonal block in 'Matte Obsidian'. The block is etched with sharp 'Reflective Silver' geometric lines that glow under the studio flashes. The 'ALPHANIX' wordmark is vertically integrated into the side of the hexagon in high-gloss black. High-end futuristic technical aesthetic, 8k.`
+
+## Design-124: "The Primary Clashing-Wrap"
+*   **Name:** The Primary Clashing-Wrap
+*   **Design Intent/Rationale:** Responds to the "Clashing Prints" and "Unique Shade Combinations" trends identified for late March 2026. This design breaks away from safe color stories by using **"Neon Toxic Green"** and **"Lava Red"** in an aggressive, asymmetric wrap. It features a "Lava Red" jagged stroke from the right shoulder to center chest, clashed against a "Neon Toxic Green" digital-spray effect rising from the left hem. This high-contrast, "anti-aesthetic" approach captures the rebellious spirit of 2026's "Imaginative Styles."
+*   **Technical Breakdown:**
+    *   **Placement:** Asymmetric Right Shoulder (Stroke) + Left Hem/Rib (Digital-Spray).
+    *   **Ink:** "Lava Red" (High-Opacity Matte) + "Neon Toxic Green" (Digital-Spray Halftone).
+    *   **Garment:** "Bone" Off-White 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal professional studio photograph of a 'Bone' Off-White 300 GSM heavyweight t-shirt. The 'Primary Clashing-Wrap' graphic features an aggressive 'Lava Red' jagged stroke sweeping from the right shoulder toward the center. This is clashed against a 'Neon Toxic Green' digital-spray halftone pattern rising from the left bottom hem to the mid-rib. The 'ALPHANIX' wordmark is printed in high-gloss black over the red stroke on the pectoral. Raw, high-energy avant-garde streetwear aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop IX)
 Theme: **Invisible Tech & Primary Retro-Symmetry**
 

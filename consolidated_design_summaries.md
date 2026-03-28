@@ -26,6 +26,20 @@
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
 
+# [28-03-26] Drop: Reflective Geometry & Clashing Primaries
+
+## Design-123: THE GEOMETRIC REFLECTIVE-CORE
+- **Vibe**: Futuristic Engine / Reflective Power.
+- **Placement**: Massive Centered Chest-Hexagon (Sternum to Upper Ab).
+- **Ink**: Matte Obsidian (3D Raised) + Reflective Silver (Refractive Linework).
+- **Gemini Prompt (Studio Shot)**: Front-view studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive centered 3D raised hexagonal block in 'Matte Obsidian' with sharp 'Reflective Silver' geometric lines that glow under studio flashes. 8k.
+
+## Design-124: THE PRIMARY CLASHING-WRAP
+- **Vibe**: Clashing Prints / Anti-Aesthetic Rebellion.
+- **Placement**: Asymmetric Right Shoulder (Stroke) + Left Hem/Rib (Digital-Spray).
+- **Ink**: Lava Red (Matte) + Neon Toxic Green (Digital-Spray Halftone).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal studio photograph of a 'Bone' Off-White 300 GSM heavyweight t-shirt. Aggressive 'Lava Red' jagged stroke from right shoulder and 'Neon Toxic Green' digital-spray rising from left hem. 8k.
+
 # [27-03-26] Drop: Invisible Tech & Primary Retro-Symmetry
 
 ## Design-121: THE INVISIBLE-TECH RIB
