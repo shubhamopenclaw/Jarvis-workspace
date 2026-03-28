@@ -26,6 +26,34 @@
 - **Ink**: Phantom Black (Matte Tonal) + 3D Clear "Liquid Silicone".
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine 'Phantom Black' matte lines mapping traps and scapula. 3D clear 'Liquid Silicone' ridges. 8k.
 
+# [28-03-26] Drop: Primary Glitch & Anatomical Chassis
+
+## Design-131: THE HYPER-PRIMARY GLITCH-WRAP
+- **Vibe**: 2026 "Primary-Pop" Glitch / High-Contrast Velocity.
+- **Placement**: Massive Asymmetrical 270-degree Wrap (Left Hip to Center Chest to Right Shoulder).
+- **Ink**: Primary Red (Matte) + Cobalt Blue (High-Gloss Gel) + Neon Yellow (3D Micro-Typography).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal professional studio photograph of a 'Bone' Off-White 300 GSM heavyweight luxury t-shirt. A massive, aggressive 'Hyper-Primary Glitch-Wrap' graphic in vibrant Primary Red matte and high-gloss Cobalt Blue. The graphic sweeps from the left hip, across the center chest, and explodes over the right shoulder. Fine 'Neon Yellow' 3D micro-typography 'ALPHANIX' scattered within the glitch shards. 8k.
+
+## Design-132: THE ANATOMICAL CHASSIS-VENT
+- **Vibe**: Technical Structuralism / Invisible Utility.
+- **Placement**: Symmetrical Lateral Ribcage "Vents" + Inner-Sleeve "Pulse-Tracks".
+- **Ink**: Industrial Charcoal (3mm High-Density Silicone) + 'Crystal' Clear Liquid Silicone.
+- **Gemini Prompt (Studio Shot)**: Side-profile minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Raised 3mm 'Industrial Charcoal' high-density silicone blocks mapping the lateral ribcage and inner-sleeves, mimicking high-performance cooling vents. Overlaid with 'Crystal' clear liquid silicone ridges. 'ALPHANIX' vertically embossed into the charcoal silicone on the lower rib. 8k.
+
+# [28-03-26] Drop: Goth-Grunge Heavyweight & Invisible-Tech Utility
+
+## Design-133: THE HEAVYWEIGHT GOTH-GRUNGE HEM
+- **Vibe**: Raw Industrial / Heavy-Lift Aesthetic.
+- **Placement**: Massive 360-degree Bottom-Hem Wrap.
+- **Ink**: Off-White (Heavy-Crackle) + Phantom Black (High-Gloss Digital Spray).
+- **Gemini Prompt (Studio Shot)**: Low-angle studio photograph of a 'Void Black' 300 GSM heavyweight t-shirt. Massive 5-inch tall 'ALPHANIX' wordmark wrapping the hem in distressed, heavy-crackle Off-White ink. 8k.
+
+## Design-134: THE INVISIBLE-TECH TRAP-MAP
+- **Vibe**: Quiet Luxury / Subsurface Strength.
+- **Placement**: Lower-Collar Wrap + Symmetrical Trapezius "Wings".
+- **Ink**: Graphite Grey (Matte Tonal) + 3D Clear Liquid Silicone Ridges.
+- **Gemini Prompt (Studio Shot)**: High-angle rear-view minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Ultra-fine anatomical lines in 'Graphite Grey' mapping the upper back with 3D clear 'Liquid Silicone' micro-ridges. 8k.
+
 # [28-03-26] Drop: Tactical Stealth & Neon Digitalism
 
 ## Design-129: THE STEALTH-UTILITY HARNESS

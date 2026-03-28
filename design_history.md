@@ -1,3 +1,49 @@
+# ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop VI)
+Theme: **Goth-Grunge Heavyweight & Invisible-Tech Utility**
+
+## Design-133: "The Heavyweight Goth-Grunge Hem"
+*   **Name:** The Heavyweight Goth-Grunge Hem
+*   **Design Intent/Rationale:** Directly capitalizes on the "Goth Grunge" aesthetic gaining popularity in the "heavy-weight community" for 2026 (Mpls.St.Paul). This design moves away from technical precision to a **Raw, Weathered look**. It features a massive "ALPHANIX" wordmark in "Heavy-Crackle" Off-White ink that anchors the bottom hem and wraps 360-degrees. Over the crackle is a "Phantom Black" high-gloss spray, creating a distressed, "lived-in" industrial feel that adds physical weight to our 300 GSM frame.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive 360-degree Bottom-Hem Wrap (5-inch height).
+    *   **Ink:** "Off-White" (Heavy-Crackle Base) + "Phantom Black" (High-Gloss Digital Spray).
+    *   **Garment:** "Void Black" 300 GSM Heavyweight Cotton.
+*   **Gemini Studio Prompt:**
+    `A low-angle professional studio photograph of a 'Void Black' 300 GSM heavyweight t-shirt. The bottom hem is dominated by 'The Heavyweight Goth-Grunge Hem' graphic: a massive 5-inch tall 'ALPHANIX' wordmark wrapping 360-degrees in 'Off-White' heavy-crackle ink. The ink is weathered and distressed. Over the wordmark is a fine, high-gloss 'Phantom Black' digital spray that catches the light. Raw industrial fitness aesthetic, moody lighting, 8k.`
+
+## Design-134: "The Invisible-Tech Trap-Map"
+*   **Name:** The Invisible-Tech Trap-Map
+*   **Design Intent/Rationale:** Responds to the "Invisible Tech" trend forecasted for 2027—performance features undetectable to the casual observer (LSLONG). This design maps the **Trapezius and Upper Back** using tonal "Graphite" matte ink. It features ultra-fine, 3D clear "Liquid Silicone" ridges that follow the anatomical flow of the neck and shoulders. It is a "Quiet Luxury" technical piece that is only visible through the play of light on the different textures, emphasizing the athlete's frame without a loud graphic.
+*   **Technical Breakdown:**
+    *   **Placement:** 360-degree Lower-Collar Wrap + Symmetrical Trapezius "Wings" (Upper Back).
+    *   **Ink:** "Graphite Grey" (Matte Tonal) + 3D Clear "Liquid Silicone" (Micro-Ridges).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A high-angle rear-view minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Invisible-Tech Trap-Map' graphic features ultra-fine anatomical lines in 'Graphite Grey' matte ink mapping the upper back and trapezius. A hair-thin layer of 3D clear 'Liquid Silicone' is printed over the lines, creating subtle structural ridges that catch the light during movement. Tonal, high-spec technical luxury aesthetic, 8k.`
+
+# ALPHANIX Design Concepts: 2026-03-28 (Operational Design Engine - Drop V)
+Theme: **Primary Glitch & Anatomical Chassis**
+
+## Design-131: "The Hyper-Primary Glitch-Wrap"
+*   **Name:** The Hyper-Primary Glitch-Wrap
+*   **Design Intent/Rationale:** Directly capitalizes on the 2026 "Primary-Pop" (Red/Blue) and "Vibrant Digital Prints" trends. This design moves away from the symmetrical V-plates of previous drops to an aggressive, asymmetrical **270-degree "Glitch-Wrap"**. It visualizes a "Digital Velocity Burst"—a shattering trail of energy that sweeps from the left hip, across the center chest, and explodes over the right shoulder. It uses a high-contrast palette of Primary Red, high-gloss Cobalt Blue gel, and Neon Yellow 3D micro-typography to create a high-energy, "Imaginative Style" that is impossible to ignore.
+*   **Technical Breakdown:**
+    *   **Placement:** Massive Asymmetrical 270-degree Wrap (Left Hip -> Center Chest -> Right Shoulder).
+    *   **Ink:** "Primary Red" (Matte) + "Cobalt Blue" (3D High-Gloss Gel) + "Neon Yellow" (3D Micro-Typography).
+    *   **Garment:** "Bone" Off-White 300 GSM Heavyweight.
+*   **Gemini Studio Prompt:**
+    `A front-diagonal professional studio photograph of a 'Bone' Off-White 300 GSM heavyweight luxury t-shirt. The 'Hyper-Primary Glitch-Wrap' graphic features a massive, aggressive explosion of shards and glitches in vibrant Primary Red matte and high-gloss 3D Cobalt Blue gel. The graphic sweeps from the left hip, across the center chest, and 'shatters' over the right shoulder. Fine 'Neon Yellow' 3D micro-typography 'ALPHANIX' is scattered within the glitch shards. High-impact avant-garde streetwear aesthetic, 8k.`
+
+## Design-132: "The Anatomical Chassis-Vent"
+*   **Name:** The Anatomical Chassis-Vent
+*   **Design Intent/Rationale:** Responds to the "Technical Structuralism," "Utility-Inspired Cuts," and "Invisible Tech" trends of late March 2026. This design doesn't use color for impact; it uses **Physical 3D Structure**. It maps the "Lateral Cooling Zones" (Ribcage and Inner-Sleeve) with high-density "Industrial Charcoal" silicone blocks that mimic high-performance venting systems found in elite race-car chassis or advanced aerospace gear. Overlaid with "Crystal" clear liquid silicone ridges, it creates a "Quiet Luxury" fitness aesthetic that is only visible through the play of light on the 3D textures.
+*   **Technical Breakdown:**
+    *   **Placement:** Symmetrical Lateral Ribcage "Vents" (Front-to-Back Wrap) + Inner-Sleeve "Pulse-Tracks".
+    *   **Ink:** "Industrial Charcoal" (3mm High-Density Silicone) + "Crystal" Clear Liquid Silicone (Structural Ridges).
+    *   **Garment:** "Void Black" 240 GSM Luxury Oversized Fit.
+*   **Gemini Studio Prompt:**
+    `A side-profile minimalist studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. The 'Anatomical Chassis-Vent' graphic features raised 3mm 'Industrial Charcoal' high-density silicone blocks mapping the lateral ribcage and inner-sleeves, mimicking technical ventilation ports. The blocks are overlaid with fine 'Crystal' clear liquid silicone ridges that catch the light during movement. The 'ALPHANIX' wordmark is vertically embossed into the charcoal silicone on the lower-left rib. High-spec 'Invisible Tech' activewear aesthetic, 8k.`
+
 # ALPHANIX Design Concepts: 2026-03-27 (Operational Design Engine - Drop VII)
 Theme: **Kinetic Tension & Thermal Topography**
 
