@@ -266,6 +266,20 @@
 
 # Consolidated Design Summaries - ALPHANIX
 
+## [28-03-26] Drop: Kinetic Utility & Digital Vapor
+
+### Design-135: THE KINETIC UTILITY-CONDUIT
+- **Vibe**: High-Vis Utility / Exoskeleton Piping. Technical, minimalist, and dynamic.
+- **Placement**: Dual Side-Seam (Armpit to Hem) + Right Inner-Elbow + Left Collar-Trap.
+- **Ink**: Neon Safety Orange (2mm Silicone) + Reflective Silver (Micro-Dots).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal professional studio photograph of a 'Stone Grey' 300 GSM heavyweight boxy t-shirt. Raised 'Neon Safety Orange' silicone lines with 'Reflective Silver' micro-dots mapping the side-seams. 8k.
+
+### Design-136: THE VAPOR-PULSE GRADIENT
+- **Vibe**: Digital Halftone / Ethereal Energy. Fluid, high-energy, and modern.
+- **Placement**: 360-degree Lower-Hem "Vapor" Rise (Bottom 6 inches) + Back Nape.
+- **Ink**: Electric Cyan to Acid Green (Digital Spray) + 3D Clear "Wet-Look" Gel.
+- **Gemini Prompt (Studio Shot)**: Low-angle dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive 'Electric Cyan' to 'Acid Green' digital spray rising from the hem with high-gloss 3D clear 'wet-look' gel. 8k.
+
 ## [25-03-26] Drop: Fractal Prism & Industrial Structuralism
 
 ### Design-095: THE PRISMATIC FRACTAL-FLARE
