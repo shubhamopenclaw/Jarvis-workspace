@@ -266,7 +266,21 @@
 
 # Consolidated Design Summaries - ALPHANIX
 
-## [28-03-26] Drop: Kinetic Utility & Digital Vapor
+## [29-03-26] Drop: Neon Graffiti & Sculptural Piping
+
+## Design-137: THE NEON-GRAFFITI CHASSIS
+- **Vibe**: 2026 Urban-Athletic Fusion / Expressive Technicality.
+- **Placement**: Massive Asymmetrical Wrap (Left Shoulder to Center Chest to Right Lower Rib/Hem).
+- **Ink**: Electric Cobalt (Matte) + Neon Toxic Green (Hand-Drawn "Scribble") + 3D High-Gloss "Crystal" Gel.
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive, aggressive 'NEON-GRAFFITI CHASSIS' graphic in Electric Cobalt and Neon Toxic Green sweeping from left shoulder to right hem. High-gloss 'Crystal' gel over the green 'ALPHANIX' typography. 8k.
+
+## Design-138: THE KINETIC PIPING-HALO
+- **Vibe**: 2026 High-Tech Performance / Sculptural Minimalism.
+- **Placement**: 360-degree "Double-Pipe" Collar + Symmetrical "Scapular-Arch" Back Piping.
+- **Ink**: Industrial Charcoal (3mm High-Density Matte Silicone) + Primary Red (Micro-Dots).
+- **Gemini Prompt (Studio Shot)**: High-angle rear-view minimalist studio photograph of a 'Stone Grey' 300 GSM heavyweight boxy t-shirt. Raised 3mm 'Industrial Charcoal' matte silicone piping mapping the collar and the natural curves of the scapula. Fine 'Primary Red' micro-dots at structural intersections. 8k.
+
+# [28-03-26] Drop: Kinetic Utility & Digital Vapor
 
 ### Design-135: THE KINETIC UTILITY-CONDUIT
 - **Vibe**: High-Vis Utility / Exoskeleton Piping. Technical, minimalist, and dynamic.
