@@ -266,6 +266,20 @@
 
 # Consolidated Design Summaries - ALPHANIX
 
+## [29-03-26] Drop: Primary Fluidity & Architectural Negative-Space
+
+## Design-139: THE PRIMARY LIQUID-CHASSIS
+- **Vibe**: 2026 Gym-to-Street / Digital-Organic Fusion. A rejection of rigid technical blocks.
+- **Placement**: Massive Asymmetrical 360-degree Wrap (Right Trap to Left Hem).
+- **Ink**: Primary Red (Heavy-Crackle) + Deep Cobalt Blue (High-Gloss "Wet-Look") + Neon Yellow (3D Stitch).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive, aggressive 'PRIMARY LIQUID-CHASSIS' graphic in 'Lava Red' and high-gloss 'Deep Cobalt' fluid shapes. 8k.
+
+## Design-140: THE ARCHITECTURAL NEGATIVE-HALO
+- **Vibe**: 2026 Quiet-Tech / Sculptural Minimalism. Framing the athlete through negative space.
+- **Placement**: Symmetrical Lateral Vents (Armpit to Hem) + Nape-to-Scapula "Mantle".
+- **Ink**: Industrial Charcoal (3mm High-Density Matte Silicone) + 'Crystal' Clear Liquid Silicone.
+- **Gemini Prompt (Studio Shot)**: Side-profile minimalist studio photograph of a 'Stone Grey' 300 GSM heavyweight boxy t-shirt. Raised 3mm 'Industrial Charcoal' silicone blocks with 'ALPHANIX' carved out as negative space. 8k.
+
 ## [29-03-26] Drop: Neon Graffiti & Sculptural Piping
 
 ## Design-137: THE NEON-GRAFFITI CHASSIS
