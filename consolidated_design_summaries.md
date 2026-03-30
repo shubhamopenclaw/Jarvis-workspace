@@ -264,6 +264,20 @@
 - **Ink**: "Electric Cobalt" (High-Opacity) + "Industrial Silver" Metallic + "Porous Mesh" Stencil Texture.
 - **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. 'Kinetic Mesh-Infusion' graphic in Electric Cobalt and Industrial Silver mapping the right shoulder and chest. The ink has a 'Porous Mesh' stencil texture, simulating high-performance ventilation. Industrial silver ALPHANIX vertically integrated into the chest block. 8k.
 
+# [30-03-26] Drop: Radial Kineticism & Sculptural Architecture
+
+## Design-141: THE RADIAL KINETIC-CORE
+- **Vibe**: 2026 "Gym-to-Street" Energy / Centripetal Power.
+- **Placement**: Massive Asymmetrical Radial Burst (Right Pec to Right Lat/Ribs) + Right Sleeve "Orbit-Ring".
+- **Ink**: Neon Solar-Orange (Solid Matte) + Primary Red (Halftone "Motion-Blur") + 3D Clear "Liquid Silicone" (Center-Point).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive, aggressive 'RADIAL KINETIC-CORE' graphic in vibrant 'Neon Solar-Orange' and 'Primary Red' halftones exploding from the right chest. 8k.
+
+## Design-142: THE SCULPTURAL TRAP-MANTLE
+- **Vibe**: 2026 Sculptural Minimalism / Anatomical Architecture.
+- **Placement**: 360-degree Collar "Mantle" (3-inch width) + Symmetrical Trapezius "Wings".
+- **Ink**: Industrial Charcoal (3mm High-Density Matte Silicone) + 'Phantom Grey' (Matte Tonal Micro-Dots).
+- **Gemini Prompt (Studio Shot)**: High-angle rear-view minimalist studio photograph of a 'Bone' Off-White 300 GSM heavyweight boxy t-shirt. Raised 3mm 'Industrial Charcoal' matte silicone 'mantle' mapping the collar and traps. 8k.
+
 # Consolidated Design Summaries - ALPHANIX
 
 ## [29-03-26] Drop: Primary Fluidity & Architectural Negative-Space
