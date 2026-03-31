@@ -1,3 +1,7 @@
+- [31-03-26] Generated Design-151 (THE NEON-SCRIBBLE CHASSIS) and Design-152 (THE PRIMARY KINETIC-SLING).
+- Research: 2026 Trends focus on Expressive Technicality (Digital Graffiti) and Primary-Pop (High-Velocity Slings).
+- Duplication Check: Designs confirmed unique (no technical blocks, no Sector 6ix, no coordinates, no 'Ops T-Dot').
+- File: designs/Design-151-152-310326.md
 - [31-03-26] Generated Design-149 (THE PHANTOM-SEAM PULSE) and Design-150 (THE OXIDIZED LIQUID-BRASS).
 - Research: 2026 Trends focus on 1px-thin high-density 'Phantom Seams' (Clear Gloss) and 'Industrial Luxury' via 3D molten metallic (Oxidized Brass).
 - Duplication Check: Designs confirmed unique (no technical blocks, no Sector 6ix, no coordinates, no 'Ops T-Dot').

@@ -264,6 +264,20 @@
 - **Ink**: "Electric Cobalt" (High-Opacity) + "Industrial Silver" Metallic + "Porous Mesh" Stencil Texture.
 - **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. 'Kinetic Mesh-Infusion' graphic in Electric Cobalt and Industrial Silver mapping the right shoulder and chest. The ink has a 'Porous Mesh' stencil texture, simulating high-performance ventilation. Industrial silver ALPHANIX vertically integrated into the chest block. 8k.
 
+# [31-03-26] Drop: Digital Graffiti & Kinetic Primary-Clash
+
+## Design-151: THE NEON-SCRIBBLE CHASSIS
+- **Vibe**: 2026 "Gym-to-Street" / Expressive Technicality.
+- **Placement**: Massive Asymmetrical 270-degree Wrap (Left Shoulder to Right Hem).
+- **Ink**: Electric Cobalt (Matte) + Neon Toxic Green (Hand-Drawn "Scribble") + 3D High-Gloss "Crystal" Gel.
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Massive, aggressive 'NEON-SCRIBBLE CHASSIS' graphic in Electric Cobalt and Neon Toxic Green sweeping from left shoulder to right hem. High-gloss 'Crystal' gel over the green 'ALPHANIX' typography. 8k.
+
+## Design-152: THE PRIMARY KINETIC-SLING
+- **Vibe**: 2026 High-Impact / Velocity.
+- **Placement**: Massive Continuous Diagonal "Sling" (Back-Right Hem to Left Shoulder to Front-Right Hip).
+- **Ink**: Lava Red (Heavy-Crackle) + Deep Cobalt Blue (Matte) + Optic White (3D Micro-Typography).
+- **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Massive, continuous diagonal 'PRIMARY KINETIC-SLING' in Lava Red (Heavy-Crackle) and Deep Cobalt Blue (Matte) wrapping from back-right hem to front-right hip. 8k.
+
 # [31-03-26] Drop: Phantom Seams & Oxidized Brass
 
 ## Design-149: THE PHANTOM-SEAM PULSE
