@@ -264,6 +264,20 @@
 - **Ink**: "Electric Cobalt" (High-Opacity) + "Industrial Silver" Metallic + "Porous Mesh" Stencil Texture.
 - **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. 'Kinetic Mesh-Infusion' graphic in Electric Cobalt and Industrial Silver mapping the right shoulder and chest. The ink has a 'Porous Mesh' stencil texture, simulating high-performance ventilation. Industrial silver ALPHANIX vertically integrated into the chest block. 8k.
 
+# [31-03-26] Drop: Neo-Grunge Utility & Retro-Futurist Fluidity
+
+## Design-145: THE NEO-GRUNGE UTILITY-BLOCK
+- **Vibe**: 2026 Neo-Grunge / Industrial Utility. Distressed, raw performance.
+- **Placement**: Massive Asymmetrical 270-degree "Utility-Sling" (Right Shoulder-Cap to Left Hem).
+- **Ink**: Industrial Charcoal (Heavy-Crackle) + Neon Safety Orange (High-Gloss) + 3D Phantom Black.
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 300 GSM luxury t-shirt. Massive 'NEO-GRUNGE UTILITY-BLOCK' graphic in Industrial Charcoal and Neon Safety Orange. 8k.
+
+## Design-146: THE RETRO-FUTURIST FLUID-WRAP
+- **Vibe**: 2026 "Gym-to-Street" Fluidity / 90s Retro-Futurism. Liquid motion meet 90s palette.
+- **Placement**: Massive 360-degree Lower-Torso "Fluid-Orbit" + Right Sleeve "Pulse-Ring".
+- **Ink**: Electric Cobalt to Solar Yellow (Split-Fountain) + 3D Clear "Liquid Silicone".
+- **Gemini Prompt (Studio Shot)**: Low-angle dynamic studio photograph of an 'Optic White' 240 GSM luxury oversized t-shirt. Massive organic fluid wrap in Electric Cobalt to Solar Yellow gradient. 8k.
+
 # [30-03-26] Drop: Chromatic Hyper-Fluidity & Tectonic Architecture
 
 ## Design-143: THE CHROMATIC LIQUID-PULSE
