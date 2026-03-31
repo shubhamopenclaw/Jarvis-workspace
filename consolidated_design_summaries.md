@@ -264,6 +264,20 @@
 - **Ink**: "Electric Cobalt" (High-Opacity) + "Industrial Silver" Metallic + "Porous Mesh" Stencil Texture.
 - **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. 'Kinetic Mesh-Infusion' graphic in Electric Cobalt and Industrial Silver mapping the right shoulder and chest. The ink has a 'Porous Mesh' stencil texture, simulating high-performance ventilation. Industrial silver ALPHANIX vertically integrated into the chest block. 8k.
 
+# [31-03-26] Drop: Utility Pulse & Chrono-Digital Chassis
+
+## Design-147: THE UTILITY-PULSE
+- **Vibe**: High-Vis Utility / Sculptural Piping.
+- **Placement**: Anatomical Shoulder-to-Side Seams + Center Chest.
+- **Ink**: Volt Green (Matte Piping) + 3D Puff Matte Black (Logo).
+- **Gemini Prompt (Studio Shot)**: A studio shot of a high-quality 240 GSM Ash French Terry oversized t-shirt. The design features thick, architectural contrast piping in 'Volt Green' that traces the anatomical shoulder lines and drops vertically down the side seams. On the center chest, a minimalist, geometric ALPHANIX eagle logo is 3D-puff printed in matte black. 8k.
+
+## Design-148: THE CHRONO-DIGITAL CHASSIS
+- **Vibe**: 2000s G-Shock / Neo-Vintage Industrial.
+- **Placement**: Massive Back Center "Frame" + Integrated Branding.
+- **Ink**: Faded Silver (Metallic) + Heavy Charcoal (Base).
+- **Gemini Prompt (Studio Shot)**: A studio shot of a 200 GSM Denim Blue regular fit t-shirt. The back features a large, stylized 'Digital-Display' frame in faded silver ink, mimicking the rugged octagonal shape of a classic sport watch. Inside the frame, the word 'ALPHANIX' is rendered in a custom, thick liquid-crystal-display (LCD) font. 8k.
+
 # [31-03-26] Drop: Neo-Grunge Utility & Retro-Futurist Fluidity
 
 ## Design-145: THE NEO-GRUNGE UTILITY-BLOCK
