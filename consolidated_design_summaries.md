@@ -264,6 +264,20 @@
 - **Ink**: "Electric Cobalt" (High-Opacity) + "Industrial Silver" Metallic + "Porous Mesh" Stencil Texture.
 - **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. 'Kinetic Mesh-Infusion' graphic in Electric Cobalt and Industrial Silver mapping the right shoulder and chest. The ink has a 'Porous Mesh' stencil texture, simulating high-performance ventilation. Industrial silver ALPHANIX vertically integrated into the chest block. 8k.
 
+# [31-03-26] Drop: Phantom Seams & Oxidized Brass
+
+## Design-149: THE PHANTOM-SEAM PULSE
+- **Vibe**: 1px Minimal-Tech / Seam Illusion.
+- **Placement**: Symmetrical Chest & Inner-Arm "Paneling".
+- **Ink**: Clear Gloss (High-Density) + Ghost White (Matte Logo).
+- **Gemini Prompt (Studio Shot)**: Professional studio photograph of a 240 GSM Black Single Jersey oversized t-shirt. Ultra-thin, 1px-wide 'Seam-Line' graphics in Clear Gloss ink trace ergonomic chest paneling. Center-sternum 1-inch ALPHANIX logo in Ghost White. 8k.
+
+## Design-150: THE OXIDIZED LIQUID-BRASS
+- **Vibe**: Industrial Luxury / Molten Sculptural.
+- **Placement**: Large Center Chest "Molten Drop" (Dripping downward).
+- **Ink**: Oxidized Metallic Brass (3D Embossed).
+- **Gemini Prompt (Studio Shot)**: Professional studio photograph of a 240 GSM Dark Gray oversized t-shirt. Massive center-chest graphic in Metallic Oxidized Brass ink, appearing to flow and drip. Embossed ALPHANIX serif lettering inside the metal. High-contrast side lighting. 8k.
+
 # [31-03-26] Drop: Utility Pulse & Chrono-Digital Chassis
 
 ## Design-147: THE UTILITY-PULSE
