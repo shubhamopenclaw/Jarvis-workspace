@@ -1,3 +1,17 @@
+# [01-04-26] Drop: Iridescent Nebula & Sculptural Vanes
+
+## Design-153: THE IRIDESCENT NEBULA-PULSE
+- **Vibe**: 2026 Future-Neutral / Ethereal Tech.
+- **Placement**: Centered Chest "Atmospheric Pulse".
+- **Ink**: Iridescent Silver-to-Violet (Color-Shift) + Matte Black (Logo Overly).
+- **Gemini Prompt (Studio Shot)**: A professional studio shot of a 240 GSM Dark Gray oversized t-shirt. The center chest features a large, soft-edged circular gradient known as the 'Nebula-Pulse' in iridescent silver-to-violet ink. A sharp, matte black ALPHANIX eagle logo is centered over it. 8k.
+
+## Design-154: THE SCULPTURAL KINETIC-VANE
+- **Vibe**: Kinetic Anatomical / Structural 3D.
+- **Placement**: Asymmetrical Diagonal "Vanes" (Left Shoulder to Right Hip).
+- **Ink**: High-Density Electric Cobalt (3D Ribbed Texture).
+- **Gemini Prompt (Studio Shot)**: A studio shot of a 200 GSM Black regular fit t-shirt. From the left shoulder to the right hip, a series of thick, sculptural 'vane' graphics are printed in 3D ribbed Electric Cobalt ink. The word 'ALPHANIX' is vertically integrated into the lower hip vane. 8k.
+
 # [27-03-26] Drop: Kinetic Tension & Thermal Topography
 
 ## Design-117: THE LATERAL TENSION-STRAP
@@ -263,6 +277,20 @@
 - **Placement**: Massive Right Shoulder-to-Sternum "Harness" + Right Sleeve "Pulse-Ring" (Cuff).
 - **Ink**: "Electric Cobalt" (High-Opacity) + "Industrial Silver" Metallic + "Porous Mesh" Stencil Texture.
 - **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. 'Kinetic Mesh-Infusion' graphic in Electric Cobalt and Industrial Silver mapping the right shoulder and chest. The ink has a 'Porous Mesh' stencil texture, simulating high-performance ventilation. Industrial silver ALPHANIX vertically integrated into the chest block. 8k.
+
+# [01-04-26] Drop: Graffiti-Glitch & Kinetic Co-ord Illusions
+
+## Design-153: THE GRAFFITI-GLITCH MANTLE
+- **Vibe**: 2026 "Gym-to-Street" / Expressive Urbanism.
+- **Placement**: Massive 360-degree Collar "Mantle" (Sternum to Scapula).
+- **Ink**: Neon Solar-Yellow (Matte) + Primary Red (Digital-Spray) + 3D Clear "Liquid Silicone".
+- **Gemini Prompt (Studio Shot)**: High-angle front-diagonal studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. A massive 'GRAFFITI-GLITCH MANTLE' graphic in Neon Solar-Yellow and Primary Red maps the collar and sternum. Raw, spray-paint texture with digital glitch interruptions. 8k.
+
+## Design-154: THE KINETIC CO-ORD ILLUSION
+- **Vibe**: 2026 "Primary-Pop" Layering / Y2K Athleticism.
+- **Placement**: Massive 360-degree Mid-Torso Wrap (Chest to Ribs).
+- **Ink**: Deep Cobalt Blue (Solid Matte) + Lava Red (High-Gloss "Wet-Look") + Optic White (3D Micro-Typography).
+- **Gemini Prompt (Studio Shot)**: Front-view professional studio photograph of an 'Optic White' 300 GSM heavyweight boxy t-shirt. Mid-section dominated by a solid 'Deep Cobalt Blue' matte block with 'Lava Red' high-gloss slashes. 3D white 'ALPHANIX' micro-typography. 8k.
 
 # [31-03-26] Drop: Digital Graffiti & Kinetic Primary-Clash
 

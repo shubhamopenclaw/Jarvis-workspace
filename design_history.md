@@ -1,7 +1,15 @@
+- [01-04-26] Generated Design-153 (THE GRAFFITI-GLITCH MANTLE) and Design-154 (THE KINETIC CO-ORD ILLUSION).
+- Research: 2026 Trends focus on Expressive Urbanism (Graffiti-Glitch) and Primary-Pop Layering (Co-ord Illusions).
+- Duplication Check: Designs confirmed unique (no technical blocks, no Sector 6ix, no coordinates, no 'Ops T-Dot').
+- File: designs/Design-153-154-010426.md
 - [31-03-26] Generated Design-151 (THE NEON-SCRIBBLE CHASSIS) and Design-152 (THE PRIMARY KINETIC-SLING).
 - Research: 2026 Trends focus on Expressive Technicality (Digital Graffiti) and Primary-Pop (High-Velocity Slings).
 - Duplication Check: Designs confirmed unique (no technical blocks, no Sector 6ix, no coordinates, no 'Ops T-Dot').
 - File: designs/Design-151-152-310326.md
+- [01-04-26] Generated Design-153 (THE IRIDESCENT NEBULA-PULSE) and Design-154 (THE SCULPTURAL KINETIC-VANE).
+- Research: 2026 Trends focus on iridescent neutral-to-tech color shifts and bold, sculptural kinetic "vanes" that follow anatomical lines.
+- Duplication Check: Designs confirmed unique (no technical blocks, no Sector 6ix, no coordinates, no 'Ops T-Dot').
+- File: designs/Design-153-154-010426.md
 - [31-03-26] Generated Design-149 (THE PHANTOM-SEAM PULSE) and Design-150 (THE OXIDIZED LIQUID-BRASS).
 - Research: 2026 Trends focus on 1px-thin high-density 'Phantom Seams' (Clear Gloss) and 'Industrial Luxury' via 3D molten metallic (Oxidized Brass).
 - Duplication Check: Designs confirmed unique (no technical blocks, no Sector 6ix, no coordinates, no 'Ops T-Dot').
