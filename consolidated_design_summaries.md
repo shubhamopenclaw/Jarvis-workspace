@@ -278,6 +278,20 @@
 - **Ink**: "Electric Cobalt" (High-Opacity) + "Industrial Silver" Metallic + "Porous Mesh" Stencil Texture.
 - **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of a 'Cement Grey' 300 GSM heavyweight t-shirt. 'Kinetic Mesh-Infusion' graphic in Electric Cobalt and Industrial Silver mapping the right shoulder and chest. The ink has a 'Porous Mesh' stencil texture, simulating high-performance ventilation. Industrial silver ALPHANIX vertically integrated into the chest block. 8k.
 
+# [01-04-26] Drop: Oblique Monoliths & Kinetic Shadow-Wraps
+
+## Design-155: THE OBLIQUE MONOLITH
+- **Vibe**: 2026 Brutalist Utility / Vertical Asymmetry. Extreme scale and negative space.
+- **Placement**: Massive Left-Side Vertical Wordmark (Bottom Hem to Mid-Chest).
+- **Ink**: Concrete Gray (High-Density Puff) on Carbon Black.
+- **Gemini Prompt (Studio Shot)**: Professional studio photograph of a 'Carbon Black' 240 GSM luxury oversized t-shirt. A massive vertical 'ALPHANIX' wordmark in 'Concrete Gray' high-density puff print runs from the bottom-left hem up to the mid-chest, perfectly aligned with the side seam. Blocky, brutalist typography. 8k.
+
+## Design-156: THE KINETIC SHADOW-WRAP
+- **Vibe**: 2026 Stealth Performance / Motion-Blur. Anatomical torque and tonal depth.
+- **Placement**: 270-degree Wrap (Right Kidney to Front-Left Shoulder).
+- **Ink**: Matte Black (Base) + Gloss Black (Shatter-Gradient) on Void Black.
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. A 270-degree 'Kinetic Shadow-Wrap' graphic in Black-on-Black (Matte and Gloss) curves from the right kidney across the ribs to the front-left shoulder. The 'ALPHANIX' wordmark is distorted into a high-speed motion-blur shatter pattern. 8k.
+
 # [01-04-26] Drop: Graffiti-Glitch & Kinetic Co-ord Illusions
 
 ## Design-153: THE GRAFFITI-GLITCH MANTLE
@@ -391,6 +405,20 @@
 - **Gemini Prompt (Studio Shot)**: High-angle rear-view minimalist studio photograph of a 'Bone' Off-White 300 GSM heavyweight boxy t-shirt. Raised 3mm 'Industrial Charcoal' matte silicone 'mantle' mapping the collar and traps. 8k.
 
 # Consolidated Design Summaries - ALPHANIX
+
+## [02-04-26] Drop: Primary Neons & Anatomical Piping
+
+## Design-157: THE NEON-STRAP ARCHITECT
+- **Vibe**: 2026 "Primary-Pop" / High-Vis Utility. A brutalist take on the classic harness aesthetic, utilizing bold neon colors and thick, architectural linework.
+- **Placement**: Symmetrical "Double-Harness" (Shoulder-to-Sternum) + Massive 360-degree Bicep "Tension-Rings".
+- **Ink**: Neon Electric Red (High-Density 3mm Silicone) + Primary Cobalt Blue (Matte Base-Layer).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. Raised 3mm 'Neon Electric Red' silicone straps mapping the shoulders to a central chest block. Underneath, a wide 'Primary Cobalt Blue' matte band wraps the biceps. 8k.
+
+## Design-158: THE KINETIC SEAM-BURST
+- **Vibe**: 2026 "Gym-to-Street" Expressive Urbanism / Digital Motion. Capturing the moment of peak velocity through shattered anatomical lines.
+- **Placement**: Asymmetrical Lateral "Explosion" (Left Ribcage to Left Sleeve).
+- **Ink**: Neon Solar-Yellow (Matte) + Industrial Charcoal (Heavy-Crackle) + 3D Clear "Liquid Silicone" (Shatter-Accents).
+- **Gemini Prompt (Studio Shot)**: Side-profile dynamic studio photograph of a 'Stone Grey' 300 GSM heavyweight boxy t-shirt. Aggressive, shattered explosion of 'Neon Solar-Yellow' and 'Industrial Charcoal' (Heavy-Crackle) radiating from the left side-seam. 8k.
 
 ## [29-03-26] Drop: Primary Fluidity & Architectural Negative-Space
 
