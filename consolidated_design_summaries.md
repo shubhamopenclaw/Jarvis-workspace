@@ -406,6 +406,20 @@
 
 # Consolidated Design Summaries - ALPHANIX
 
+## [02-04-26] Drop: G-Shock Utilitarianism & Kinetic Neon-Shatter
+
+## Design-159: THE CHRONO-DIGITAL MANTLE
+- **Vibe**: 2026 "Neo-Vintage" Industrial / G-Shock Aesthetic. Borrowing the rugged, octagonal language of classic 2000s sports watches and translating it into a high-spec shoulder-to-chest frame. No coordinates, no technical blocks—just pure architectural branding.
+- **Placement**: Massive 360-degree Collar-to-Shoulder "Mantle" + Symmetrical "Module-Blocks" on Upper-Delts.
+- **Ink**: Industrial Charcoal (3mm High-Density Matte Silicone) + 'Reflective Graphite' (Micro-Linework) + 3D Clear "Liquid Silicone" (Screen-Glaze Accents).
+- **Gemini Prompt (Studio Shot)**: High-angle front-diagonal professional studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. A massive, octagonal 'CHRONO-DIGITAL MANTLE' in 3mm raised 'Industrial Charcoal' silicone maps the collar and shoulders. Fine 'Reflective Graphite' lines mimic rugged watch-casing details. The 'ALPHANIX' wordmark is embossed in a thick, LCD-style font on the center sternum, topped with a high-gloss 3D clear 'Liquid Silicone' glaze. 8k.
+
+## Design-160: THE KINETIC PRIMARY-BURST
+- **Vibe**: 2026 "Primary-Pop" Expressive Urbanism / High-Velocity Motion. A departure from structured geometry, focusing on the raw energy of color clashing (Cobalt/Red) through a shattered anatomical lens.
+- **Placement**: Massive Asymmetrical 270-degree "Burst" (Right Shoulder-Cap to Center Chest to Left Hip).
+- **Ink**: Primary Cobalt Blue (Solid Matte) + Lava Red (Heavy-Crackle) + Neon Solar-Yellow (3D Micro-Stitch Accents).
+- **Gemini Prompt (Studio Shot)**: Front-view dynamic studio photograph of an 'Optic White' 300 GSM heavyweight boxy t-shirt. An aggressive, shattered 'KINETIC PRIMARY-BURST' graphic in 'Primary Cobalt Blue' and 'Lava Red' (Heavy-Crackle) explodes from the right shoulder and sweeps diagonally across the chest to the left hip. The 'ALPHANIX' wordmark is deconstructed into the shards, with tiny 'Neon Solar-Yellow' 3D micro-stitch lines at the impact points. 8k.
+
 ## [02-04-26] Drop: Primary Neons & Anatomical Piping
 
 ## Design-157: THE NEON-STRAP ARCHITECT
