@@ -406,6 +406,20 @@
 
 # Consolidated Design Summaries - ALPHANIX
 
+## [03-04-26] Drop: Neo-Grunge Distortion & Utility-Grip
+
+## Design-163: THE DISTORTED NEO-GRUNGE MANTLE
+- **Vibe**: 2026 Neo-Grunge / Industrial Distortion. A raw, high-energy evolution of the 90s aesthetic mixed with digital precision. Focuses on an "eroding" mantle that frames the upper body.
+- **Placement**: Massive Asymmetrical 360-degree "Eroded Mantle" (Left Shoulder to Center Chest).
+- **Ink**: Industrial Charcoal (Heavy-Crackle) + Electric Cyan (Digital-Spray) + 3D Clear "Liquid Silicone".
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. A massive 'Eroded Mantle' graphic in 'Industrial Charcoal' (Heavy-Crackle) and 'Electric Cyan' digital spray mapping the collar, left shoulder, and chest. 8k.
+
+## Design-164: THE KINETIC UTILITY-GRIP
+- **Vibe**: 2026 High-Tech Performance / Utility-Tactile. Inspired by performance footwear outsoles and tactical grip patterns, creating a functional, aggressive frame for the torso.
+- **Placement**: Symmetrical Lateral "Grip-Panels" (Mid-Rib to Bottom Hem) + Right Forearm.
+- **Ink**: Matte Obsidian (3mm High-Density Silicone) + Neon Solar-Yellow (Micro-Typography).
+- **Gemini Prompt (Studio Shot)**: Side-profile minimalist studio photograph of a 'Stone Grey' 300 GSM heavyweight boxy t-shirt. Raised 3mm 'Matte Obsidian' high-density silicone 'Grip-Panels' with a visible sand-grain texture mapping the side ribs. 8k.
+
 ## [03-04-26] Drop: Chromatic Suture & Neon-Flux
 
 ## Design-161: THE CHROMATIC-SUTURE MANTLE
