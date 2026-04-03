@@ -406,6 +406,20 @@
 
 # Consolidated Design Summaries - ALPHANIX
 
+## [03-04-26] Drop: Chromatic Suture & Neon-Flux
+
+## Design-161: THE CHROMATIC-SUTURE MANTLE
+- **Vibe**: 2026 Kinetic Sculpting / Primary Contrast. Focused on anatomical "suture" lines that trace the natural curves of the chest and shoulders.
+- **Placement**: Asymmetrical "Suture" Line (Left Collarbone to Right Side-Seam) + Diagonal Back Wrap.
+- **Ink**: Vibrant Cobalt Blue (3D Puff) + Reflective Silver (Micro-Typography).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal professional studio photograph of a 'Matte Black' 240 GSM luxury oversized t-shirt. A single, thick 'suture' line in 3D puff 'Vibrant Cobalt Blue' arcs across the chest from the left collarbone to the right side-seam. Micro-scale 'ALPHANIX' wordmark in 'Reflective Silver' runs parallel to the curve. 8k.
+
+## Design-162: THE NEON-FLUX VESTIGE
+- **Vibe**: 2026 Digital-Vibrant Urbanism / Gym-to-Street Evolution. High-energy digital shards that mimic the trailing light of high-velocity motion.
+- **Placement**: Extreme Side-Body "Climb" (Left Hem to Armpit) + Right Sleeve Back (Vertical Wordmark).
+- **Ink**: Electric Lime-to-Neon Red (Digital Gradient) + Deep Charcoal Matte (Tone-on-Tone).
+- **Gemini Prompt (Studio Shot)**: Side-profile dynamic studio photograph of a 'Charcoal Grey' 200 GSM boxy t-shirt. A series of abstract, geometric shards in an 'Electric Lime-to-Neon Red' digital gradient 'climbs' from the left bottom hem toward the armpit. The 'ALPHANIX' wordmark is vertically aligned on the back of the right sleeve in 'Deep Charcoal Matte' tone-on-tone ink. 8k.
+
 ## [02-04-26] Drop: G-Shock Utilitarianism & Kinetic Neon-Shatter
 
 ## Design-159: THE CHRONO-DIGITAL MANTLE
