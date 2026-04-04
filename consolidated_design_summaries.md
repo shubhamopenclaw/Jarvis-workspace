@@ -1,3 +1,17 @@
+# [04-04-26] Drop: Vintage Vestige & Neon-Flare Kinetic
+
+## Design-167: THE VINTAGE VESTIGE MANTLE
+- **Vibe**: 2026 Vintage Activewear x Grunge Goth / Worn-in Legacy.
+- **Placement**: Front Chest (Varsity Wordmark) + Back (Anatomical Goth-Butterfly).
+- **Ink**: Distressed Bone White + Cracked Screen-Print Grey.
+- **Gemini Prompt (Studio Shot)**: A professional studio shot of a 240 GSM Faded Charcoal oversized t-shirt. The front features an oversized, cracked 'ALPHANIX' wordmark in a 90s varsity font. The back has a large, hand-sketched Goth-Butterfly motif—an anatomical ribcage forming the wings, with 'ALPHANIX' integrated into the spine. 8k.
+
+## Design-168: THE NEON-FLARE KINETIC
+- **Vibe**: 2026 Urban Athletic / High-Velocity Side-Body motion.
+- **Placement**: Lower-Left Hem (Minimal Logo) + Side Panels (Motion-Blur Wrap) + Back Spine (Reflective Wordmark).
+- **Ink**: Electric Cobalt + Neon Lime (Digital Print) + Reflective Glass-Bead Silver.
+- **Gemini Prompt (Studio Shot)**: Side-profile dynamic studio photograph of a 'Deep Obsidian' 240 GSM luxury oversized t-shirt. Vibrant digital 'motion-blur' prints in Electric Cobalt and Neon Lime wrap from the back ribs to the front obliques. A vertical 'ALPHANIX' wordmark runs down the center-spine in reflective glass-bead silver ink. 8k.
+
 # [01-04-26] Drop: Iridescent Nebula & Sculptural Vanes
 
 ## Design-153: THE IRIDESCENT NEBULA-PULSE
