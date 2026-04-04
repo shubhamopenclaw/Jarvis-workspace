@@ -406,6 +406,20 @@
 
 # Consolidated Design Summaries - ALPHANIX
 
+## [04-04-26] Drop: Bio-Tactile Grip & Neon-Scribble
+
+## Design-165: THE KINETIC BIO-GRIP MANTLE
+- **Vibe**: 2026 High-Tech Performance / Bio-Tactile. High-density, sand-grain textured 'grip' patterns mapping the anatomical frame.
+- **Placement**: Massive Asymmetrical 270-degree "Grip-Mantle" (Right Shoulder to Left Ribs).
+- **Ink**: Matte Obsidian (3mm High-Density Silicone) + Electric Cobalt (Micro-Pulse).
+- **Gemini Prompt (Studio Shot)**: Front-diagonal dynamic studio photograph of a 'Void Black' 240 GSM luxury oversized t-shirt. A raised 3mm 'Grip-Mantle' in 'Matte Obsidian' silicone with sand-grain texture mapping the right shoulder to center chest. 8k.
+
+## Design-166: THE NEON-SCRIBBLE VESTIGE
+- **Vibe**: 2026 Expressive Urbanism / Digital-Graffiti. Hand-drawn, digital-spray "scribble" aesthetics with high-energy shatter accents.
+- **Placement**: Massive Asymmetrical 360-degree Wrap (Lower-Left Hem to Back-Right Scapula).
+- **Ink**: Neon Solar-Yellow (Digital-Spray) + Primary Red (Scribble) + 3D Clear "Liquid Silicone".
+- **Gemini Prompt (Studio Shot)**: Low-angle dynamic studio photograph of an 'Optic White' 300 GSM heavyweight t-shirt. Aggressive, multi-layered 'Scribble-Wrap' in Neon Solar-Yellow digital-spray and Primary Red hand-drawn lines rising from the lower-left hem. 8k.
+
 ## [03-04-26] Drop: Neo-Grunge Distortion & Utility-Grip
 
 ## Design-163: THE DISTORTED NEO-GRUNGE MANTLE
